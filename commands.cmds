@@ -1,0 +1,29 @@
+D:\ElDewrito\0.7.1\maps
+CreateModPackage 1 large
+ElDewritoCraft
+A Multiplayer Map Pack of 4 Destructible Minecraft Maps
+InfernoPlus & MtnDewIt
+0.1
+Multiplayer
+
+OpenCacheFile F:\Bruh\H3MCC\halocraft\village.map
+porttag *.scnr
+Exit
+
+OpenCacheFile F:\Bruh\H3MCC\halocraft\spleef.map
+porttag *.scnr
+Exit
+
+OpenCacheFile F:\Bruh\H3MCC\halocraft\mansion.map
+porttag *.scnr
+Exit
+
+OpenCacheFile F:\Bruh\H3MCC\halocraft\lockout.map
+porttag *.scnr
+Exit
+
+UpdateMapFiles F:\Bruh\H3MCC\halocraft\info
+
+AddModFiles "assets"
+
+SaveModPackage
