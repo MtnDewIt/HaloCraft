@@ -6,6 +6,11 @@ InfernoPlus & MtnDewIt
 0.1
 Multiplayer
 
+generateshader glvs shader
+generateshader glps shader
+generateshader explicit shadow_apply
+recompileshaders shader
+
 OpenCacheFile F:\Bruh\H3MCC\halocraft\village.map
 porttag *.scnr
 Exit
