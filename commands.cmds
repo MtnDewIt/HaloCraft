@@ -6,29 +6,38 @@ InfernoPlus & MtnDewIt
 0.1
 Multiplayer
 
-generateshader glvs shader
-generateshader glps shader
-generateshader explicit shadow_apply
-recompileshaders shader
+UpdateShaderData
+
+GenerateShader glps shader 
+GenerateShader glvs shader
+GenerateShader explicit shadow_apply
 
 OpenCacheFile F:\Bruh\H3MCC\halocraft\village.map
-porttag *.scnr
+PortTag !UpdateMapFiles *.scnr
 Exit
 
 OpenCacheFile F:\Bruh\H3MCC\halocraft\spleef.map
-porttag *.scnr
+PortTag !UpdateMapFiles *.scnr
 Exit
 
 OpenCacheFile F:\Bruh\H3MCC\halocraft\mansion.map
-porttag *.scnr
+PortTag !UpdateMapFiles *.scnr
 Exit
 
 OpenCacheFile F:\Bruh\H3MCC\halocraft\lockout.map
-porttag *.scnr
+PortTag !UpdateMapFiles *.scnr
 Exit
+
+edittag objects\block\shaders\discard.shader
+setfield ShaderProperties[0].TextureConstants[0].Bitmap objects\block\bitmaps\null.bitmap
+setfield ShaderProperties[0].Flags EnableAlphaTest
+savetagchanges
+exit
 
 UpdateMapFiles F:\Bruh\H3MCC\halocraft\info
 
 AddModFiles "assets"
 
 SaveModPackage
+
+ExitModPackage
