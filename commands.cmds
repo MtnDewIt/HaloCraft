@@ -1,4 +1,7 @@
-D:\ElDewrito\0.7.1\maps
+SetVariable BaseCachePath <insert_path_here>
+SetVariable CacheFilePath <insert_path_here>
+
+BaseCachePath\tags.dat
 CreateModPackage 1 large
 ElDewritoCraft
 A Multiplayer Map Pack of 4 Destructible Minecraft Maps
@@ -12,19 +15,19 @@ GenerateShader glps shader
 GenerateShader glvs shader
 GenerateShader explicit shadow_apply
 
-OpenCacheFile F:\Bruh\H3MCC\halocraft\village.map
+OpenCacheFile CacheFilePath\village.map
 PortTag !UpdateMapFiles *.scnr
 Exit
 
-OpenCacheFile F:\Bruh\H3MCC\halocraft\spleef.map
+OpenCacheFile CacheFilePath\spleef.map
 PortTag !UpdateMapFiles *.scnr
 Exit
 
-OpenCacheFile F:\Bruh\H3MCC\halocraft\mansion.map
+OpenCacheFile CacheFilePath\mansion.map
 PortTag !UpdateMapFiles *.scnr
 Exit
 
-OpenCacheFile F:\Bruh\H3MCC\halocraft\lockout.map
+OpenCacheFile CacheFilePath\lockout.map
 PortTag !UpdateMapFiles *.scnr
 Exit
 
@@ -34,7 +37,7 @@ setfield ShaderProperties[0].Flags EnableAlphaTest
 savetagchanges
 exit
 
-UpdateMapFiles F:\Bruh\H3MCC\halocraft\info
+UpdateMapFiles CacheFilePath\info
 
 AddModFiles "assets"
 
