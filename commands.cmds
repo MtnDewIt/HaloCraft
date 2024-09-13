@@ -1,19 +1,18 @@
-SetVariable BaseCachePath <insert_path_here>
+SetVariable ModDataPath <insert_path_here>
 SetVariable CacheFilePath <insert_path_here>
 
-BaseCachePath\tags.dat
 CreateModPackage 1 large
-ElDewritoCraft
-A Multiplayer Map Pack of 4 Destructible Minecraft Maps
-InfernoPlus & MtnDewIt
-0.1
-Multiplayer
+//ElDewritoCraft
+//A Multiplayer Map Pack of 4 Destructible Minecraft Maps and More!
+//InfernoPlus & MtnDewIt
+//0.1
+//Multiplayer
 
-UpdateShaderData
+//UpdateShaderData
 
-GenerateShader glps shader 
-GenerateShader glvs shader
-GenerateShader explicit shadow_apply
+//GenerateShader glps shader 
+//GenerateShader glvs shader
+//GenerateShader explicit shadow_apply
 
 OpenCacheFile CacheFilePath\village.map
 PortTag !UpdateMapFiles *.scnr
@@ -32,14 +31,220 @@ PortTag !UpdateMapFiles *.scnr
 Exit
 
 edittag objects\block\shaders\discard.shader
-setfield ShaderProperties[0].TextureConstants[0].Bitmap objects\block\bitmaps\null.bitmap
+//setfield ShaderProperties[0].TextureConstants[0].Bitmap objects\block\bitmaps\null.bitmap
+//setfield ShaderProperties[0].TextureConstants[3].Bitmap objects\block\bitmaps\null.bitmap
 setfield ShaderProperties[0].Flags EnableAlphaTest
 savetagchanges
 exit
 
+Createtag bitm
+Nametag * objects\weapons\minecraft_tnt\minecraft_tnt
+Savetagnames
+Edittag objects\weapons\minecraft_tnt\minecraft_tnt.bitm
+Importbitmap 0 ModDataPath\data\tnt_diffuse.dds
+Savetagchanges
+Exit
+Duplicatetag sound\vehicles\damage_effects\hum_damage_large.snd! sound\effe\minecraft_tnt\explosion
+Duplicatetag sound\vehicles\phantom\phantom_destroyed_lod.snd! sound\effe\minecraft_tnt\explosion_lod
+Savetagnames
+Edittag sound\effe\minecraft_tnt\explosion.snd!
+ImportSound raw ModDataPath\data\tnt_explode.mp3
+Setfield Playback.GainBase 5
+Setfield PitchRanges[0].Permutations[0].Gain 20
+Savetagchanges
+Exit
+Edittag sound\effe\minecraft_tnt\explosion_lod.snd!
+ImportSound raw ModDataPath\data\tnt_explode_lod.mp3
+Setfield Playback.GainBase 5
+Setfield PitchRanges[0].Permutations[0].Gain 15
+Savetagchanges
+Exit
+Duplicatetag fx\scenery_fx\explosions\human_explosion_huge\human_explosion_huge.effe fx\scenery_fx\explosions\human_explosion_huge\human_explosion_huge_scorpion
+Savetagnames
+Edittag objects\vehicles\scorpion\scorpion.model
+Setfield NewDamageInfo[0].DamageSections[1].InstantResponses[0].PrimaryTransitionEffect fx\scenery_fx\explosions\human_explosion_huge\human_explosion_huge_scorpion.effe
+Savetagchanges
+Exit
+Edittag fx\scenery_fx\explosions\human_explosion_huge\human_explosion_huge.effe
+Setfield Events[0].Parts[3].Type sound\effe\minecraft_tnt\explosion.snd!
+Setfield Events[0].Parts[4].Type sound\effe\minecraft_tnt\explosion_lod.snd!
+Savetagchanges
+Exit
+Duplicatetag objects\weapons\melee\energy_blade\shaders\energy_blade_illum.rmsh objects\weapons\melee\minecraft_tnt\minecraft_tnt
+Savetagnames
+Edittag objects\weapons\melee\minecraft_tnt\minecraft_tnt.rmsh
+Setfield ShaderProperties[0].TextureConstants[0].Bitmap objects\weapons\minecraft_tnt\minecraft_tnt.bitm
+SetArgument albedo_color 1 1 1 1
+SetArgument self_illum_color 0.15 0.15 0.15 0.15
+Savetagchanges
+Exit
+Edittag objects\weapons\multiplayer\assault_bomb\assault_bomb.render_model
+ReplaceRenderGeometry ModDataPath\data\tnt.dae
+Setfield Nodes[0].DefaultScale 0.55
+Setfield Nodes[0].InversePosition 0 0 -0.04
+Setfield Materials[0].RenderMethod objects\weapons\melee\minecraft_tnt\minecraft_tnt.rmsh
+Setfield Materials[1].RenderMethod objects\weapons\melee\minecraft_tnt\minecraft_tnt.rmsh
+Savetagchanges
+Exit
+Edittag objects\weapons\multiplayer\assault_bomb\fp_assault_bomb\fp_assault_bomb.render_model
+ReplaceRenderGeometry ModDataPath\data\tnt_fp.dae
+Setfield Nodes[0].DefaultScale 0.4
+Setfield Nodes[0].InversePosition 0.001 -0.03 -0.009
+Setfield Materials[0].RenderMethod objects\weapons\melee\minecraft_tnt\minecraft_tnt.rmsh
+Savetagchanges
+Exit
+Edittag objects\weapons\multiplayer\assault_bomb\assault_bomb.model
+Setfield LodModel null
+Savetagchanges
+Exit
+
+Createtag bitm
+Nametag * objects\weapons\minecraft_grassblock\minecraft_grassblock
+Savetagnames
+Edittag objects\weapons\minecraft_grassblock\minecraft_grassblock.bitm
+Importbitmap 0 ModDataPath\data\grassblock_diffuse.dds
+Savetagchanges
+Exit
+Duplicatetag objects\weapons\melee\energy_blade\shaders\energy_blade_illum.rmsh objects\weapons\melee\minecraft_grassblock\minecraft_grassblock
+Savetagnames
+Edittag objects\weapons\melee\minecraft_grassblock\minecraft_grassblock.rmsh
+Setfield ShaderProperties[0].TextureConstants[0].Bitmap objects\weapons\minecraft_grassblock\minecraft_grassblock.bitm
+SetArgument albedo_color 1 1 1 1
+SetArgument self_illum_color 0.15 0.15 0.15 0.15
+Savetagchanges
+Exit
+Edittag objects\weapons\multiplayer\ball\ball.render_model
+ReplaceRenderGeometry ModDataPath\data\grassblock.dae
+Setfield Nodes[0].DefaultScale 3.1
+Setfield Nodes[0].InversePosition 0 0.03200751 -0.01230588
+Setfield Materials[0].RenderMethod objects\weapons\melee\minecraft_grassblock\minecraft_grassblock.rmsh
+Savetagchanges
+Exit
+Edittag objects\weapons\multiplayer\ball\fp_ball\fp_ball.render_model
+ReplaceRenderGeometry ModDataPath\data\grassblock_fp.dae
+Setfield Nodes[0].DefaultScale 2.3
+Setfield Nodes[0].InversePosition 0.01 0 -0.01
+Setfield Materials[0].RenderMethod objects\weapons\melee\minecraft_grassblock\minecraft_grassblock.rmsh
+Savetagchanges
+Exit
+Edittag objects\weapons\multiplayer\ball\ball.model
+Setfield LodModel null
+Savetagchanges
+Exit
+
+Createtag bitm
+Nametag * objects\weapons\melee\diamond_axe\bitmaps\diffuse
+Savetagnames
+Edittag objects\weapons\melee\diamond_axe\bitmaps\diffuse.bitm
+Importbitmap 0 ModDataPath\data\axe_diffuse.dds
+Savetagchanges
+Exit
+Duplicatetag objects\weapons\melee\energy_blade\fp_energy_blade\fp_energy_blade.render_model objects\weapons\melee\diamond_axe\diamond_axe
+Duplicatetag objects\weapons\melee\energy_blade\shaders\energy_blade_illum.rmsh objects\weapons\melee\diamond_axe\diamond_axe\shaders\diffuse
+Savetagnames
+Edittag objects\weapons\melee\diamond_axe\diamond_axe\shaders\diffuse.rmsh
+Setfield ShaderProperties[0].TextureConstants[0].Bitmap objects\weapons\melee\diamond_axe\bitmaps\diffuse.bitm
+SetArgument albedo_color 1 1 1 1
+SetArgument self_illum_color 0.1 0.1 0.1 0.1
+Savetagchanges
+Exit
+Edittag objects\weapons\melee\diamond_axe\diamond_axe.render_model
+ReplaceRenderGeometry ModDataPath\data\axe_3p.dae
+Setfield Nodes[0].Name hammer
+Setfield Nodes[1].Name shaft
+Setfield Nodes[1].DefaultScale 1
+Setfield RuntimeNodeOrientations[0].Translation 0 0.005 0
+Setfield Materials[0].RenderMethod objects\weapons\melee\diamond_axe\diamond_axe\shaders\diffuse.rmsh
+Setfield Materials[1].RenderMethod objects\weapons\melee\diamond_axe\diamond_axe\shaders\diffuse.rmsh
+Savetagchanges
+Exit
+Edittag objects\weapons\melee\gravity_hammer\gravity_hammer.model
+Setfield RenderModel objects\weapons\melee\diamond_axe\diamond_axe.render_model
+Setfield LodModel null
+Savetagchanges
+Exit
+Edittag objects\weapons\melee\gravity_hammer\fp_gravity_hammer\fp_gravity_hammer.render_model
+Copyblockelements MarkerGroups 0 *
+Exit
+Duplicatetag objects\weapons\melee\energy_blade\fp_energy_blade\fp_energy_blade.render_model
+Nametag * objects\weapons\melee\diamond_axe\fp_diamond_axe\fp_diamond_axe
+Savetagnames
+Edittag objects\weapons\melee\diamond_axe\fp_diamond_axe\fp_diamond_axe.render_model
+ReplaceRenderGeometry ModDataPath\data\axe.dae
+Removeblockelements MarkerGroups 0 *
+Pasteblockelements MarkerGroups
+Setfield Nodes[0].DefaultTranslation 0.006102035 -0.02029557 0.02489493
+Setfield Nodes[0].InversePosition 0.006 0.02 0.04
+Setfield Nodes[0].Name hammer
+Setfield Nodes[1].Name shaft
+Setfield Nodes[1].DefaultScale 0
+Setfield Materials[0].RenderMethod objects\weapons\melee\diamond_axe\diamond_axe\shaders\diffuse.rmsh
+Setfield Materials[1].RenderMethod objects\weapons\melee\diamond_axe\diamond_axe\shaders\diffuse.rmsh
+Savetagchanges
+Exit
+Edittag objects\weapons\melee\gravity_hammer\gravity_hammer.weapon
+Setfield FirstPerson[0].FirstPersonModel objects\weapons\melee\diamond_axe\fp_diamond_axe\fp_diamond_axe.render_model
+Savetagchanges
+Exit
+
+Createtag bitm
+Nametag * objects\weapons\melee\minecraft_pickaxe\bitmaps\diffuse
+Savetagnames
+Edittag objects\weapons\melee\minecraft_pickaxe\bitmaps\diffuse.bitm
+Importbitmap 0 ModDataPath\data\pickaxe_diffuse.dds
+Savetagchanges
+Exit
+Duplicatetag objects\weapons\melee\energy_blade\fp_energy_blade\fp_energy_blade.render_model objects\weapons\melee\energy_blade\energy_blade
+Savetagnames
+Edittag objects\weapons\melee\energy_blade\energy_blade.model
+Setfield RenderModel objects\weapons\melee\energy_blade\energy_blade.render_model
+Savetagchanges
+Exit
+Edittag objects\weapons\melee\energy_blade\energy_blade.render_model
+ReplaceRenderGeometry ModDataPath\data\pickaxe.dae
+Setfield Nodes[0].InversePosition 0 0 0
+Setfield Nodes[1].DefaultScale 0
+Setfield RuntimeNodeOrientations[0].Rotation 0 -0.2 0 1
+Setfield RuntimeNodeOrientations[0].Translation 0.04 0 0.12
+Setfield Materials[0].RenderMethod objects\weapons\melee\energy_blade\shaders\energy_blade_illum.rmsh
+Setfield Materials[1].RenderMethod objects\weapons\melee\energy_blade\shaders\energy_blade_illum.rmsh
+Savetagchanges
+Exit
+Edittag objects\weapons\melee\energy_blade\fp_energy_blade\fp_energy_blade.render_model
+ReplaceRenderGeometry ModDataPath\data\pickaxe.dae
+Setfield Nodes[0].InversePosition 0.075 0 0.1
+Setfield Nodes[0].DefaultScale 0.9
+Setfield Nodes[1].DefaultScale 0
+Setfield Materials[0].RenderMethod objects\weapons\melee\energy_blade\shaders\energy_blade_illum.rmsh
+Setfield Materials[1].RenderMethod objects\weapons\melee\energy_blade\shaders\energy_blade_illum.rmsh
+Savetagchanges
+Exit
+Edittag objects\weapons\melee\energy_blade\shaders\energy_blade_illum.rmsh
+Setfield ShaderProperties[0].TextureConstants[0].Bitmap objects\weapons\melee\minecraft_pickaxe\bitmaps\diffuse.bitm
+SetArgument albedo_color 1 1 1 1
+SetArgument self_illum_color 0.1 0.1 0.1 0.1
+Savetagchanges
+Exit
+Edittag objects\weapons\melee\energy_blade\fx\blade_activate.effe
+Removeblockelements Events 1 *
+Savetagchanges
+Exit
+Edittag objects\weapons\melee\energy_blade\energy_blade.weap
+Removeblockelements Functions 2
+Setfield Attachments[2].Type null
+Setfield Attachments[4].Type null
+Setfield UnitStowAnchorName weapon_back
+Savetagchanges
+Exit
+Edittag objects\weapons\melee\energy_blade\unarmed.weap
+Setfield FirstPerson[0].FirstPersonModel objects\weapons\melee\energy_blade\energy_blade.render_model
+Setfield UnitStowAnchorName weapon_back
+Savetagchanges
+Exit
+
 UpdateMapFiles CacheFilePath\info
 
-AddModFiles "assets"
+AddModFiles ModDataPath\assets
 
 SaveModPackage
 
