@@ -50,13 +50,6 @@ CompileScripts ModDataPath\data\scripts\lockout.hsc
 SaveTagChanges
 Exit
 
-EditTag objects\block\shaders\discard.shader
-SetField ShaderProperties[0].TextureConstants[0].Bitmap objects\block\bitmaps\null.bitmap
-SetField ShaderProperties[0].TextureConstants[2].Bitmap objects\block\bitmaps\null.bitmap
-SetField ShaderProperties[0].Flags EnableAlphaTest
-SaveTagChanges
-Exit
-
 UpdateMapFiles CacheFilePath\info
 
 AddModFiles ModDataPath\assets
