@@ -2,9 +2,9 @@ SetVariable ModDataPath <insert_path_here>
 SetVariable CacheFilePath <insert_path_here>
 
 CreateModPackage 1 large
-//ElDewritoCraft
+//HaloCraft
 //A Multiplayer Map Pack of 4 Destructible Minecraft Maps and More!
-//InfernoPlus & MtnDewIt
+//MtnDewIt
 //0.1
 //Multiplayer
 
@@ -12,7 +12,6 @@ UpdateShaderData
 
 GenerateShader glps shader 
 GenerateShader glvs shader
-GenerateShader explicit shadow_apply
 
 OpenCacheFile CacheFilePath\village.map
 PortTag !UpdateMapFiles *.scnr
