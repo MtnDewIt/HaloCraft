@@ -90,9 +90,6 @@
 
 (script startup void sign_randomizer
 	(sleep 1)
-	(object_function_set 0 (real_random_range 0 1))
-	(object_function_set 1 (real_random_range 0 1))
-	(object_function_set 2 (real_random_range 0 1))
 	(mp_wake_script mp_sign_randomizer)
 )
 

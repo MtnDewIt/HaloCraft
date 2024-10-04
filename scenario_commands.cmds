@@ -1,0 +1,210 @@
+EditTag levels\multi\village\village.scenario
+AddBlockElements CutsceneCameraPoints
+SetField CutsceneCameraPoints[0].Position 4.4265 4.1368 4.3499
+SetField CutsceneCameraPoints[0].Orientation -134.2160 6.5301 6.6665
+SetField CutsceneCameraPoints[1].Name "podium_camera"
+SetField CutsceneCameraPoints[1].Position -1.1663 -4.9698 0.8042
+SetField CutsceneCameraPoints[1].Orientation 90 0 0
+SetField CutsceneCameraPoints[1].Flags PodiumCameraHack
+CompileScripts ModDataPath\data\scripts\village.hsc
+CompilePodiumScripts
+SaveTagChanges
+Exit
+
+EditTag levels\multi\spleef\spleef.scenario
+AddBlockElements CutsceneCameraPoints
+SetField CutsceneCameraPoints[0].Position -12.0048 11.9689 7.0545
+SetField CutsceneCameraPoints[0].Orientation -45.7152 -9.0782 9.1892
+SetField CutsceneCameraPoints[1].Name "podium_camera"
+SetField CutsceneCameraPoints[1].Position 5.8434 1.5435 0.0155
+SetField CutsceneCameraPoints[1].Orientation 180 0 0
+SetField CutsceneCameraPoints[1].Flags PodiumCameraHack
+CompileScripts ModDataPath\data\scripts\spleef.hsc
+CompilePodiumScripts
+SaveTagChanges
+Exit
+
+EditTag levels\multi\mansion\mansion.scenario
+AddBlockElements CutsceneCameraPoints
+SetField CutsceneCameraPoints[0].Position 2.0768 6.1988 0.8287
+SetField CutsceneCameraPoints[0].Orientation 89.8721 0.0284 12.5221
+SetField CutsceneCameraPoints[1].Name "podium_camera"
+SetField CutsceneCameraPoints[1].Position 1.5705 14.0307 0.2126
+SetField CutsceneCameraPoints[1].Orientation -180 0 0
+SetField CutsceneCameraPoints[1].Flags PodiumCameraHack
+SetField Scenery[0].PaletteIndex 50
+SetField Scenery[1].PaletteIndex 9
+SetField Scenery[2].PaletteIndex 9
+SetField Scenery[3].PaletteIndex 9
+SetField Scenery[4].PaletteIndex 8
+SetField Scenery[5].PaletteIndex 8
+SetField Scenery[6].PaletteIndex 8
+SetField Scenery[7].PaletteIndex 8
+SetField Scenery[8].PaletteIndex 8
+SetField Scenery[9].PaletteIndex 8
+SetField Scenery[10].PaletteIndex 8
+SetField Scenery[11].PaletteIndex 8
+SetField Scenery[12].PaletteIndex 8
+SetField Scenery[13].PaletteIndex 8
+SetField Scenery[14].PaletteIndex 8
+SetField Scenery[15].PaletteIndex 8
+SetField Scenery[16].PaletteIndex 8
+SetField Scenery[17].PaletteIndex 8
+SetField Scenery[18].PaletteIndex 8
+SetField Scenery[19].PaletteIndex 5
+SetField Scenery[20].PaletteIndex 5
+SetField Scenery[21].PaletteIndex 5
+SetField Scenery[22].PaletteIndex 5
+SetField Scenery[23].PaletteIndex 7
+SetField Scenery[24].PaletteIndex 7
+SetField Scenery[25].PaletteIndex 7
+SetField Scenery[26].PaletteIndex 7
+SetField Scenery[27].PaletteIndex 7
+SetField Scenery[28].PaletteIndex 7
+SetField Scenery[29].PaletteIndex 7
+SetField Scenery[30].PaletteIndex 7
+SetField Scenery[31].PaletteIndex 7
+SetField Scenery[32].PaletteIndex 7
+SetField Scenery[33].PaletteIndex 3
+SetField Scenery[34].PaletteIndex 3
+SetField Scenery[35].PaletteIndex 3
+SetField Scenery[36].PaletteIndex 3
+SetField Scenery[37].PaletteIndex 10
+SetField Scenery[38].PaletteIndex 10
+SetField Scenery[39].PaletteIndex 10
+SetField Scenery[40].PaletteIndex 10
+SetField Scenery[41].PaletteIndex 10
+SetField Scenery[42].PaletteIndex 10
+SetField Scenery[43].PaletteIndex 10
+SetField Scenery[44].PaletteIndex 0
+SetField Scenery[45].PaletteIndex 0
+SetField Scenery[46].PaletteIndex 0
+SetField Scenery[47].PaletteIndex 0
+SetField Scenery[48].PaletteIndex 0
+SetField Scenery[49].PaletteIndex 0
+SetField Scenery[50].PaletteIndex 0
+SetField Scenery[51].PaletteIndex 0
+SetField Scenery[52].PaletteIndex 0
+SetField Scenery[53].PaletteIndex 0
+SetField Scenery[54].PaletteIndex 45
+SetField Scenery[55].PaletteIndex 45
+SetField Scenery[56].PaletteIndex 46
+SetField Scenery[57].PaletteIndex 46
+SetField Scenery[58].PaletteIndex 47
+SetField Scenery[59].PaletteIndex 47
+SetField Scenery[60].PaletteIndex 6
+SetField Scenery[61].PaletteIndex 6
+SetField Scenery[62].PaletteIndex 6
+SetField Scenery[63].PaletteIndex 6
+SetField Scenery[64].PaletteIndex 6
+SetField Scenery[65].PaletteIndex 4
+SetField Scenery[66].PaletteIndex 4
+SetField Scenery[67].PaletteIndex 1
+SetField Scenery[68].PaletteIndex 1
+SetField Scenery[69].PaletteIndex 1
+SetField Scenery[70].PaletteIndex 1
+SetField Scenery[71].PaletteIndex 1
+SetField Scenery[72].PaletteIndex 1
+SetField Scenery[73].PaletteIndex 1
+SetField Scenery[74].PaletteIndex 1
+SetField Scenery[75].PaletteIndex 1
+SetField Scenery[76].PaletteIndex 1
+SetField Scenery[77].PaletteIndex 1
+SetField Scenery[78].PaletteIndex 1
+SetField Scenery[79].PaletteIndex 1
+SetField Scenery[80].PaletteIndex 1
+SetField Scenery[81].PaletteIndex 1
+SetField Scenery[82].PaletteIndex 1
+SetField Scenery[83].PaletteIndex 1
+SetField Scenery[84].PaletteIndex 1
+SetField Scenery[85].PaletteIndex 1
+SetField Scenery[86].PaletteIndex 1
+SetField Scenery[87].PaletteIndex 1
+SetField Scenery[88].PaletteIndex 1
+SetField Scenery[89].PaletteIndex 1
+SetField Scenery[90].PaletteIndex 13
+SetField Scenery[91].PaletteIndex 11
+SetField Scenery[92].PaletteIndex 11
+SetField Scenery[93].PaletteIndex 12
+SetField Scenery[94].PaletteIndex 52
+SetField Scenery[95].PaletteIndex 21
+SetField Scenery[96].PaletteIndex 21
+SetField Scenery[97].PaletteIndex 21
+SetField Scenery[98].PaletteIndex 21
+SetField Scenery[99].PaletteIndex 21
+SetField Scenery[100].PaletteIndex 21
+SetField Scenery[101].PaletteIndex 21
+SetField Scenery[102].PaletteIndex 21
+SetField Scenery[103].PaletteIndex 21
+SetField Scenery[104].PaletteIndex 21
+SetField Scenery[105].PaletteIndex 21
+SetField Scenery[106].PaletteIndex 21
+SetField Scenery[107].PaletteIndex 21
+SetField Scenery[108].PaletteIndex 21
+SetField Scenery[109].PaletteIndex 21
+SetField Scenery[110].PaletteIndex 21
+SetField Scenery[111].PaletteIndex 21
+SetField Scenery[112].PaletteIndex 21
+SetField Scenery[113].PaletteIndex 21
+SetField Scenery[114].PaletteIndex 21
+SetField Scenery[115].PaletteIndex 21
+SetField Scenery[116].PaletteIndex 21
+SetField Scenery[117].PaletteIndex 53
+SetField Scenery[118].PaletteIndex 53
+SetField Scenery[119].PaletteIndex 54
+SetField Scenery[120].PaletteIndex 54
+SetField Scenery[121].PaletteIndex 55
+SetField Scenery[122].PaletteIndex 55
+SetField Scenery[123].PaletteIndex 12
+SetField Scenery[124].PaletteIndex 15
+SetField Scenery[125].PaletteIndex 15
+SetField Scenery[126].PaletteIndex 48
+SetField Scenery[127].PaletteIndex 48
+SetField Scenery[128].PaletteIndex 48
+SetField Scenery[129].PaletteIndex 48
+SetField Scenery[130].PaletteIndex 48
+SetField Scenery[131].PaletteIndex 48
+SetField Scenery[132].PaletteIndex 48
+SetField Scenery[133].PaletteIndex 48
+SetField Scenery[134].PaletteIndex 48
+SetField Scenery[135].PaletteIndex 14
+SetField Scenery[136].PaletteIndex 19
+SetField Scenery[137].PaletteIndex 19
+SetField Scenery[138].PaletteIndex 19
+SetField Scenery[139].PaletteIndex 19
+SetField Scenery[140].PaletteIndex 19
+SetField Scenery[141].PaletteIndex 19
+SetField Scenery[142].PaletteIndex 19
+SetField Scenery[143].PaletteIndex 17
+SetField Scenery[144].PaletteIndex 17
+SetField Scenery[145].PaletteIndex 17
+SetField Scenery[146].PaletteIndex 17
+SetField Scenery[147].PaletteIndex 17
+SetField Scenery[148].PaletteIndex 17
+SetField Scenery[149].PaletteIndex 17
+SetField Scenery[150].PaletteIndex 17
+SetField Scenery[151].PaletteIndex 49
+SetField Scenery[152].PaletteIndex 49
+SetField Scenery[153].PaletteIndex 51
+SetField Scenery[154].PaletteIndex 51
+SetField Scenery[155].PaletteIndex 23
+SetField Scenery[156].PaletteIndex 51
+SetField Scenery[157].PaletteIndex 51
+SetField Scenery[158].PaletteIndex 19
+CompileScripts ModDataPath\data\scripts\mansion.hsc
+CompilePodiumScripts
+SaveTagChanges
+Exit
+
+EditTag levels\multi\lockout\lockout.scenario
+AddBlockElements CutsceneCameraPoints
+SetField CutsceneCameraPoints[0].Position 7.9310 7.8729 4.2883
+SetField CutsceneCameraPoints[0].Orientation -133.2651 14.8102 15.1942
+SetField CutsceneCameraPoints[1].Name "podium_camera"
+SetField CutsceneCameraPoints[1].Position -0.4 -4.4916 1.8447
+SetField CutsceneCameraPoints[1].Orientation -90 0 0
+SetField CutsceneCameraPoints[1].Flags PodiumCameraHack
+CompileScripts ModDataPath\data\scripts\lockout.hsc
+CompilePodiumScripts
+SaveTagChanges
+Exit

@@ -1,0 +1,79 @@
+OpenCacheFile CacheFilePath\village.map
+
+IgnoreBlamTag objects\equipment\autoturret_equipment\autoturret_equipment.equipment
+IgnoreBlamTag objects\weapons\rifle\smg_silenced\smg_silenced.weapon
+IgnoreBlamTag objects\weapons\pistol\automag\automag.weapon
+IgnoreBlamTag objects\weapons\rifle\plasma_rifle_red\plasma_rifle_red.weapon
+IgnoreBlamTag objects\powerups\pistol_ammo\pistol_ammo.equipment
+
+PortTag !UpdateMapFiles !ForgePalette *.scnr
+Exit
+
+
+OpenCacheFile CacheFilePath\spleef.map
+
+IgnoreBlamTag objects\weapons\rifle\smg_silenced\smg_silenced.weapon
+IgnoreBlamTag objects\weapons\pistol\automag\automag.weapon
+IgnoreBlamTag objects\weapons\rifle\plasma_rifle_red\plasma_rifle_red.weapon
+IgnoreBlamTag objects\powerups\pistol_ammo\pistol_ammo.equipment
+
+PortTag !UpdateMapFiles !ForgePalette *.scnr
+
+Exit
+
+
+OpenCacheFile CacheFilePath\mansion.map
+
+IgnoreBlamTag \\objects\block\wood\torch_wall\torch_wall.scenery 
+IgnoreBlamTag \objects\block\dark_wood\dark_wood_archway\dark_wood_archway.scenery
+IgnoreBlamTag \objects\block\dark_wood\dark_wood_wall\dark_wood_wall.scenery
+IgnoreBlamTag \objects\block\dark_wood\dark_wood_wall_double\dark_wood_wall_double.scenery
+IgnoreBlamTag \objects\block\dark_wood\dark_wood_wall_double_pattern\dark_wood_wall_double_pattern.scenery
+IgnoreBlamTag \objects\block\dark_wood\dark_wood_wall_double_pattern_r\dark_wood_wall_double_pattern_r.scenery
+IgnoreBlamTag \objects\block\dark_wood\dark_wood_wall_double_r\dark_wood_wall_double_r.scenery
+IgnoreBlamTag \objects\block\dark_wood\dark_wood_wall_pattern\dark_wood_wall_pattern.scenery
+IgnoreBlamTag \objects\block\dark_wood\dark_wood_wall_pattern_r\dark_wood_wall_pattern_r.scenery
+IgnoreBlamTag \objects\block\dark_wood\torch_post_double\torch_post_double.scenery
+IgnoreBlamTag \objects\block\dark_wood\window_overhang\window_overhang.scenery
+IgnoreBlamTag \objects\block\glass\window\window.scenery
+IgnoreBlamTag \objects\block\shadow\walls\walls.scenery
+IgnoreBlamTag \objects\block\wood\bookshelves\bookshelves.scenery
+IgnoreBlamTag \objects\block\wood\desk\desk.scenery
+IgnoreBlamTag \objects\block\wood\library_seat_one\library_seat_one.scenery
+IgnoreBlamTag \objects\block\wood\library_seat_two\library_seat_two.scenery
+IgnoreBlamTag \objects\block\wood\table\table.scenery
+IgnoreBlamTag \objects\block\wood\torch_wall\torch_wall.scenery
+IgnoreBlamTag \objects\block\wood\wall_desks\wall_desks.scenery
+IgnoreBlamTag \objects\block\wool\bed\bed.scenery
+IgnoreBlamTag objects\equipment\autoturret_equipment\autoturret_equipment.equipment
+IgnoreBlamTag objects\weapons\rifle\smg_silenced\smg_silenced.weapon
+IgnoreBlamTag objects\weapons\pistol\automag\automag.weapon
+IgnoreBlamTag objects\weapons\rifle\plasma_rifle_red\plasma_rifle_red.weapon
+IgnoreBlamTag objects\powerups\ammo_packs\ammo_large\ammo_large.equipment
+IgnoreBlamTag objects\powerups\ammo_packs\ammo_small\ammo_small.equipment
+IgnoreBlamTag objects\powerups\pistol_ammo\pistol_ammo.equipment
+
+PortTag !UpdateMapFiles !ForgePalette *.scnr
+
+NameTag \objects\block\dark_wood\dark_wood_wall_jail_1\dark_wood_wall_jail_1.scenery objects\block\dark_wood\dark_wood_wall_jail_1\dark_wood_wall_jail_1
+NameTag \objects\block\dark_wood\dark_wood_wall_jail_2\dark_wood_wall_jail_2.scenery objects\block\dark_wood\dark_wood_wall_jail_2\dark_wood_wall_jail_2
+NameTag \objects\block\dark_wood\dark_wood_wall_jail_3\dark_wood_wall_jail_3.scenery objects\block\dark_wood\dark_wood_wall_jail_3\dark_wood_wall_jail_3
+NameTag \objects\block\dark_wood\torch_post_double_dud\torch_post_double_dud.scenery objects\block\dark_wood\torch_post_double_dud\torch_post_double_dud
+NameTag \\objects\block\wood\torch_wall_double\torch_wall_double.scenery objects\block\wood\torch_wall_double\torch_wall_double
+NameTag \\objects\block\wood\torch_wall_dud\torch_wall_dud.scenery objects\block\wood\torch_wall_dud\torch_wall_dud
+
+SaveTagNames
+Exit
+
+
+OpenCacheFile CacheFilePath\lockout.map
+
+IgnoreBlamTag objects\equipment\autoturret_equipment\autoturret_equipment.equipment
+IgnoreBlamTag objects\weapons\rifle\smg_silenced\smg_silenced.weapon
+IgnoreBlamTag objects\weapons\pistol\automag\automag.weapon
+IgnoreBlamTag objects\weapons\rifle\plasma_rifle_red\plasma_rifle_red.weapon
+IgnoreBlamTag objects\powerups\pistol_ammo\pistol_ammo.equipment
+
+PortTag !UpdateMapFiles !ForgePalette *.scnr
+
+Exit

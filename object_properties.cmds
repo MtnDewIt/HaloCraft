@@ -1,0 +1,944 @@
+CreateTag phmo objects\block\flower\dandelion\dandelion
+CreateTag phmo objects\block\flower\poppy\poppy
+CreateTag phmo objects\block\glass\double\double
+CreateTag phmo objects\block\glass\single\single
+CreateTag phmo objects\block\glass\triple\triple
+CreateTag phmo objects\block\patron\sign_func_a\sign_func_a
+CreateTag phmo objects\block\patron\sign_func_b\sign_func_b
+CreateTag phmo objects\block\patron\sign_func_c\sign_func_c
+CreateTag phmo objects\block\shadow\house_big\house_big
+CreateTag phmo objects\block\shadow\house_small\house_small
+CreateTag phmo objects\block\shadow\lockout\lockout
+CreateTag phmo objects\block\shadow\roof\roof
+CreateTag phmo objects\block\shadow\roof_facade\roof_facade
+CreateTag phmo objects\block\shadow\spleef_platform\spleef_platform
+CreateTag phmo objects\block\shadow\spleef_structure\spleef_structure
+CreateTag phmo objects\block\shadow\walls\walls
+CreateTag phmo objects\block\slime\spleef_pads\spleef_pads
+CreateTag phmo objects\block\tall_grass\block\block
+CreateTag phmo objects\block\tall_grass\chunk\chunk
+CreateTag phmo objects\block\water\plane\plane
+CreateTag phmo objects\block\water\well\well
+CreateTag phmo objects\block\wood\sign\a\a
+CreateTag phmo objects\block\wood\sign\b\b
+CreateTag phmo objects\block\wood\sign\c\c
+CreateTag phmo objects\block\wood\torch\torch
+CreateTag phmo objects\block\wood\torch_wall\torch_wall
+
+EditTag objects\gear\covenant\military\cov_sword_holder\cov_sword_holder_invis.crate
+AddBlockElements MultiplayerObject 1
+SetField MultiplayerObject[0].Flags CandyMonitorShouldIgnore
+SetField MultiplayerObject[0].DefaultSpawnTime 30
+SetField MultiplayerObject[0].DefaultAbandonTime 30
+SaveTagChanges
+Exit
+
+EditTag objects\block\cobble\house_smith_roof\house_smith_roof.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\cobble\well\well.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\dark_wood_archway\dark_wood_archway.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\dark_wood_wall\dark_wood_wall.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\dark_wood_wall_double\dark_wood_wall_double.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\dark_wood_wall_double_pattern\dark_wood_wall_double_pattern.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\dark_wood_wall_double_pattern_r\dark_wood_wall_double_pattern_r.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\dark_wood_wall_double_r\dark_wood_wall_double_r.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\dark_wood_wall_jail_1\dark_wood_wall_jail_1.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\dark_wood_wall_jail_2\dark_wood_wall_jail_2.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\dark_wood_wall_jail_3\dark_wood_wall_jail_3.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\dark_wood_wall_pattern\dark_wood_wall_pattern.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\dark_wood_wall_pattern_r\dark_wood_wall_pattern_r.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\torch_post\torch_post.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\torch_post_double\torch_post_double.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\torch_post_double_dud\torch_post_double_dud.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\window_overhang\window_overhang.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dirt\block\block.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dirt\chunk_flat\chunk_flat.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dirt\chunk_small\chunk_small.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\flower\dandelion\dandelion.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\flower\poppy\poppy.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\blue\blue.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\blue_big\blue_big.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\blue_narrow\blue_narrow.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\blue_small\blue_small.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\double\double.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\part70\part70.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\part73\part73.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\red\red.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\red_big\red_big.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\red_narrow\red_narrow.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\red_small\red_small.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\single\single.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\triple\triple.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\white_big\white_big.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\white_huge\white_huge.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\white_large\white_large.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\white_small\white_small.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\glass\window\window.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\grass\block\block.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\grass\chunk_cube\chunk_cube.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\grass\chunk_flat\chunk_flat.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\grass\chunk_long\chunk_long.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\grass\chunk_long_narrow\chunk_long_narrow.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\grass\chunk_single\chunk_single.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\grass\chunk_small\chunk_small.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\grass\chunk_small_long\chunk_small_long.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\grass\chunk_small_wide\chunk_small_wide.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\grass\chunk_wide\chunk_wide.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\grass\chunk_wide_narrow\chunk_wide_narrow.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\log\block\block.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\log\column\column.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\log\column_big\column_big.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\log\column_small\column_small.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\log\tree\tree.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\patron\sign_func_a\sign_func_a.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\patron\sign_func_b\sign_func_b.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\patron\sign_func_c\sign_func_c.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\safezone\spleef\spleef.crate
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\shadow\house_big\house_big.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\shadow\house_small\house_small.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\shadow\lockout\lockout.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\shadow\roof\roof.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\shadow\roof_facade\roof_facade.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\shadow\spleef_platform\spleef_platform.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\shadow\spleef_structure\spleef_structure.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\shadow\walls\walls.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\slime\bounce\bounce.crate
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\slime\lockout\lockout.crate
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\slime\spleef_pads\spleef_pads.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part00\part00.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part01\part01.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part02\part02.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part03\part03.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part04\part04.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part05\part05.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part06\part06.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part07\part07.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part08\part08.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part09\part09.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part10\part10.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part11\part11.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part12\part12.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part13\part13.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part14\part14.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part15\part15.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part16\part16.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part17\part17.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part18\part18.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part19\part19.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part20\part20.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part21\part21.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part22\part22.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part23\part23.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part24\part24.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part25\part25.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part26\part26.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part27\part27.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part28\part28.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part29\part29.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part30\part30.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part31\part31.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part32\part32.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part33\part33.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part34\part34.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part35\part35.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part36\part36.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part37\part37.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part38\part38.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part39\part39.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part40\part40.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part41\part41.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part42\part42.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part43\part43.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part44\part44.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part45\part45.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part46\part46.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part47\part47.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part48\part48.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part49\part49.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part50\part50.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part51\part51.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part52\part52.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part53\part53.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part54\part54.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part55\part55.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part56\part56.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part57\part57.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part58\part58.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part59\part59.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part60\part60.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part61\part61.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part62\part62.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part63\part63.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part64\part64.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part65\part65.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part66\part66.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part67\part67.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part68\part68.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part69\part69.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part71\part71.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\stone\part72\part72.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\tall_grass\block\block.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\tall_grass\chunk\chunk.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\water\plane\plane.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\water\well\well.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\block\block.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\bookshelves\bookshelves.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\crafting_table\crafting_table.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\desk\desk.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_big_balcony\house_big_balcony.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_big_fence\house_big_fence.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_big_floor\house_big_floor.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_big_roof\house_big_roof.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_big_roof_slice\house_big_roof_slice.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_big_roof_slice_flip\house_big_roof_slice_flip.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_big_roof_slice_flop\house_big_roof_slice_flop.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_big_stairs\house_big_stairs.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_big_support\house_big_support.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_big_wall_back\house_big_wall_back.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_big_wall_front\house_big_wall_front.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_big_wall_side\house_big_wall_side.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_small_doorway\house_small_doorway.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_small_roof\house_small_roof.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_small_wall\house_small_wall.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_smith_roof\house_smith_roof.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_smith_roof_slice\house_smith_roof_slice.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_smith_wall_front\house_smith_wall_front.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\house_smith_wall_side\house_smith_wall_side.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\library_seat_one\library_seat_one.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\library_seat_two\library_seat_two.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\sign\a\a.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\sign\b\b.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\sign\c\c.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\table\table.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\torch\torch.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\torch_wall\torch_wall.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\torch_wall_double\torch_wall_double.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\torch_wall_dud\torch_wall_dud.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wood\wall_desks\wall_desks.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\wool\bed\bed.scenery
+AddBlockElements MultiplayerObject 1
+SaveTagChanges
+Exit

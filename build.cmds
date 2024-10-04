@@ -1,0 +1,34 @@
+<base cache path>
+
+SetVariable ModDataPath <mod data path>
+SetVariable CacheFilePath <cache file path>
+
+CreateModPackage 1 large
+HaloCraft
+A Multiplayer Map Pack of 4 Destructible Minecraft Maps and More!
+MtnDewIt
+0.1
+Multiplayer
+
+UpdateShaderData
+
+GenerateShader glps shader 
+GenerateShader glvs shader
+
+RunCommands ModDataPath\porting_commands.cmds
+
+RunCommands ModDataPath\scenario_commands.cmds
+
+RunCommands ModDataPath\object_properties.cmds
+
+RunCommands ModDataPath\forge_palette.cmds
+
+UpdateMapFiles CacheFilePath\info
+
+AddModFiles ModDataPath\assets
+
+SaveModPackage
+
+ExitModPackage
+
+Quit
