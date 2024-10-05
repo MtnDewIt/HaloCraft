@@ -25,13 +25,25 @@ SetField PaletteCategories[88].Name "VILLAGE"
 SetField PaletteCategories[88].DescriptionIndex -1
 SetField PaletteCategories[88].ParentCategoryIndex 83
 
-SetField PaletteCategories[89].Name "SCENERY"
+SetField PaletteCategories[89].Name "HOUSE LARGE"
 SetField PaletteCategories[89].DescriptionIndex -1
-SetField PaletteCategories[89].ParentCategoryIndex 83
+SetField PaletteCategories[89].ParentCategoryIndex 88
 
-SetField PaletteCategories[90].Name "DOORS"
+SetField PaletteCategories[90].Name "HOUSE SMALL"
 SetField PaletteCategories[90].DescriptionIndex -1
-SetField PaletteCategories[90].ParentCategoryIndex 83
+SetField PaletteCategories[90].ParentCategoryIndex 88
+
+SetField PaletteCategories[91].Name "HOUSE SMITH"
+SetField PaletteCategories[91].DescriptionIndex -1
+SetField PaletteCategories[91].ParentCategoryIndex 88
+
+SetField PaletteCategories[92].Name "SCENERY"
+SetField PaletteCategories[92].DescriptionIndex -1
+SetField PaletteCategories[92].ParentCategoryIndex 83
+
+SetField PaletteCategories[93].Name "DOORS"
+SetField PaletteCategories[93].DescriptionIndex -1
+SetField PaletteCategories[93].ParentCategoryIndex 83
 
 AddBlockElements Palette 183
 SetField Palette[498].Name "WEAPON HOLDER INVIS"
@@ -46,9 +58,9 @@ SetField Palette[498].Setters[0].Type Integer
 SetField Palette[498].Setters[0].IntegerValue 1
 SetField Palette[498].Setters[0].RealValue 0
 
-SetField Palette[499].Name "HOUSE, SMITH COBBLESTONE ROOF"
+SetField Palette[499].Name "COBBLESTONE ROOF"
 SetField Palette[499].Type Prop
-SetField Palette[499].CategoryIndex 88
+SetField Palette[499].CategoryIndex 91
 SetField Palette[499].DescriptionIndex -1
 SetField Palette[499].MaxAllowed 0
 SetField Palette[499].Object objects\block\cobble\house_smith_roof\house_smith_roof.scenery
@@ -60,7 +72,7 @@ SetField Palette[499].Setters[0].RealValue 0
 
 SetField Palette[500].Name "COBBLESTONE WELL"
 SetField Palette[500].Type Prop
-SetField Palette[500].CategoryIndex 88
+SetField Palette[500].CategoryIndex 91
 SetField Palette[500].DescriptionIndex -1
 SetField Palette[500].MaxAllowed 0
 SetField Palette[500].Object objects\block\cobble\well\well.scenery
@@ -1858,9 +1870,9 @@ SetField Palette[649].Setters[0].Type Integer
 SetField Palette[649].Setters[0].IntegerValue 1
 SetField Palette[649].Setters[0].RealValue 0
 
-SetField Palette[650].Name "HOUSE, LARGE BALCONY"
+SetField Palette[650].Name "LARGE BALCONY"
 SetField Palette[650].Type Prop
-SetField Palette[650].CategoryIndex 88
+SetField Palette[650].CategoryIndex 89
 SetField Palette[650].DescriptionIndex -1
 SetField Palette[650].MaxAllowed 0
 SetField Palette[650].Object objects\block\wood\house_big_balcony\house_big_balcony.scenery
@@ -1870,9 +1882,9 @@ SetField Palette[650].Setters[0].Type Integer
 SetField Palette[650].Setters[0].IntegerValue 1
 SetField Palette[650].Setters[0].RealValue 0
 
-SetField Palette[651].Name "HOUSE, LARGE FENCE"
+SetField Palette[651].Name "LARGE FENCE"
 SetField Palette[651].Type Prop
-SetField Palette[651].CategoryIndex 88
+SetField Palette[651].CategoryIndex 89
 SetField Palette[651].DescriptionIndex -1
 SetField Palette[651].MaxAllowed 0
 SetField Palette[651].Object objects\block\wood\house_big_fence\house_big_fence.scenery
@@ -1882,9 +1894,9 @@ SetField Palette[651].Setters[0].Type Integer
 SetField Palette[651].Setters[0].IntegerValue 1
 SetField Palette[651].Setters[0].RealValue 0
 
-SetField Palette[652].Name "HOUSE, LARGE FLOOR"
+SetField Palette[652].Name "LARGE FLOOR"
 SetField Palette[652].Type Prop
-SetField Palette[652].CategoryIndex 88
+SetField Palette[652].CategoryIndex 89
 SetField Palette[652].DescriptionIndex -1
 SetField Palette[652].MaxAllowed 0
 SetField Palette[652].Object objects\block\wood\house_big_floor\house_big_floor.scenery
@@ -1894,9 +1906,9 @@ SetField Palette[652].Setters[0].Type Integer
 SetField Palette[652].Setters[0].IntegerValue 1
 SetField Palette[652].Setters[0].RealValue 0
 
-SetField Palette[653].Name "HOUSE, LARGE ROOF"
+SetField Palette[653].Name "LARGE ROOF"
 SetField Palette[653].Type Prop
-SetField Palette[653].CategoryIndex 88
+SetField Palette[653].CategoryIndex 89
 SetField Palette[653].DescriptionIndex -1
 SetField Palette[653].MaxAllowed 0
 SetField Palette[653].Object objects\block\wood\house_big_roof\house_big_roof.scenery
@@ -1906,9 +1918,9 @@ SetField Palette[653].Setters[0].Type Integer
 SetField Palette[653].Setters[0].IntegerValue 1
 SetField Palette[653].Setters[0].RealValue 0
 
-SetField Palette[654].Name "HOUSE, LARGE ROOF SLICE"
+SetField Palette[654].Name "LARGE ROOF SLICE"
 SetField Palette[654].Type Prop
-SetField Palette[654].CategoryIndex 88
+SetField Palette[654].CategoryIndex 89
 SetField Palette[654].DescriptionIndex -1
 SetField Palette[654].MaxAllowed 0
 SetField Palette[654].Object objects\block\wood\house_big_roof_slice\house_big_roof_slice.scenery
@@ -1918,9 +1930,9 @@ SetField Palette[654].Setters[0].Type Integer
 SetField Palette[654].Setters[0].IntegerValue 1
 SetField Palette[654].Setters[0].RealValue 0
 
-SetField Palette[655].Name "HOUSE, LARGE ROOF SLICE FLIP"
+SetField Palette[655].Name "LARGE ROOF SLICE FLIP"
 SetField Palette[655].Type Prop
-SetField Palette[655].CategoryIndex 88
+SetField Palette[655].CategoryIndex 89
 SetField Palette[655].DescriptionIndex -1
 SetField Palette[655].MaxAllowed 0
 SetField Palette[655].Object objects\block\wood\house_big_roof_slice_flip\house_big_roof_slice_flip.scenery
@@ -1930,9 +1942,9 @@ SetField Palette[655].Setters[0].Type Integer
 SetField Palette[655].Setters[0].IntegerValue 1
 SetField Palette[655].Setters[0].RealValue 0
 
-SetField Palette[656].Name "HOUSE, LARGE ROOF SLICE FLOP"
+SetField Palette[656].Name "LARGE ROOF SLICE FLOP"
 SetField Palette[656].Type Prop
-SetField Palette[656].CategoryIndex 88
+SetField Palette[656].CategoryIndex 89
 SetField Palette[656].DescriptionIndex -1
 SetField Palette[656].MaxAllowed 0
 SetField Palette[656].Object objects\block\wood\house_big_roof_slice_flop\house_big_roof_slice_flop.scenery
@@ -1942,9 +1954,9 @@ SetField Palette[656].Setters[0].Type Integer
 SetField Palette[656].Setters[0].IntegerValue 1
 SetField Palette[656].Setters[0].RealValue 0
 
-SetField Palette[657].Name "HOUSE, LARGE STAIRS"
+SetField Palette[657].Name "LARGE STAIRS"
 SetField Palette[657].Type Prop
-SetField Palette[657].CategoryIndex 88
+SetField Palette[657].CategoryIndex 89
 SetField Palette[657].DescriptionIndex -1
 SetField Palette[657].MaxAllowed 0
 SetField Palette[657].Object objects\block\wood\house_big_stairs\house_big_stairs.scenery
@@ -1954,9 +1966,9 @@ SetField Palette[657].Setters[0].Type Integer
 SetField Palette[657].Setters[0].IntegerValue 1
 SetField Palette[657].Setters[0].RealValue 0
 
-SetField Palette[658].Name "HOUSE, LARGE SUPPORT"
+SetField Palette[658].Name "LARGE SUPPORT"
 SetField Palette[658].Type Prop
-SetField Palette[658].CategoryIndex 88
+SetField Palette[658].CategoryIndex 89
 SetField Palette[658].DescriptionIndex -1
 SetField Palette[658].MaxAllowed 0
 SetField Palette[658].Object objects\block\wood\house_big_support\house_big_support.scenery
@@ -1966,9 +1978,9 @@ SetField Palette[658].Setters[0].Type Integer
 SetField Palette[658].Setters[0].IntegerValue 1
 SetField Palette[658].Setters[0].RealValue 0
 
-SetField Palette[659].Name "HOUSE, LARGE WALL REAR"
+SetField Palette[659].Name "LARGE WALL REAR"
 SetField Palette[659].Type Prop
-SetField Palette[659].CategoryIndex 88
+SetField Palette[659].CategoryIndex 89
 SetField Palette[659].DescriptionIndex -1
 SetField Palette[659].MaxAllowed 0
 SetField Palette[659].Object objects\block\wood\house_big_wall_back\house_big_wall_back.scenery
@@ -1978,9 +1990,9 @@ SetField Palette[659].Setters[0].Type Integer
 SetField Palette[659].Setters[0].IntegerValue 1
 SetField Palette[659].Setters[0].RealValue 0
 
-SetField Palette[660].Name "HOUSE, LARGE WALL FRONT"
+SetField Palette[660].Name "LARGE WALL FRONT"
 SetField Palette[660].Type Prop
-SetField Palette[660].CategoryIndex 88
+SetField Palette[660].CategoryIndex 89
 SetField Palette[660].DescriptionIndex -1
 SetField Palette[660].MaxAllowed 0
 SetField Palette[660].Object objects\block\wood\house_big_wall_front\house_big_wall_front.scenery
@@ -1990,9 +2002,9 @@ SetField Palette[660].Setters[0].Type Integer
 SetField Palette[660].Setters[0].IntegerValue 1
 SetField Palette[660].Setters[0].RealValue 0
 
-SetField Palette[661].Name "HOUSE, LARGE WALL SIDE"
+SetField Palette[661].Name "LARGE WALL SIDE"
 SetField Palette[661].Type Prop
-SetField Palette[661].CategoryIndex 88
+SetField Palette[661].CategoryIndex 89
 SetField Palette[661].DescriptionIndex -1
 SetField Palette[661].MaxAllowed 0
 SetField Palette[661].Object objects\block\wood\house_big_wall_side\house_big_wall_side.scenery
@@ -2002,9 +2014,9 @@ SetField Palette[661].Setters[0].Type Integer
 SetField Palette[661].Setters[0].IntegerValue 1
 SetField Palette[661].Setters[0].RealValue 0
 
-SetField Palette[662].Name "HOUSE, SMALL DOORWAY"
+SetField Palette[662].Name "SMALL DOORWAY"
 SetField Palette[662].Type Prop
-SetField Palette[662].CategoryIndex 88
+SetField Palette[662].CategoryIndex 90
 SetField Palette[662].DescriptionIndex -1
 SetField Palette[662].MaxAllowed 0
 SetField Palette[662].Object objects\block\wood\house_small_doorway\house_small_doorway.scenery
@@ -2014,9 +2026,9 @@ SetField Palette[662].Setters[0].Type Integer
 SetField Palette[662].Setters[0].IntegerValue 1
 SetField Palette[662].Setters[0].RealValue 0
 
-SetField Palette[663].Name "HOUSE, SMALL ROOF"
+SetField Palette[663].Name "SMALL ROOF"
 SetField Palette[663].Type Prop
-SetField Palette[663].CategoryIndex 88
+SetField Palette[663].CategoryIndex 90
 SetField Palette[663].DescriptionIndex -1
 SetField Palette[663].MaxAllowed 0
 SetField Palette[663].Object objects\block\wood\house_small_roof\house_small_roof.scenery
@@ -2026,9 +2038,9 @@ SetField Palette[663].Setters[0].Type Integer
 SetField Palette[663].Setters[0].IntegerValue 1
 SetField Palette[663].Setters[0].RealValue 0
 
-SetField Palette[664].Name "HOUSE, SMALL WALL"
+SetField Palette[664].Name "SMALL WALL"
 SetField Palette[664].Type Prop
-SetField Palette[664].CategoryIndex 88
+SetField Palette[664].CategoryIndex 90
 SetField Palette[664].DescriptionIndex -1
 SetField Palette[664].MaxAllowed 0
 SetField Palette[664].Object objects\block\wood\house_small_wall\house_small_wall.scenery
@@ -2038,9 +2050,9 @@ SetField Palette[664].Setters[0].Type Integer
 SetField Palette[664].Setters[0].IntegerValue 1
 SetField Palette[664].Setters[0].RealValue 0
 
-SetField Palette[665].Name "HOUSE, SMITH ROOF"
+SetField Palette[665].Name "ROOF"
 SetField Palette[665].Type Prop
-SetField Palette[665].CategoryIndex 88
+SetField Palette[665].CategoryIndex 91
 SetField Palette[665].DescriptionIndex -1
 SetField Palette[665].MaxAllowed 0
 SetField Palette[665].Object objects\block\wood\house_smith_roof\house_smith_roof.scenery
@@ -2050,9 +2062,9 @@ SetField Palette[665].Setters[0].Type Integer
 SetField Palette[665].Setters[0].IntegerValue 1
 SetField Palette[665].Setters[0].RealValue 0
 
-SetField Palette[666].Name "HOUSE, SMITH ROOF SLICE"
+SetField Palette[666].Name "ROOF SLICE"
 SetField Palette[666].Type Prop
-SetField Palette[666].CategoryIndex 88
+SetField Palette[666].CategoryIndex 91
 SetField Palette[666].DescriptionIndex -1
 SetField Palette[666].MaxAllowed 0
 SetField Palette[666].Object objects\block\wood\house_smith_roof_slice\house_smith_roof_slice.scenery
@@ -2062,9 +2074,9 @@ SetField Palette[666].Setters[0].Type Integer
 SetField Palette[666].Setters[0].IntegerValue 1
 SetField Palette[666].Setters[0].RealValue 0
 
-SetField Palette[667].Name "HOUSE, SMITH WALL FRONT"
+SetField Palette[667].Name "WALL FRONT"
 SetField Palette[667].Type Prop
-SetField Palette[667].CategoryIndex 88
+SetField Palette[667].CategoryIndex 91
 SetField Palette[667].DescriptionIndex -1
 SetField Palette[667].MaxAllowed 0
 SetField Palette[667].Object objects\block\wood\house_smith_wall_front\house_smith_wall_front.scenery
@@ -2074,9 +2086,9 @@ SetField Palette[667].Setters[0].Type Integer
 SetField Palette[667].Setters[0].IntegerValue 1
 SetField Palette[667].Setters[0].RealValue 0
 
-SetField Palette[668].Name "HOUSE, SMITH WALL SIDE"
+SetField Palette[668].Name "SMITH WALL SIDE"
 SetField Palette[668].Type Prop
-SetField Palette[668].CategoryIndex 88
+SetField Palette[668].CategoryIndex 91
 SetField Palette[668].DescriptionIndex -1
 SetField Palette[668].MaxAllowed 0
 SetField Palette[668].Object objects\block\wood\house_smith_wall_side\house_smith_wall_side.scenery
@@ -2110,7 +2122,7 @@ SetField Palette[670].Setters[0].Type Integer
 SetField Palette[670].Setters[0].IntegerValue 1
 SetField Palette[670].Setters[0].RealValue 0
 
-SetField Palette[671].Name "SIGN A"
+SetField Palette[671].Name "VILLAGE SIGN A"
 SetField Palette[671].Type Prop
 SetField Palette[671].CategoryIndex 88
 SetField Palette[671].DescriptionIndex -1
@@ -2122,7 +2134,7 @@ SetField Palette[671].Setters[0].Type Integer
 SetField Palette[671].Setters[0].IntegerValue 1
 SetField Palette[671].Setters[0].RealValue 0
 
-SetField Palette[672].Name "SIGN B"
+SetField Palette[672].Name "VILLAGE SIGN B"
 SetField Palette[672].Type Prop
 SetField Palette[672].CategoryIndex 88
 SetField Palette[672].DescriptionIndex -1
@@ -2134,7 +2146,7 @@ SetField Palette[672].Setters[0].Type Integer
 SetField Palette[672].Setters[0].IntegerValue 1
 SetField Palette[672].Setters[0].RealValue 0
 
-SetField Palette[673].Name "SIGN C"
+SetField Palette[673].Name "VILLAGE SIGN C"
 SetField Palette[673].Type Prop
 SetField Palette[673].CategoryIndex 88
 SetField Palette[673].DescriptionIndex -1
