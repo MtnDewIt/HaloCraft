@@ -1,6 +1,6 @@
 EditTag multiplayer\forge_globals.forge_globals_definition
 
-AddBlockElements PaletteCategories 8
+AddBlockElements PaletteCategories 11
 SetField PaletteCategories[83].Name "HALOCRAFT"
 SetField PaletteCategories[83].DescriptionIndex -1
 SetField PaletteCategories[83].ParentCategoryIndex -1

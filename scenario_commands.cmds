@@ -7,7 +7,6 @@ SetField CutsceneCameraPoints[1].Position -1.1663 -4.9698 0.8042
 SetField CutsceneCameraPoints[1].Orientation 90 0 0
 SetField CutsceneCameraPoints[1].Flags PodiumCameraHack
 CompileScripts ModDataPath\data\scripts\village.hsc
-CompilePodiumScripts
 SaveTagChanges
 Exit
 
@@ -20,7 +19,6 @@ SetField CutsceneCameraPoints[1].Position 5.8434 1.5435 0.0155
 SetField CutsceneCameraPoints[1].Orientation 180 0 0
 SetField CutsceneCameraPoints[1].Flags PodiumCameraHack
 CompileScripts ModDataPath\data\scripts\spleef.hsc
-CompilePodiumScripts
 SaveTagChanges
 Exit
 
@@ -192,7 +190,6 @@ SetField Scenery[156].PaletteIndex 51
 SetField Scenery[157].PaletteIndex 51
 SetField Scenery[158].PaletteIndex 19
 CompileScripts ModDataPath\data\scripts\mansion.hsc
-CompilePodiumScripts
 SaveTagChanges
 Exit
 
@@ -205,6 +202,5 @@ SetField CutsceneCameraPoints[1].Position -0.4 -4.4916 1.8447
 SetField CutsceneCameraPoints[1].Orientation -90 0 0
 SetField CutsceneCameraPoints[1].Flags PodiumCameraHack
 CompileScripts ModDataPath\data\scripts\lockout.hsc
-CompilePodiumScripts
 SaveTagChanges
 Exit

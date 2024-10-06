@@ -1,7 +1,7 @@
-<base cache path>
+D:\ElDewrito\0.7.1\maps\tags.dat
 
-SetVariable ModDataPath <mod data path>
-SetVariable CacheFilePath <cache file path>
+SetVariable ModDataPath "C:\Users\Harry Ricketts\Documents\GitHub\MtnDewIt\HaloCraft"
+SetVariable CacheFilePath "F:\Bruh\H3MCC\halocraft"
 
 CreateModPackage 1 large
 HaloCraft
@@ -9,6 +9,8 @@ A Multiplayer Map Pack of 4 Destructible Minecraft Maps and More!
 MtnDewIt
 0.1
 Multiplayer
+
+UpdateTagList ElDewrito
 
 UpdateShaderData
 
