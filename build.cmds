@@ -1,7 +1,7 @@
-D:\ElDewrito\0.7.1\maps\tags.dat
+<base cache path>
 
-SetVariable ModDataPath "C:\Users\Harry Ricketts\Documents\GitHub\MtnDewIt\HaloCraft"
-SetVariable CacheFilePath "F:\Bruh\H3MCC\halocraft"
+SetVariable ModDataPath <mod data path>
+SetVariable CacheFilePath <cache file path>
 
 CreateModPackage 1 large
 HaloCraft
