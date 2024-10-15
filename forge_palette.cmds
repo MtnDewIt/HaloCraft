@@ -45,7 +45,7 @@ SetField PaletteCategories[93].Name "DOORS"
 SetField PaletteCategories[93].DescriptionIndex -1
 SetField PaletteCategories[93].ParentCategoryIndex 83
 
-AddBlockElements Palette 183
+AddBlockElements Palette 1
 SetField Palette[*].Name "WEAPON HOLDER INVIS"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 9
@@ -58,6 +58,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "COBBLESTONE ROOF"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 91
@@ -70,6 +71,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "COBBLESTONE WELL"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 91
@@ -82,6 +84,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DARK OAK ARCHWAY"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -94,6 +97,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DARK OAK WALL"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -106,6 +110,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DARK OAK WALL, DOUBLE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -118,6 +123,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DARK OAK WALL, DOUBLE PATTERN"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -130,6 +136,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DARK OAK WALL, DOUBLE PATTERN RIGHT"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -142,6 +149,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DARK OAK WALL, DOUBLE RIGHT"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -154,6 +162,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DARK OAK WALL, JAIL 1"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -166,6 +175,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DARK OAK WALL, JAIL 2"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -178,6 +188,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DARK OAK WALL, JAIL 3"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -190,6 +201,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DARK OAK WALL, PATTERN"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -202,6 +214,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DARK OAK WALL, PATTERN RIGHT"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -214,6 +227,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DARK OAK TORCH POST"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -226,6 +240,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DARK OAK TORCH POST, DOUBLE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -238,6 +253,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DARK OAK TORCH POST, DOUBLE DUD"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -250,6 +266,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DARK OAK WINDOW OVERHANG"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -262,6 +279,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DIRT"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 84
@@ -274,6 +292,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DIRT CHUNK [3 x 3]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -286,6 +305,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DIRT CHUNK [2 x 2]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -298,6 +318,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "DANDELION"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 84
@@ -310,6 +331,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "POPPY"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 84
@@ -322,6 +344,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE BLUE [2 x 2]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 87
@@ -334,6 +357,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE BLUE [4 x 4]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 87
@@ -346,6 +370,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE BLUE [1 x 4]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 87
@@ -358,6 +383,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE BLUE [1 x 1]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 87
@@ -370,6 +396,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE, DOUBLE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -382,6 +409,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS WINDOWS"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -394,6 +422,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE [2 x 2]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -406,6 +435,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE RED [2 x 2]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 87
@@ -418,6 +448,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE RED [4 x 4]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 87
@@ -430,6 +461,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE RED [1 x 4]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 87
@@ -442,6 +474,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE RED [1 x 1]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 87
@@ -454,6 +487,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 84
@@ -466,6 +500,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE, TRIPLE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -478,6 +513,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE WHITE [1 x 4]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 87
@@ -490,6 +526,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE WHITE [1 x 16]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 87
@@ -502,6 +539,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE WHITE [1 x 7]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 87
@@ -514,6 +552,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE WHITE [1 x 1]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 87
@@ -526,6 +565,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS WINDOW"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 87
@@ -538,6 +578,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 84
@@ -550,6 +591,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [2 x 2 x 2]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -562,6 +604,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [4 x 4]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -574,6 +617,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [2 x 4 x 2]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -586,6 +630,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [1 x 4 x 2]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -598,6 +643,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [1 x 1 x 2]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -610,6 +656,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [2 x 2]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -622,6 +669,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [1 x 4]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -634,6 +682,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [4 x 1]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -646,6 +695,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [4 x 2 x 2]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -658,6 +708,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [4 x 1 x 2]"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -670,6 +721,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "OAK LOG"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 84
@@ -682,6 +734,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "OAK LOG, MEDIUM"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -694,6 +747,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "OAK LOG, LARGE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -706,6 +760,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "OAK LOG, SMALL"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -718,6 +773,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "TREE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -730,6 +786,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "MANSION SIGN A"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -742,6 +799,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "MANSION SIGN B"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -754,6 +812,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "MANSION SIGN C"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -766,6 +825,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "SPLEEF SAFEZONE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 87
@@ -778,6 +838,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "HOUSE LARGE SHADOW"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -790,6 +851,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "HOUSE SMALL SHADOW"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -802,6 +864,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "LOCKOUT SHADOW"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -814,6 +877,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "ROOF SHADOW"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -826,6 +890,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "ROOF FACADE SHADOW"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -838,6 +903,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "SPLEEF PLATFORM SHADOW"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -850,6 +916,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "SPLEEF STRUCTURE SHADOW"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -862,6 +929,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "WALL SHADOW"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -874,6 +942,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "BOUNCY SLIME"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -886,6 +955,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "LOCKOUT SLIME"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -898,6 +968,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "SPLEEF PAD"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 87
@@ -910,6 +981,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 0"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -922,6 +994,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 1"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -934,6 +1007,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 2"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -946,6 +1020,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 3"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -958,6 +1033,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 4"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -970,6 +1046,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 5"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -982,6 +1059,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 6"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -994,6 +1072,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 7"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1006,6 +1085,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 8"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1018,6 +1098,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 9"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1030,6 +1111,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 10"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1042,6 +1124,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 11"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1054,6 +1137,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 12"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1066,6 +1150,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 13"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1078,6 +1163,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 14"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1090,6 +1176,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 15"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1102,6 +1189,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 16"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1114,6 +1202,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 17"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1126,6 +1215,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 18"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1138,6 +1228,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 19"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1150,6 +1241,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 20"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1162,6 +1254,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 21"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1174,6 +1267,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 22"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1186,6 +1280,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 23"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1198,6 +1293,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 24"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1210,6 +1306,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 25"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1222,6 +1319,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 26"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1234,6 +1332,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 27"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1246,6 +1345,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 28"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1258,6 +1358,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 29"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1270,6 +1371,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 30"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1282,6 +1384,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 31"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1294,6 +1397,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 32"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1306,6 +1410,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 33"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1318,6 +1423,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 34"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1330,6 +1436,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 35"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1342,6 +1449,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 36"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1354,6 +1462,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 37"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1366,6 +1475,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 38"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1378,6 +1488,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 39"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1390,6 +1501,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 40"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1402,6 +1514,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 41"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1414,6 +1527,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 42"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1426,6 +1540,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 43"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1438,6 +1553,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 44"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1450,6 +1566,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 45"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1462,6 +1579,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 46"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1474,6 +1592,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 47"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1486,6 +1605,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 48"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1498,6 +1618,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 49"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1510,6 +1631,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 50"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1522,6 +1644,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 51"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1534,6 +1657,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 52"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1546,6 +1670,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 53"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1558,6 +1683,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 54"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1570,6 +1696,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 55"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1582,6 +1709,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 56"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1594,6 +1722,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 57"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1606,6 +1735,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 58"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1618,6 +1748,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 59"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1630,6 +1761,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 60"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1642,6 +1774,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 61"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1654,6 +1787,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 62"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1666,6 +1800,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 63"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1678,6 +1813,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 64"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1690,6 +1826,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 65"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1702,6 +1839,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 66"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1714,6 +1852,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 67"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1726,6 +1865,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 68"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1738,6 +1878,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 69"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1750,6 +1891,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 71"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1762,6 +1904,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 72"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 85
@@ -1774,6 +1917,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "TALL GRASS"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 84
@@ -1786,6 +1930,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "TALL GRASS PATCH"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 88
@@ -1798,6 +1943,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "WATER PLANE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 92
@@ -1810,6 +1956,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "WELL WATER PLANE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 88
@@ -1822,6 +1969,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "OAK PLANKS"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 84
@@ -1834,6 +1982,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "BOOKSHELF"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -1846,6 +1995,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "CRAFTING TABLE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 84
@@ -1858,6 +2008,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "OAK DESK"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -1870,6 +2021,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "LARGE BALCONY"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 89
@@ -1882,6 +2034,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "LARGE FENCE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 89
@@ -1894,6 +2047,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "LARGE FLOOR"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 89
@@ -1906,6 +2060,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "LARGE ROOF"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 89
@@ -1918,6 +2073,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "LARGE ROOF SLICE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 89
@@ -1930,6 +2086,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "LARGE ROOF SLICE FLIP"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 89
@@ -1942,6 +2099,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "LARGE ROOF SLICE FLOP"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 89
@@ -1954,6 +2112,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "LARGE STAIRS"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 89
@@ -1966,6 +2125,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "LARGE SUPPORT"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 89
@@ -1978,6 +2138,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "LARGE WALL REAR"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 89
@@ -1990,6 +2151,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "LARGE WALL FRONT"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 89
@@ -2002,6 +2164,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "LARGE WALL SIDE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 89
@@ -2014,6 +2177,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "SMALL DOORWAY"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 90
@@ -2026,6 +2190,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "SMALL ROOF"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 90
@@ -2038,6 +2203,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "SMALL WALL"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 90
@@ -2050,6 +2216,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "ROOF"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 91
@@ -2062,6 +2229,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "ROOF SLICE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 91
@@ -2074,6 +2242,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "WALL FRONT"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 91
@@ -2086,6 +2255,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "SMITH WALL SIDE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 91
@@ -2098,6 +2268,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "OAK SEAT, RIGHT"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -2110,6 +2281,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "OAK SEAT, LEFT"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -2122,6 +2294,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "VILLAGE SIGN A"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 88
@@ -2134,6 +2307,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "VILLAGE SIGN B"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 88
@@ -2146,6 +2320,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "VILLAGE SIGN C"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 88
@@ -2158,6 +2333,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "OAK TABLE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -2170,6 +2346,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "TORCH"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 84
@@ -2182,6 +2359,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "TORCH, WALL"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 84
@@ -2194,6 +2372,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "TORCH, WALL DOUBLE"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -2206,6 +2385,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "TORCH, WALL DUD"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -2218,6 +2398,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "OAK DESKS"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
@@ -2230,6 +2411,7 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
+AddBlockElements Palette 1
 SetField Palette[*].Name "BED"
 SetField Palette[*].Type Prop
 SetField Palette[*].CategoryIndex 86
