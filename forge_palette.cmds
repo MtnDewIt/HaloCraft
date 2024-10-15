@@ -46,2201 +46,2201 @@ SetField PaletteCategories[93].DescriptionIndex -1
 SetField PaletteCategories[93].ParentCategoryIndex 83
 
 AddBlockElements Palette 183
-SetField Palette[498].Name "WEAPON HOLDER INVIS"
-SetField Palette[498].Type Prop
-SetField Palette[498].CategoryIndex 9
-SetField Palette[498].DescriptionIndex -1
-SetField Palette[498].MaxAllowed 0
-SetField Palette[498].Object objects\gear\covenant\military\cov_sword_holder\cov_sword_holder_invis.crate
-AddBlockElements Palette[498].Setters
-SetField Palette[498].Setters[0].Target General_Physics
-SetField Palette[498].Setters[0].Type Integer
-SetField Palette[498].Setters[0].IntegerValue 1
-SetField Palette[498].Setters[0].RealValue 0
-
-SetField Palette[499].Name "COBBLESTONE ROOF"
-SetField Palette[499].Type Prop
-SetField Palette[499].CategoryIndex 91
-SetField Palette[499].DescriptionIndex -1
-SetField Palette[499].MaxAllowed 0
-SetField Palette[499].Object objects\block\cobble\house_smith_roof\house_smith_roof.scenery
-AddBlockElements Palette[499].Setters
-SetField Palette[499].Setters[0].Target General_Physics
-SetField Palette[499].Setters[0].Type Integer
-SetField Palette[499].Setters[0].IntegerValue 1
-SetField Palette[499].Setters[0].RealValue 0
-
-SetField Palette[500].Name "COBBLESTONE WELL"
-SetField Palette[500].Type Prop
-SetField Palette[500].CategoryIndex 91
-SetField Palette[500].DescriptionIndex -1
-SetField Palette[500].MaxAllowed 0
-SetField Palette[500].Object objects\block\cobble\well\well.scenery
-AddBlockElements Palette[500].Setters
-SetField Palette[500].Setters[0].Target General_Physics
-SetField Palette[500].Setters[0].Type Integer
-SetField Palette[500].Setters[0].IntegerValue 1
-SetField Palette[500].Setters[0].RealValue 0
-
-SetField Palette[501].Name "DARK OAK ARCHWAY"
-SetField Palette[501].Type Prop
-SetField Palette[501].CategoryIndex 86
-SetField Palette[501].DescriptionIndex -1
-SetField Palette[501].MaxAllowed 0
-SetField Palette[501].Object objects\block\dark_wood\dark_wood_archway\dark_wood_archway.scenery
-AddBlockElements Palette[501].Setters
-SetField Palette[501].Setters[0].Target General_Physics
-SetField Palette[501].Setters[0].Type Integer
-SetField Palette[501].Setters[0].IntegerValue 1
-SetField Palette[501].Setters[0].RealValue 0
-
-SetField Palette[502].Name "DARK OAK WALL"
-SetField Palette[502].Type Prop
-SetField Palette[502].CategoryIndex 86
-SetField Palette[502].DescriptionIndex -1
-SetField Palette[502].MaxAllowed 0
-SetField Palette[502].Object objects\block\dark_wood\dark_wood_wall\dark_wood_wall.scenery
-AddBlockElements Palette[502].Setters
-SetField Palette[502].Setters[0].Target General_Physics
-SetField Palette[502].Setters[0].Type Integer
-SetField Palette[502].Setters[0].IntegerValue 1
-SetField Palette[502].Setters[0].RealValue 0
-
-SetField Palette[503].Name "DARK OAK WALL, DOUBLE"
-SetField Palette[503].Type Prop
-SetField Palette[503].CategoryIndex 86
-SetField Palette[503].DescriptionIndex -1
-SetField Palette[503].MaxAllowed 0
-SetField Palette[503].Object objects\block\dark_wood\dark_wood_wall_double\dark_wood_wall_double.scenery
-AddBlockElements Palette[503].Setters
-SetField Palette[503].Setters[0].Target General_Physics
-SetField Palette[503].Setters[0].Type Integer
-SetField Palette[503].Setters[0].IntegerValue 1
-SetField Palette[503].Setters[0].RealValue 0
-
-SetField Palette[504].Name "DARK OAK WALL, DOUBLE PATTERN"
-SetField Palette[504].Type Prop
-SetField Palette[504].CategoryIndex 86
-SetField Palette[504].DescriptionIndex -1
-SetField Palette[504].MaxAllowed 0
-SetField Palette[504].Object objects\block\dark_wood\dark_wood_wall_double_pattern\dark_wood_wall_double_pattern.scenery
-AddBlockElements Palette[504].Setters
-SetField Palette[504].Setters[0].Target General_Physics
-SetField Palette[504].Setters[0].Type Integer
-SetField Palette[504].Setters[0].IntegerValue 1
-SetField Palette[504].Setters[0].RealValue 0
-
-SetField Palette[505].Name "DARK OAK WALL, DOUBLE PATTERN RIGHT"
-SetField Palette[505].Type Prop
-SetField Palette[505].CategoryIndex 86
-SetField Palette[505].DescriptionIndex -1
-SetField Palette[505].MaxAllowed 0
-SetField Palette[505].Object objects\block\dark_wood\dark_wood_wall_double_pattern_r\dark_wood_wall_double_pattern_r.scenery
-AddBlockElements Palette[505].Setters
-SetField Palette[505].Setters[0].Target General_Physics
-SetField Palette[505].Setters[0].Type Integer
-SetField Palette[505].Setters[0].IntegerValue 1
-SetField Palette[505].Setters[0].RealValue 0
-
-SetField Palette[506].Name "DARK OAK WALL, DOUBLE RIGHT"
-SetField Palette[506].Type Prop
-SetField Palette[506].CategoryIndex 86
-SetField Palette[506].DescriptionIndex -1
-SetField Palette[506].MaxAllowed 0
-SetField Palette[506].Object objects\block\dark_wood\dark_wood_wall_double_r\dark_wood_wall_double_r.scenery
-AddBlockElements Palette[506].Setters
-SetField Palette[506].Setters[0].Target General_Physics
-SetField Palette[506].Setters[0].Type Integer
-SetField Palette[506].Setters[0].IntegerValue 1
-SetField Palette[506].Setters[0].RealValue 0
-
-SetField Palette[507].Name "DARK OAK WALL, JAIL 1"
-SetField Palette[507].Type Prop
-SetField Palette[507].CategoryIndex 86
-SetField Palette[507].DescriptionIndex -1
-SetField Palette[507].MaxAllowed 0
-SetField Palette[507].Object objects\block\dark_wood\dark_wood_wall_jail_1\dark_wood_wall_jail_1.scenery
-AddBlockElements Palette[507].Setters
-SetField Palette[507].Setters[0].Target General_Physics
-SetField Palette[507].Setters[0].Type Integer
-SetField Palette[507].Setters[0].IntegerValue 1
-SetField Palette[507].Setters[0].RealValue 0
-
-SetField Palette[508].Name "DARK OAK WALL, JAIL 2"
-SetField Palette[508].Type Prop
-SetField Palette[508].CategoryIndex 86
-SetField Palette[508].DescriptionIndex -1
-SetField Palette[508].MaxAllowed 0
-SetField Palette[508].Object objects\block\dark_wood\dark_wood_wall_jail_2\dark_wood_wall_jail_2.scenery
-AddBlockElements Palette[508].Setters
-SetField Palette[508].Setters[0].Target General_Physics
-SetField Palette[508].Setters[0].Type Integer
-SetField Palette[508].Setters[0].IntegerValue 1
-SetField Palette[508].Setters[0].RealValue 0
-
-SetField Palette[509].Name "DARK OAK WALL, JAIL 3"
-SetField Palette[509].Type Prop
-SetField Palette[509].CategoryIndex 86
-SetField Palette[509].DescriptionIndex -1
-SetField Palette[509].MaxAllowed 0
-SetField Palette[509].Object objects\block\dark_wood\dark_wood_wall_jail_3\dark_wood_wall_jail_3.scenery
-AddBlockElements Palette[509].Setters
-SetField Palette[509].Setters[0].Target General_Physics
-SetField Palette[509].Setters[0].Type Integer
-SetField Palette[509].Setters[0].IntegerValue 1
-SetField Palette[509].Setters[0].RealValue 0
-
-SetField Palette[510].Name "DARK OAK WALL, PATTERN"
-SetField Palette[510].Type Prop
-SetField Palette[510].CategoryIndex 86
-SetField Palette[510].DescriptionIndex -1
-SetField Palette[510].MaxAllowed 0
-SetField Palette[510].Object objects\block\dark_wood\dark_wood_wall_pattern\dark_wood_wall_pattern.scenery
-AddBlockElements Palette[510].Setters
-SetField Palette[510].Setters[0].Target General_Physics
-SetField Palette[510].Setters[0].Type Integer
-SetField Palette[510].Setters[0].IntegerValue 1
-SetField Palette[510].Setters[0].RealValue 0
-
-SetField Palette[511].Name "DARK OAK WALL, PATTERN RIGHT"
-SetField Palette[511].Type Prop
-SetField Palette[511].CategoryIndex 86
-SetField Palette[511].DescriptionIndex -1
-SetField Palette[511].MaxAllowed 0
-SetField Palette[511].Object objects\block\dark_wood\dark_wood_wall_pattern_r\dark_wood_wall_pattern_r.scenery
-AddBlockElements Palette[511].Setters
-SetField Palette[511].Setters[0].Target General_Physics
-SetField Palette[511].Setters[0].Type Integer
-SetField Palette[511].Setters[0].IntegerValue 1
-SetField Palette[511].Setters[0].RealValue 0
-
-SetField Palette[512].Name "DARK OAK TORCH POST"
-SetField Palette[512].Type Prop
-SetField Palette[512].CategoryIndex 86
-SetField Palette[512].DescriptionIndex -1
-SetField Palette[512].MaxAllowed 0
-SetField Palette[512].Object objects\block\dark_wood\torch_post\torch_post.scenery
-AddBlockElements Palette[512].Setters
-SetField Palette[512].Setters[0].Target General_Physics
-SetField Palette[512].Setters[0].Type Integer
-SetField Palette[512].Setters[0].IntegerValue 1
-SetField Palette[512].Setters[0].RealValue 0
-
-SetField Palette[513].Name "DARK OAK TORCH POST, DOUBLE"
-SetField Palette[513].Type Prop
-SetField Palette[513].CategoryIndex 86
-SetField Palette[513].DescriptionIndex -1
-SetField Palette[513].MaxAllowed 0
-SetField Palette[513].Object objects\block\dark_wood\torch_post_double\torch_post_double.scenery
-AddBlockElements Palette[513].Setters
-SetField Palette[513].Setters[0].Target General_Physics
-SetField Palette[513].Setters[0].Type Integer
-SetField Palette[513].Setters[0].IntegerValue 1
-SetField Palette[513].Setters[0].RealValue 0
-
-SetField Palette[514].Name "DARK OAK TORCH POST, DOUBLE DUD"
-SetField Palette[514].Type Prop
-SetField Palette[514].CategoryIndex 86
-SetField Palette[514].DescriptionIndex -1
-SetField Palette[514].MaxAllowed 0
-SetField Palette[514].Object objects\block\dark_wood\torch_post_double_dud\torch_post_double_dud.scenery
-AddBlockElements Palette[514].Setters
-SetField Palette[514].Setters[0].Target General_Physics
-SetField Palette[514].Setters[0].Type Integer
-SetField Palette[514].Setters[0].IntegerValue 1
-SetField Palette[514].Setters[0].RealValue 0
-
-SetField Palette[515].Name "DARK OAK WINDOW OVERHANG"
-SetField Palette[515].Type Prop
-SetField Palette[515].CategoryIndex 86
-SetField Palette[515].DescriptionIndex -1
-SetField Palette[515].MaxAllowed 0
-SetField Palette[515].Object objects\block\dark_wood\window_overhang\window_overhang.scenery
-AddBlockElements Palette[515].Setters
-SetField Palette[515].Setters[0].Target General_Physics
-SetField Palette[515].Setters[0].Type Integer
-SetField Palette[515].Setters[0].IntegerValue 1
-SetField Palette[515].Setters[0].RealValue 0
-
-SetField Palette[516].Name "DIRT"
-SetField Palette[516].Type Prop
-SetField Palette[516].CategoryIndex 84
-SetField Palette[516].DescriptionIndex -1
-SetField Palette[516].MaxAllowed 0
-SetField Palette[516].Object objects\block\dirt\block\block.scenery
-AddBlockElements Palette[516].Setters
-SetField Palette[516].Setters[0].Target General_Physics
-SetField Palette[516].Setters[0].Type Integer
-SetField Palette[516].Setters[0].IntegerValue 1
-SetField Palette[516].Setters[0].RealValue 0
-
-SetField Palette[517].Name "DIRT CHUNK [3 x 3]"
-SetField Palette[517].Type Prop
-SetField Palette[517].CategoryIndex 92
-SetField Palette[517].DescriptionIndex -1
-SetField Palette[517].MaxAllowed 0
-SetField Palette[517].Object objects\block\dirt\chunk_flat\chunk_flat.scenery
-AddBlockElements Palette[517].Setters
-SetField Palette[517].Setters[0].Target General_Physics
-SetField Palette[517].Setters[0].Type Integer
-SetField Palette[517].Setters[0].IntegerValue 1
-SetField Palette[517].Setters[0].RealValue 0
-
-SetField Palette[518].Name "DIRT CHUNK [2 x 2]"
-SetField Palette[518].Type Prop
-SetField Palette[518].CategoryIndex 92
-SetField Palette[518].DescriptionIndex -1
-SetField Palette[518].MaxAllowed 0
-SetField Palette[518].Object objects\block\dirt\chunk_small\chunk_small.scenery
-AddBlockElements Palette[518].Setters
-SetField Palette[518].Setters[0].Target General_Physics
-SetField Palette[518].Setters[0].Type Integer
-SetField Palette[518].Setters[0].IntegerValue 1
-SetField Palette[518].Setters[0].RealValue 0
-
-SetField Palette[519].Name "DANDELION"
-SetField Palette[519].Type Prop
-SetField Palette[519].CategoryIndex 84
-SetField Palette[519].DescriptionIndex -1
-SetField Palette[519].MaxAllowed 0
-SetField Palette[519].Object objects\block\flower\dandelion\dandelion.scenery
-AddBlockElements Palette[519].Setters
-SetField Palette[519].Setters[0].Target General_Physics
-SetField Palette[519].Setters[0].Type Integer
-SetField Palette[519].Setters[0].IntegerValue 1
-SetField Palette[519].Setters[0].RealValue 0
-
-SetField Palette[520].Name "POPPY"
-SetField Palette[520].Type Prop
-SetField Palette[520].CategoryIndex 84
-SetField Palette[520].DescriptionIndex -1
-SetField Palette[520].MaxAllowed 0
-SetField Palette[520].Object objects\block\flower\poppy\poppy.scenery
-AddBlockElements Palette[520].Setters
-SetField Palette[520].Setters[0].Target General_Physics
-SetField Palette[520].Setters[0].Type Integer
-SetField Palette[520].Setters[0].IntegerValue 1
-SetField Palette[520].Setters[0].RealValue 0
-
-SetField Palette[521].Name "GLASS PANE BLUE [2 x 2]"
-SetField Palette[521].Type Prop
-SetField Palette[521].CategoryIndex 87
-SetField Palette[521].DescriptionIndex -1
-SetField Palette[521].MaxAllowed 0
-SetField Palette[521].Object objects\block\glass\blue\blue.scenery
-AddBlockElements Palette[521].Setters
-SetField Palette[521].Setters[0].Target General_Physics
-SetField Palette[521].Setters[0].Type Integer
-SetField Palette[521].Setters[0].IntegerValue 1
-SetField Palette[521].Setters[0].RealValue 0
-
-SetField Palette[522].Name "GLASS PANE BLUE [4 x 4]"
-SetField Palette[522].Type Prop
-SetField Palette[522].CategoryIndex 87
-SetField Palette[522].DescriptionIndex -1
-SetField Palette[522].MaxAllowed 0
-SetField Palette[522].Object objects\block\glass\blue_big\blue_big.scenery
-AddBlockElements Palette[522].Setters
-SetField Palette[522].Setters[0].Target General_Physics
-SetField Palette[522].Setters[0].Type Integer
-SetField Palette[522].Setters[0].IntegerValue 1
-SetField Palette[522].Setters[0].RealValue 0
-
-SetField Palette[523].Name "GLASS PANE BLUE [1 x 4]"
-SetField Palette[523].Type Prop
-SetField Palette[523].CategoryIndex 87
-SetField Palette[523].DescriptionIndex -1
-SetField Palette[523].MaxAllowed 0
-SetField Palette[523].Object objects\block\glass\blue_narrow\blue_narrow.scenery
-AddBlockElements Palette[523].Setters
-SetField Palette[523].Setters[0].Target General_Physics
-SetField Palette[523].Setters[0].Type Integer
-SetField Palette[523].Setters[0].IntegerValue 1
-SetField Palette[523].Setters[0].RealValue 0
-
-SetField Palette[524].Name "GLASS PANE BLUE [1 x 1]"
-SetField Palette[524].Type Prop
-SetField Palette[524].CategoryIndex 87
-SetField Palette[524].DescriptionIndex -1
-SetField Palette[524].MaxAllowed 0
-SetField Palette[524].Object objects\block\glass\blue_small\blue_small.scenery
-AddBlockElements Palette[524].Setters
-SetField Palette[524].Setters[0].Target General_Physics
-SetField Palette[524].Setters[0].Type Integer
-SetField Palette[524].Setters[0].IntegerValue 1
-SetField Palette[524].Setters[0].RealValue 0
-
-SetField Palette[525].Name "GLASS PANE, DOUBLE"
-SetField Palette[525].Type Prop
-SetField Palette[525].CategoryIndex 92
-SetField Palette[525].DescriptionIndex -1
-SetField Palette[525].MaxAllowed 0
-SetField Palette[525].Object objects\block\glass\double\double.scenery
-AddBlockElements Palette[525].Setters
-SetField Palette[525].Setters[0].Target General_Physics
-SetField Palette[525].Setters[0].Type Integer
-SetField Palette[525].Setters[0].IntegerValue 1
-SetField Palette[525].Setters[0].RealValue 0
-
-SetField Palette[526].Name "GLASS WINDOWS"
-SetField Palette[526].Type Prop
-SetField Palette[526].CategoryIndex 85
-SetField Palette[526].DescriptionIndex -1
-SetField Palette[526].MaxAllowed 0
-SetField Palette[526].Object objects\block\glass\part70\part70.scenery
-AddBlockElements Palette[526].Setters
-SetField Palette[526].Setters[0].Target General_Physics
-SetField Palette[526].Setters[0].Type Integer
-SetField Palette[526].Setters[0].IntegerValue 1
-SetField Palette[526].Setters[0].RealValue 0
-
-SetField Palette[527].Name "GLASS PANE [2 x 2]"
-SetField Palette[527].Type Prop
-SetField Palette[527].CategoryIndex 92
-SetField Palette[527].DescriptionIndex -1
-SetField Palette[527].MaxAllowed 0
-SetField Palette[527].Object objects\block\glass\part73\part73.scenery
-AddBlockElements Palette[527].Setters
-SetField Palette[527].Setters[0].Target General_Physics
-SetField Palette[527].Setters[0].Type Integer
-SetField Palette[527].Setters[0].IntegerValue 1
-SetField Palette[527].Setters[0].RealValue 0
-
-SetField Palette[528].Name "GLASS PANE RED [2 x 2]"
-SetField Palette[528].Type Prop
-SetField Palette[528].CategoryIndex 87
-SetField Palette[528].DescriptionIndex -1
-SetField Palette[528].MaxAllowed 0
-SetField Palette[528].Object objects\block\glass\red\red.scenery
-AddBlockElements Palette[528].Setters
-SetField Palette[528].Setters[0].Target General_Physics
-SetField Palette[528].Setters[0].Type Integer
-SetField Palette[528].Setters[0].IntegerValue 1
-SetField Palette[528].Setters[0].RealValue 0
-
-SetField Palette[529].Name "GLASS PANE RED [4 x 4]"
-SetField Palette[529].Type Prop
-SetField Palette[529].CategoryIndex 87
-SetField Palette[529].DescriptionIndex -1
-SetField Palette[529].MaxAllowed 0
-SetField Palette[529].Object objects\block\glass\red_big\red_big.scenery
-AddBlockElements Palette[529].Setters
-SetField Palette[529].Setters[0].Target General_Physics
-SetField Palette[529].Setters[0].Type Integer
-SetField Palette[529].Setters[0].IntegerValue 1
-SetField Palette[529].Setters[0].RealValue 0
-
-SetField Palette[530].Name "GLASS PANE RED [1 x 4]"
-SetField Palette[530].Type Prop
-SetField Palette[530].CategoryIndex 87
-SetField Palette[530].DescriptionIndex -1
-SetField Palette[530].MaxAllowed 0
-SetField Palette[530].Object objects\block\glass\red_narrow\red_narrow.scenery
-AddBlockElements Palette[530].Setters
-SetField Palette[530].Setters[0].Target General_Physics
-SetField Palette[530].Setters[0].Type Integer
-SetField Palette[530].Setters[0].IntegerValue 1
-SetField Palette[530].Setters[0].RealValue 0
-
-SetField Palette[531].Name "GLASS PANE RED [1 x 1]"
-SetField Palette[531].Type Prop
-SetField Palette[531].CategoryIndex 87
-SetField Palette[531].DescriptionIndex -1
-SetField Palette[531].MaxAllowed 0
-SetField Palette[531].Object objects\block\glass\red_small\red_small.scenery
-AddBlockElements Palette[531].Setters
-SetField Palette[531].Setters[0].Target General_Physics
-SetField Palette[531].Setters[0].Type Integer
-SetField Palette[531].Setters[0].IntegerValue 1
-SetField Palette[531].Setters[0].RealValue 0
-
-SetField Palette[532].Name "GLASS PANE"
-SetField Palette[532].Type Prop
-SetField Palette[532].CategoryIndex 84
-SetField Palette[532].DescriptionIndex -1
-SetField Palette[532].MaxAllowed 0
-SetField Palette[532].Object objects\block\glass\single\single.scenery
-AddBlockElements Palette[532].Setters
-SetField Palette[532].Setters[0].Target General_Physics
-SetField Palette[532].Setters[0].Type Integer
-SetField Palette[532].Setters[0].IntegerValue 1
-SetField Palette[532].Setters[0].RealValue 0
-
-SetField Palette[533].Name "GLASS PANE, TRIPLE"
-SetField Palette[533].Type Prop
-SetField Palette[533].CategoryIndex 92
-SetField Palette[533].DescriptionIndex -1
-SetField Palette[533].MaxAllowed 0
-SetField Palette[533].Object objects\block\glass\triple\triple.scenery
-AddBlockElements Palette[533].Setters
-SetField Palette[533].Setters[0].Target General_Physics
-SetField Palette[533].Setters[0].Type Integer
-SetField Palette[533].Setters[0].IntegerValue 1
-SetField Palette[533].Setters[0].RealValue 0
-
-SetField Palette[534].Name "GLASS PANE WHITE [1 x 4]"
-SetField Palette[534].Type Prop
-SetField Palette[534].CategoryIndex 87
-SetField Palette[534].DescriptionIndex -1
-SetField Palette[534].MaxAllowed 0
-SetField Palette[534].Object objects\block\glass\white_big\white_big.scenery
-AddBlockElements Palette[534].Setters
-SetField Palette[534].Setters[0].Target General_Physics
-SetField Palette[534].Setters[0].Type Integer
-SetField Palette[534].Setters[0].IntegerValue 1
-SetField Palette[534].Setters[0].RealValue 0
-
-SetField Palette[535].Name "GLASS PANE WHITE [1 x 16]"
-SetField Palette[535].Type Prop
-SetField Palette[535].CategoryIndex 87
-SetField Palette[535].DescriptionIndex -1
-SetField Palette[535].MaxAllowed 0
-SetField Palette[535].Object objects\block\glass\white_huge\white_huge.scenery
-AddBlockElements Palette[535].Setters
-SetField Palette[535].Setters[0].Target General_Physics
-SetField Palette[535].Setters[0].Type Integer
-SetField Palette[535].Setters[0].IntegerValue 1
-SetField Palette[535].Setters[0].RealValue 0
-
-SetField Palette[536].Name "GLASS PANE WHITE [1 x 7]"
-SetField Palette[536].Type Prop
-SetField Palette[536].CategoryIndex 87
-SetField Palette[536].DescriptionIndex -1
-SetField Palette[536].MaxAllowed 0
-SetField Palette[536].Object objects\block\glass\white_large\white_large.scenery
-AddBlockElements Palette[536].Setters
-SetField Palette[536].Setters[0].Target General_Physics
-SetField Palette[536].Setters[0].Type Integer
-SetField Palette[536].Setters[0].IntegerValue 1
-SetField Palette[536].Setters[0].RealValue 0
-
-SetField Palette[537].Name "GLASS PANE WHITE [1 x 1]"
-SetField Palette[537].Type Prop
-SetField Palette[537].CategoryIndex 87
-SetField Palette[537].DescriptionIndex -1
-SetField Palette[537].MaxAllowed 0
-SetField Palette[537].Object objects\block\glass\white_small\white_small.scenery
-AddBlockElements Palette[537].Setters
-SetField Palette[537].Setters[0].Target General_Physics
-SetField Palette[537].Setters[0].Type Integer
-SetField Palette[537].Setters[0].IntegerValue 1
-SetField Palette[537].Setters[0].RealValue 0
-
-SetField Palette[538].Name "GLASS WINDOW"
-SetField Palette[538].Type Prop
-SetField Palette[538].CategoryIndex 87
-SetField Palette[538].DescriptionIndex -1
-SetField Palette[538].MaxAllowed 0
-SetField Palette[538].Object objects\block\glass\window\window.scenery
-AddBlockElements Palette[538].Setters
-SetField Palette[538].Setters[0].Target General_Physics
-SetField Palette[538].Setters[0].Type Integer
-SetField Palette[538].Setters[0].IntegerValue 1
-SetField Palette[538].Setters[0].RealValue 0
-
-SetField Palette[539].Name "GRASS"
-SetField Palette[539].Type Prop
-SetField Palette[539].CategoryIndex 84
-SetField Palette[539].DescriptionIndex -1
-SetField Palette[539].MaxAllowed 0
-SetField Palette[539].Object objects\block\grass\block\block.scenery
-AddBlockElements Palette[539].Setters
-SetField Palette[539].Setters[0].Target General_Physics
-SetField Palette[539].Setters[0].Type Integer
-SetField Palette[539].Setters[0].IntegerValue 1
-SetField Palette[539].Setters[0].RealValue 0
-
-SetField Palette[540].Name "GRASS CHUNK [2 x 2 x 2]"
-SetField Palette[540].Type Prop
-SetField Palette[540].CategoryIndex 92
-SetField Palette[540].DescriptionIndex -1
-SetField Palette[540].MaxAllowed 0
-SetField Palette[540].Object objects\block\grass\chunk_cube\chunk_cube.scenery
-AddBlockElements Palette[540].Setters
-SetField Palette[540].Setters[0].Target General_Physics
-SetField Palette[540].Setters[0].Type Integer
-SetField Palette[540].Setters[0].IntegerValue 1
-SetField Palette[540].Setters[0].RealValue 0
-
-SetField Palette[541].Name "GRASS CHUNK [4 x 4]"
-SetField Palette[541].Type Prop
-SetField Palette[541].CategoryIndex 92
-SetField Palette[541].DescriptionIndex -1
-SetField Palette[541].MaxAllowed 0
-SetField Palette[541].Object objects\block\grass\chunk_flat\chunk_flat.scenery
-AddBlockElements Palette[541].Setters
-SetField Palette[541].Setters[0].Target General_Physics
-SetField Palette[541].Setters[0].Type Integer
-SetField Palette[541].Setters[0].IntegerValue 1
-SetField Palette[541].Setters[0].RealValue 0
-
-SetField Palette[542].Name "GRASS CHUNK [2 x 4 x 2]"
-SetField Palette[542].Type Prop
-SetField Palette[542].CategoryIndex 92
-SetField Palette[542].DescriptionIndex -1
-SetField Palette[542].MaxAllowed 0
-SetField Palette[542].Object objects\block\grass\chunk_long\chunk_long.scenery
-AddBlockElements Palette[542].Setters
-SetField Palette[542].Setters[0].Target General_Physics
-SetField Palette[542].Setters[0].Type Integer
-SetField Palette[542].Setters[0].IntegerValue 1
-SetField Palette[542].Setters[0].RealValue 0
-
-SetField Palette[543].Name "GRASS CHUNK [1 x 4 x 2]"
-SetField Palette[543].Type Prop
-SetField Palette[543].CategoryIndex 92
-SetField Palette[543].DescriptionIndex -1
-SetField Palette[543].MaxAllowed 0
-SetField Palette[543].Object objects\block\grass\chunk_long_narrow\chunk_long_narrow.scenery
-AddBlockElements Palette[543].Setters
-SetField Palette[543].Setters[0].Target General_Physics
-SetField Palette[543].Setters[0].Type Integer
-SetField Palette[543].Setters[0].IntegerValue 1
-SetField Palette[543].Setters[0].RealValue 0
-
-SetField Palette[544].Name "GRASS CHUNK [1 x 1 x 2]"
-SetField Palette[544].Type Prop
-SetField Palette[544].CategoryIndex 92
-SetField Palette[544].DescriptionIndex -1
-SetField Palette[544].MaxAllowed 0
-SetField Palette[544].Object objects\block\grass\chunk_single\chunk_single.scenery
-AddBlockElements Palette[544].Setters
-SetField Palette[544].Setters[0].Target General_Physics
-SetField Palette[544].Setters[0].Type Integer
-SetField Palette[544].Setters[0].IntegerValue 1
-SetField Palette[544].Setters[0].RealValue 0
-
-SetField Palette[545].Name "GRASS CHUNK [2 x 2]"
-SetField Palette[545].Type Prop
-SetField Palette[545].CategoryIndex 92
-SetField Palette[545].DescriptionIndex -1
-SetField Palette[545].MaxAllowed 0
-SetField Palette[545].Object objects\block\grass\chunk_small\chunk_small.scenery
-AddBlockElements Palette[545].Setters
-SetField Palette[545].Setters[0].Target General_Physics
-SetField Palette[545].Setters[0].Type Integer
-SetField Palette[545].Setters[0].IntegerValue 1
-SetField Palette[545].Setters[0].RealValue 0
-
-SetField Palette[546].Name "GRASS CHUNK [1 x 4]"
-SetField Palette[546].Type Prop
-SetField Palette[546].CategoryIndex 92
-SetField Palette[546].DescriptionIndex -1
-SetField Palette[546].MaxAllowed 0
-SetField Palette[546].Object objects\block\grass\chunk_small_long\chunk_small_long.scenery
-AddBlockElements Palette[546].Setters
-SetField Palette[546].Setters[0].Target General_Physics
-SetField Palette[546].Setters[0].Type Integer
-SetField Palette[546].Setters[0].IntegerValue 1
-SetField Palette[546].Setters[0].RealValue 0
-
-SetField Palette[547].Name "GRASS CHUNK [4 x 1]"
-SetField Palette[547].Type Prop
-SetField Palette[547].CategoryIndex 92
-SetField Palette[547].DescriptionIndex -1
-SetField Palette[547].MaxAllowed 0
-SetField Palette[547].Object objects\block\grass\chunk_small_wide\chunk_small_wide.scenery
-AddBlockElements Palette[547].Setters
-SetField Palette[547].Setters[0].Target General_Physics
-SetField Palette[547].Setters[0].Type Integer
-SetField Palette[547].Setters[0].IntegerValue 1
-SetField Palette[547].Setters[0].RealValue 0
-
-SetField Palette[548].Name "GRASS CHUNK [4 x 2 x 2]"
-SetField Palette[548].Type Prop
-SetField Palette[548].CategoryIndex 92
-SetField Palette[548].DescriptionIndex -1
-SetField Palette[548].MaxAllowed 0
-SetField Palette[548].Object objects\block\grass\chunk_wide\chunk_wide.scenery
-AddBlockElements Palette[548].Setters
-SetField Palette[548].Setters[0].Target General_Physics
-SetField Palette[548].Setters[0].Type Integer
-SetField Palette[548].Setters[0].IntegerValue 1
-SetField Palette[548].Setters[0].RealValue 0
-
-SetField Palette[549].Name "GRASS CHUNK [4 x 1 x 2]"
-SetField Palette[549].Type Prop
-SetField Palette[549].CategoryIndex 92
-SetField Palette[549].DescriptionIndex -1
-SetField Palette[549].MaxAllowed 0
-SetField Palette[549].Object objects\block\grass\chunk_wide_narrow\chunk_wide_narrow.scenery
-AddBlockElements Palette[549].Setters
-SetField Palette[549].Setters[0].Target General_Physics
-SetField Palette[549].Setters[0].Type Integer
-SetField Palette[549].Setters[0].IntegerValue 1
-SetField Palette[549].Setters[0].RealValue 0
-
-SetField Palette[550].Name "OAK LOG"
-SetField Palette[550].Type Prop
-SetField Palette[550].CategoryIndex 84
-SetField Palette[550].DescriptionIndex -1
-SetField Palette[550].MaxAllowed 0
-SetField Palette[550].Object objects\block\log\block\block.scenery
-AddBlockElements Palette[550].Setters
-SetField Palette[550].Setters[0].Target General_Physics
-SetField Palette[550].Setters[0].Type Integer
-SetField Palette[550].Setters[0].IntegerValue 1
-SetField Palette[550].Setters[0].RealValue 0
-
-SetField Palette[551].Name "OAK LOG, MEDIUM"
-SetField Palette[551].Type Prop
-SetField Palette[551].CategoryIndex 92
-SetField Palette[551].DescriptionIndex -1
-SetField Palette[551].MaxAllowed 0
-SetField Palette[551].Object objects\block\log\column\column.scenery
-AddBlockElements Palette[551].Setters
-SetField Palette[551].Setters[0].Target General_Physics
-SetField Palette[551].Setters[0].Type Integer
-SetField Palette[551].Setters[0].IntegerValue 1
-SetField Palette[551].Setters[0].RealValue 0
-
-SetField Palette[552].Name "OAK LOG, LARGE"
-SetField Palette[552].Type Prop
-SetField Palette[552].CategoryIndex 92
-SetField Palette[552].DescriptionIndex -1
-SetField Palette[552].MaxAllowed 0
-SetField Palette[552].Object objects\block\log\column_big\column_big.scenery
-AddBlockElements Palette[552].Setters
-SetField Palette[552].Setters[0].Target General_Physics
-SetField Palette[552].Setters[0].Type Integer
-SetField Palette[552].Setters[0].IntegerValue 1
-SetField Palette[552].Setters[0].RealValue 0
-
-SetField Palette[553].Name "OAK LOG, SMALL"
-SetField Palette[553].Type Prop
-SetField Palette[553].CategoryIndex 92
-SetField Palette[553].DescriptionIndex -1
-SetField Palette[553].MaxAllowed 0
-SetField Palette[553].Object objects\block\log\column_small\column_small.scenery
-AddBlockElements Palette[553].Setters
-SetField Palette[553].Setters[0].Target General_Physics
-SetField Palette[553].Setters[0].Type Integer
-SetField Palette[553].Setters[0].IntegerValue 1
-SetField Palette[553].Setters[0].RealValue 0
-
-SetField Palette[554].Name "TREE"
-SetField Palette[554].Type Prop
-SetField Palette[554].CategoryIndex 92
-SetField Palette[554].DescriptionIndex -1
-SetField Palette[554].MaxAllowed 0
-SetField Palette[554].Object objects\block\log\tree\tree.scenery
-AddBlockElements Palette[554].Setters
-SetField Palette[554].Setters[0].Target General_Physics
-SetField Palette[554].Setters[0].Type Integer
-SetField Palette[554].Setters[0].IntegerValue 1
-SetField Palette[554].Setters[0].RealValue 0
-
-SetField Palette[555].Name "MANSION SIGN A"
-SetField Palette[555].Type Prop
-SetField Palette[555].CategoryIndex 86
-SetField Palette[555].DescriptionIndex -1
-SetField Palette[555].MaxAllowed 0
-SetField Palette[555].Object objects\block\patron\sign_func_a\sign_func_a.scenery
-AddBlockElements Palette[555].Setters
-SetField Palette[555].Setters[0].Target General_Physics
-SetField Palette[555].Setters[0].Type Integer
-SetField Palette[555].Setters[0].IntegerValue 1
-SetField Palette[555].Setters[0].RealValue 0
-
-SetField Palette[556].Name "MANSION SIGN B"
-SetField Palette[556].Type Prop
-SetField Palette[556].CategoryIndex 86
-SetField Palette[556].DescriptionIndex -1
-SetField Palette[556].MaxAllowed 0
-SetField Palette[556].Object objects\block\patron\sign_func_b\sign_func_b.scenery
-AddBlockElements Palette[556].Setters
-SetField Palette[556].Setters[0].Target General_Physics
-SetField Palette[556].Setters[0].Type Integer
-SetField Palette[556].Setters[0].IntegerValue 1
-SetField Palette[556].Setters[0].RealValue 0
-
-SetField Palette[557].Name "MANSION SIGN C"
-SetField Palette[557].Type Prop
-SetField Palette[557].CategoryIndex 86
-SetField Palette[557].DescriptionIndex -1
-SetField Palette[557].MaxAllowed 0
-SetField Palette[557].Object objects\block\patron\sign_func_c\sign_func_c.scenery
-AddBlockElements Palette[557].Setters
-SetField Palette[557].Setters[0].Target General_Physics
-SetField Palette[557].Setters[0].Type Integer
-SetField Palette[557].Setters[0].IntegerValue 1
-SetField Palette[557].Setters[0].RealValue 0
-
-SetField Palette[558].Name "SPLEEF SAFEZONE"
-SetField Palette[558].Type Prop
-SetField Palette[558].CategoryIndex 87
-SetField Palette[558].DescriptionIndex -1
-SetField Palette[558].MaxAllowed 0
-SetField Palette[558].Object objects\block\safezone\spleef\spleef.crate
-AddBlockElements Palette[558].Setters
-SetField Palette[558].Setters[0].Target General_Physics
-SetField Palette[558].Setters[0].Type Integer
-SetField Palette[558].Setters[0].IntegerValue 1
-SetField Palette[558].Setters[0].RealValue 0
-
-SetField Palette[559].Name "HOUSE LARGE SHADOW"
-SetField Palette[559].Type Prop
-SetField Palette[559].CategoryIndex 85
-SetField Palette[559].DescriptionIndex -1
-SetField Palette[559].MaxAllowed 0
-SetField Palette[559].Object objects\block\shadow\house_big\house_big.scenery
-AddBlockElements Palette[559].Setters
-SetField Palette[559].Setters[0].Target General_Physics
-SetField Palette[559].Setters[0].Type Integer
-SetField Palette[559].Setters[0].IntegerValue 1
-SetField Palette[559].Setters[0].RealValue 0
-
-SetField Palette[560].Name "HOUSE SMALL SHADOW"
-SetField Palette[560].Type Prop
-SetField Palette[560].CategoryIndex 85
-SetField Palette[560].DescriptionIndex -1
-SetField Palette[560].MaxAllowed 0
-SetField Palette[560].Object objects\block\shadow\house_small\house_small.scenery
-AddBlockElements Palette[560].Setters
-SetField Palette[560].Setters[0].Target General_Physics
-SetField Palette[560].Setters[0].Type Integer
-SetField Palette[560].Setters[0].IntegerValue 1
-SetField Palette[560].Setters[0].RealValue 0
-
-SetField Palette[561].Name "LOCKOUT SHADOW"
-SetField Palette[561].Type Prop
-SetField Palette[561].CategoryIndex 85
-SetField Palette[561].DescriptionIndex -1
-SetField Palette[561].MaxAllowed 0
-SetField Palette[561].Object objects\block\shadow\lockout\lockout.scenery
-AddBlockElements Palette[561].Setters
-SetField Palette[561].Setters[0].Target General_Physics
-SetField Palette[561].Setters[0].Type Integer
-SetField Palette[561].Setters[0].IntegerValue 1
-SetField Palette[561].Setters[0].RealValue 0
-
-SetField Palette[562].Name "ROOF SHADOW"
-SetField Palette[562].Type Prop
-SetField Palette[562].CategoryIndex 85
-SetField Palette[562].DescriptionIndex -1
-SetField Palette[562].MaxAllowed 0
-SetField Palette[562].Object objects\block\shadow\roof\roof.scenery
-AddBlockElements Palette[562].Setters
-SetField Palette[562].Setters[0].Target General_Physics
-SetField Palette[562].Setters[0].Type Integer
-SetField Palette[562].Setters[0].IntegerValue 1
-SetField Palette[562].Setters[0].RealValue 0
-
-SetField Palette[563].Name "ROOF FACADE SHADOW"
-SetField Palette[563].Type Prop
-SetField Palette[563].CategoryIndex 85
-SetField Palette[563].DescriptionIndex -1
-SetField Palette[563].MaxAllowed 0
-SetField Palette[563].Object objects\block\shadow\roof_facade\roof_facade.scenery
-AddBlockElements Palette[563].Setters
-SetField Palette[563].Setters[0].Target General_Physics
-SetField Palette[563].Setters[0].Type Integer
-SetField Palette[563].Setters[0].IntegerValue 1
-SetField Palette[563].Setters[0].RealValue 0
-
-SetField Palette[564].Name "SPLEEF PLATFORM SHADOW"
-SetField Palette[564].Type Prop
-SetField Palette[564].CategoryIndex 85
-SetField Palette[564].DescriptionIndex -1
-SetField Palette[564].MaxAllowed 0
-SetField Palette[564].Object objects\block\shadow\spleef_platform\spleef_platform.scenery
-AddBlockElements Palette[564].Setters
-SetField Palette[564].Setters[0].Target General_Physics
-SetField Palette[564].Setters[0].Type Integer
-SetField Palette[564].Setters[0].IntegerValue 1
-SetField Palette[564].Setters[0].RealValue 0
-
-SetField Palette[565].Name "SPLEEF STRUCTURE SHADOW"
-SetField Palette[565].Type Prop
-SetField Palette[565].CategoryIndex 85
-SetField Palette[565].DescriptionIndex -1
-SetField Palette[565].MaxAllowed 0
-SetField Palette[565].Object objects\block\shadow\spleef_structure\spleef_structure.scenery
-AddBlockElements Palette[565].Setters
-SetField Palette[565].Setters[0].Target General_Physics
-SetField Palette[565].Setters[0].Type Integer
-SetField Palette[565].Setters[0].IntegerValue 1
-SetField Palette[565].Setters[0].RealValue 0
-
-SetField Palette[566].Name "WALL SHADOW"
-SetField Palette[566].Type Prop
-SetField Palette[566].CategoryIndex 85
-SetField Palette[566].DescriptionIndex -1
-SetField Palette[566].MaxAllowed 0
-SetField Palette[566].Object objects\block\shadow\walls\walls.scenery
-AddBlockElements Palette[566].Setters
-SetField Palette[566].Setters[0].Target General_Physics
-SetField Palette[566].Setters[0].Type Integer
-SetField Palette[566].Setters[0].IntegerValue 1
-SetField Palette[566].Setters[0].RealValue 0
-
-SetField Palette[567].Name "BOUNCY SLIME"
-SetField Palette[567].Type Prop
-SetField Palette[567].CategoryIndex 85
-SetField Palette[567].DescriptionIndex -1
-SetField Palette[567].MaxAllowed 0
-SetField Palette[567].Object objects\block\slime\bounce\bounce.crate
-AddBlockElements Palette[567].Setters
-SetField Palette[567].Setters[0].Target General_Physics
-SetField Palette[567].Setters[0].Type Integer
-SetField Palette[567].Setters[0].IntegerValue 1
-SetField Palette[567].Setters[0].RealValue 0
-
-SetField Palette[568].Name "LOCKOUT SLIME"
-SetField Palette[568].Type Prop
-SetField Palette[568].CategoryIndex 85
-SetField Palette[568].DescriptionIndex -1
-SetField Palette[568].MaxAllowed 0
-SetField Palette[568].Object objects\block\slime\lockout\lockout.crate
-AddBlockElements Palette[568].Setters
-SetField Palette[568].Setters[0].Target General_Physics
-SetField Palette[568].Setters[0].Type Integer
-SetField Palette[568].Setters[0].IntegerValue 1
-SetField Palette[568].Setters[0].RealValue 0
-
-SetField Palette[569].Name "SPLEEF PAD"
-SetField Palette[569].Type Prop
-SetField Palette[569].CategoryIndex 87
-SetField Palette[569].DescriptionIndex -1
-SetField Palette[569].MaxAllowed 0
-SetField Palette[569].Object objects\block\slime\spleef_pads\spleef_pads.scenery
-AddBlockElements Palette[569].Setters
-SetField Palette[569].Setters[0].Target General_Physics
-SetField Palette[569].Setters[0].Type Integer
-SetField Palette[569].Setters[0].IntegerValue 1
-SetField Palette[569].Setters[0].RealValue 0
-
-SetField Palette[570].Name "STONE STRUCTURE 0"
-SetField Palette[570].Type Prop
-SetField Palette[570].CategoryIndex 85
-SetField Palette[570].DescriptionIndex -1
-SetField Palette[570].MaxAllowed 0
-SetField Palette[570].Object objects\block\stone\part00\part00.scenery
-AddBlockElements Palette[570].Setters
-SetField Palette[570].Setters[0].Target General_Physics
-SetField Palette[570].Setters[0].Type Integer
-SetField Palette[570].Setters[0].IntegerValue 1
-SetField Palette[570].Setters[0].RealValue 0
-
-SetField Palette[571].Name "STONE STRUCTURE 1"
-SetField Palette[571].Type Prop
-SetField Palette[571].CategoryIndex 85
-SetField Palette[571].DescriptionIndex -1
-SetField Palette[571].MaxAllowed 0
-SetField Palette[571].Object objects\block\stone\part01\part01.scenery
-AddBlockElements Palette[571].Setters
-SetField Palette[571].Setters[0].Target General_Physics
-SetField Palette[571].Setters[0].Type Integer
-SetField Palette[571].Setters[0].IntegerValue 1
-SetField Palette[571].Setters[0].RealValue 0
-
-SetField Palette[572].Name "STONE STRUCTURE 2"
-SetField Palette[572].Type Prop
-SetField Palette[572].CategoryIndex 85
-SetField Palette[572].DescriptionIndex -1
-SetField Palette[572].MaxAllowed 0
-SetField Palette[572].Object objects\block\stone\part02\part02.scenery
-AddBlockElements Palette[572].Setters
-SetField Palette[572].Setters[0].Target General_Physics
-SetField Palette[572].Setters[0].Type Integer
-SetField Palette[572].Setters[0].IntegerValue 1
-SetField Palette[572].Setters[0].RealValue 0
-
-SetField Palette[573].Name "STONE STRUCTURE 3"
-SetField Palette[573].Type Prop
-SetField Palette[573].CategoryIndex 85
-SetField Palette[573].DescriptionIndex -1
-SetField Palette[573].MaxAllowed 0
-SetField Palette[573].Object objects\block\stone\part03\part03.scenery
-AddBlockElements Palette[573].Setters
-SetField Palette[573].Setters[0].Target General_Physics
-SetField Palette[573].Setters[0].Type Integer
-SetField Palette[573].Setters[0].IntegerValue 1
-SetField Palette[573].Setters[0].RealValue 0
-
-SetField Palette[574].Name "STONE STRUCTURE 4"
-SetField Palette[574].Type Prop
-SetField Palette[574].CategoryIndex 85
-SetField Palette[574].DescriptionIndex -1
-SetField Palette[574].MaxAllowed 0
-SetField Palette[574].Object objects\block\stone\part04\part04.scenery
-AddBlockElements Palette[574].Setters
-SetField Palette[574].Setters[0].Target General_Physics
-SetField Palette[574].Setters[0].Type Integer
-SetField Palette[574].Setters[0].IntegerValue 1
-SetField Palette[574].Setters[0].RealValue 0
-
-SetField Palette[575].Name "STONE STRUCTURE 5"
-SetField Palette[575].Type Prop
-SetField Palette[575].CategoryIndex 85
-SetField Palette[575].DescriptionIndex -1
-SetField Palette[575].MaxAllowed 0
-SetField Palette[575].Object objects\block\stone\part05\part05.scenery
-AddBlockElements Palette[575].Setters
-SetField Palette[575].Setters[0].Target General_Physics
-SetField Palette[575].Setters[0].Type Integer
-SetField Palette[575].Setters[0].IntegerValue 1
-SetField Palette[575].Setters[0].RealValue 0
-
-SetField Palette[576].Name "STONE STRUCTURE 6"
-SetField Palette[576].Type Prop
-SetField Palette[576].CategoryIndex 85
-SetField Palette[576].DescriptionIndex -1
-SetField Palette[576].MaxAllowed 0
-SetField Palette[576].Object objects\block\stone\part06\part06.scenery
-AddBlockElements Palette[576].Setters
-SetField Palette[576].Setters[0].Target General_Physics
-SetField Palette[576].Setters[0].Type Integer
-SetField Palette[576].Setters[0].IntegerValue 1
-SetField Palette[576].Setters[0].RealValue 0
-
-SetField Palette[577].Name "STONE STRUCTURE 7"
-SetField Palette[577].Type Prop
-SetField Palette[577].CategoryIndex 85
-SetField Palette[577].DescriptionIndex -1
-SetField Palette[577].MaxAllowed 0
-SetField Palette[577].Object objects\block\stone\part07\part07.scenery
-AddBlockElements Palette[577].Setters
-SetField Palette[577].Setters[0].Target General_Physics
-SetField Palette[577].Setters[0].Type Integer
-SetField Palette[577].Setters[0].IntegerValue 1
-SetField Palette[577].Setters[0].RealValue 0
-
-SetField Palette[578].Name "STONE STRUCTURE 8"
-SetField Palette[578].Type Prop
-SetField Palette[578].CategoryIndex 85
-SetField Palette[578].DescriptionIndex -1
-SetField Palette[578].MaxAllowed 0
-SetField Palette[578].Object objects\block\stone\part08\part08.scenery
-AddBlockElements Palette[578].Setters
-SetField Palette[578].Setters[0].Target General_Physics
-SetField Palette[578].Setters[0].Type Integer
-SetField Palette[578].Setters[0].IntegerValue 1
-SetField Palette[578].Setters[0].RealValue 0
-
-SetField Palette[579].Name "STONE STRUCTURE 9"
-SetField Palette[579].Type Prop
-SetField Palette[579].CategoryIndex 85
-SetField Palette[579].DescriptionIndex -1
-SetField Palette[579].MaxAllowed 0
-SetField Palette[579].Object objects\block\stone\part09\part09.scenery
-AddBlockElements Palette[579].Setters
-SetField Palette[579].Setters[0].Target General_Physics
-SetField Palette[579].Setters[0].Type Integer
-SetField Palette[579].Setters[0].IntegerValue 1
-SetField Palette[579].Setters[0].RealValue 0
-
-SetField Palette[580].Name "STONE STRUCTURE 10"
-SetField Palette[580].Type Prop
-SetField Palette[580].CategoryIndex 85
-SetField Palette[580].DescriptionIndex -1
-SetField Palette[580].MaxAllowed 0
-SetField Palette[580].Object objects\block\stone\part10\part10.scenery
-AddBlockElements Palette[580].Setters
-SetField Palette[580].Setters[0].Target General_Physics
-SetField Palette[580].Setters[0].Type Integer
-SetField Palette[580].Setters[0].IntegerValue 1
-SetField Palette[580].Setters[0].RealValue 0
-
-SetField Palette[581].Name "STONE STRUCTURE 11"
-SetField Palette[581].Type Prop
-SetField Palette[581].CategoryIndex 85
-SetField Palette[581].DescriptionIndex -1
-SetField Palette[581].MaxAllowed 0
-SetField Palette[581].Object objects\block\stone\part11\part11.scenery
-AddBlockElements Palette[581].Setters
-SetField Palette[581].Setters[0].Target General_Physics
-SetField Palette[581].Setters[0].Type Integer
-SetField Palette[581].Setters[0].IntegerValue 1
-SetField Palette[581].Setters[0].RealValue 0
-
-SetField Palette[582].Name "STONE STRUCTURE 12"
-SetField Palette[582].Type Prop
-SetField Palette[582].CategoryIndex 85
-SetField Palette[582].DescriptionIndex -1
-SetField Palette[582].MaxAllowed 0
-SetField Palette[582].Object objects\block\stone\part12\part12.scenery
-AddBlockElements Palette[582].Setters
-SetField Palette[582].Setters[0].Target General_Physics
-SetField Palette[582].Setters[0].Type Integer
-SetField Palette[582].Setters[0].IntegerValue 1
-SetField Palette[582].Setters[0].RealValue 0
-
-SetField Palette[583].Name "STONE STRUCTURE 13"
-SetField Palette[583].Type Prop
-SetField Palette[583].CategoryIndex 85
-SetField Palette[583].DescriptionIndex -1
-SetField Palette[583].MaxAllowed 0
-SetField Palette[583].Object objects\block\stone\part13\part13.scenery
-AddBlockElements Palette[583].Setters
-SetField Palette[583].Setters[0].Target General_Physics
-SetField Palette[583].Setters[0].Type Integer
-SetField Palette[583].Setters[0].IntegerValue 1
-SetField Palette[583].Setters[0].RealValue 0
-
-SetField Palette[584].Name "STONE STRUCTURE 14"
-SetField Palette[584].Type Prop
-SetField Palette[584].CategoryIndex 85
-SetField Palette[584].DescriptionIndex -1
-SetField Palette[584].MaxAllowed 0
-SetField Palette[584].Object objects\block\stone\part14\part14.scenery
-AddBlockElements Palette[584].Setters
-SetField Palette[584].Setters[0].Target General_Physics
-SetField Palette[584].Setters[0].Type Integer
-SetField Palette[584].Setters[0].IntegerValue 1
-SetField Palette[584].Setters[0].RealValue 0
-
-SetField Palette[585].Name "STONE STRUCTURE 15"
-SetField Palette[585].Type Prop
-SetField Palette[585].CategoryIndex 85
-SetField Palette[585].DescriptionIndex -1
-SetField Palette[585].MaxAllowed 0
-SetField Palette[585].Object objects\block\stone\part15\part15.scenery
-AddBlockElements Palette[585].Setters
-SetField Palette[585].Setters[0].Target General_Physics
-SetField Palette[585].Setters[0].Type Integer
-SetField Palette[585].Setters[0].IntegerValue 1
-SetField Palette[585].Setters[0].RealValue 0
-
-SetField Palette[586].Name "STONE STRUCTURE 16"
-SetField Palette[586].Type Prop
-SetField Palette[586].CategoryIndex 85
-SetField Palette[586].DescriptionIndex -1
-SetField Palette[586].MaxAllowed 0
-SetField Palette[586].Object objects\block\stone\part16\part16.scenery
-AddBlockElements Palette[586].Setters
-SetField Palette[586].Setters[0].Target General_Physics
-SetField Palette[586].Setters[0].Type Integer
-SetField Palette[586].Setters[0].IntegerValue 1
-SetField Palette[586].Setters[0].RealValue 0
-
-SetField Palette[587].Name "STONE STRUCTURE 17"
-SetField Palette[587].Type Prop
-SetField Palette[587].CategoryIndex 85
-SetField Palette[587].DescriptionIndex -1
-SetField Palette[587].MaxAllowed 0
-SetField Palette[587].Object objects\block\stone\part17\part17.scenery
-AddBlockElements Palette[587].Setters
-SetField Palette[587].Setters[0].Target General_Physics
-SetField Palette[587].Setters[0].Type Integer
-SetField Palette[587].Setters[0].IntegerValue 1
-SetField Palette[587].Setters[0].RealValue 0
-
-SetField Palette[588].Name "STONE STRUCTURE 18"
-SetField Palette[588].Type Prop
-SetField Palette[588].CategoryIndex 85
-SetField Palette[588].DescriptionIndex -1
-SetField Palette[588].MaxAllowed 0
-SetField Palette[588].Object objects\block\stone\part18\part18.scenery
-AddBlockElements Palette[588].Setters
-SetField Palette[588].Setters[0].Target General_Physics
-SetField Palette[588].Setters[0].Type Integer
-SetField Palette[588].Setters[0].IntegerValue 1
-SetField Palette[588].Setters[0].RealValue 0
-
-SetField Palette[589].Name "STONE STRUCTURE 19"
-SetField Palette[589].Type Prop
-SetField Palette[589].CategoryIndex 85
-SetField Palette[589].DescriptionIndex -1
-SetField Palette[589].MaxAllowed 0
-SetField Palette[589].Object objects\block\stone\part19\part19.scenery
-AddBlockElements Palette[589].Setters
-SetField Palette[589].Setters[0].Target General_Physics
-SetField Palette[589].Setters[0].Type Integer
-SetField Palette[589].Setters[0].IntegerValue 1
-SetField Palette[589].Setters[0].RealValue 0
-
-SetField Palette[590].Name "STONE STRUCTURE 20"
-SetField Palette[590].Type Prop
-SetField Palette[590].CategoryIndex 85
-SetField Palette[590].DescriptionIndex -1
-SetField Palette[590].MaxAllowed 0
-SetField Palette[590].Object objects\block\stone\part20\part20.scenery
-AddBlockElements Palette[590].Setters
-SetField Palette[590].Setters[0].Target General_Physics
-SetField Palette[590].Setters[0].Type Integer
-SetField Palette[590].Setters[0].IntegerValue 1
-SetField Palette[590].Setters[0].RealValue 0
-
-SetField Palette[591].Name "STONE STRUCTURE 21"
-SetField Palette[591].Type Prop
-SetField Palette[591].CategoryIndex 85
-SetField Palette[591].DescriptionIndex -1
-SetField Palette[591].MaxAllowed 0
-SetField Palette[591].Object objects\block\stone\part21\part21.scenery
-AddBlockElements Palette[591].Setters
-SetField Palette[591].Setters[0].Target General_Physics
-SetField Palette[591].Setters[0].Type Integer
-SetField Palette[591].Setters[0].IntegerValue 1
-SetField Palette[591].Setters[0].RealValue 0
-
-SetField Palette[592].Name "STONE STRUCTURE 22"
-SetField Palette[592].Type Prop
-SetField Palette[592].CategoryIndex 85
-SetField Palette[592].DescriptionIndex -1
-SetField Palette[592].MaxAllowed 0
-SetField Palette[592].Object objects\block\stone\part22\part22.scenery
-AddBlockElements Palette[592].Setters
-SetField Palette[592].Setters[0].Target General_Physics
-SetField Palette[592].Setters[0].Type Integer
-SetField Palette[592].Setters[0].IntegerValue 1
-SetField Palette[592].Setters[0].RealValue 0
-
-SetField Palette[593].Name "STONE STRUCTURE 23"
-SetField Palette[593].Type Prop
-SetField Palette[593].CategoryIndex 85
-SetField Palette[593].DescriptionIndex -1
-SetField Palette[593].MaxAllowed 0
-SetField Palette[593].Object objects\block\stone\part23\part23.scenery
-AddBlockElements Palette[593].Setters
-SetField Palette[593].Setters[0].Target General_Physics
-SetField Palette[593].Setters[0].Type Integer
-SetField Palette[593].Setters[0].IntegerValue 1
-SetField Palette[593].Setters[0].RealValue 0
-
-SetField Palette[594].Name "STONE STRUCTURE 24"
-SetField Palette[594].Type Prop
-SetField Palette[594].CategoryIndex 85
-SetField Palette[594].DescriptionIndex -1
-SetField Palette[594].MaxAllowed 0
-SetField Palette[594].Object objects\block\stone\part24\part24.scenery
-AddBlockElements Palette[594].Setters
-SetField Palette[594].Setters[0].Target General_Physics
-SetField Palette[594].Setters[0].Type Integer
-SetField Palette[594].Setters[0].IntegerValue 1
-SetField Palette[594].Setters[0].RealValue 0
-
-SetField Palette[595].Name "STONE STRUCTURE 25"
-SetField Palette[595].Type Prop
-SetField Palette[595].CategoryIndex 85
-SetField Palette[595].DescriptionIndex -1
-SetField Palette[595].MaxAllowed 0
-SetField Palette[595].Object objects\block\stone\part25\part25.scenery
-AddBlockElements Palette[595].Setters
-SetField Palette[595].Setters[0].Target General_Physics
-SetField Palette[595].Setters[0].Type Integer
-SetField Palette[595].Setters[0].IntegerValue 1
-SetField Palette[595].Setters[0].RealValue 0
-
-SetField Palette[596].Name "STONE STRUCTURE 26"
-SetField Palette[596].Type Prop
-SetField Palette[596].CategoryIndex 85
-SetField Palette[596].DescriptionIndex -1
-SetField Palette[596].MaxAllowed 0
-SetField Palette[596].Object objects\block\stone\part26\part26.scenery
-AddBlockElements Palette[596].Setters
-SetField Palette[596].Setters[0].Target General_Physics
-SetField Palette[596].Setters[0].Type Integer
-SetField Palette[596].Setters[0].IntegerValue 1
-SetField Palette[596].Setters[0].RealValue 0
-
-SetField Palette[597].Name "STONE STRUCTURE 27"
-SetField Palette[597].Type Prop
-SetField Palette[597].CategoryIndex 85
-SetField Palette[597].DescriptionIndex -1
-SetField Palette[597].MaxAllowed 0
-SetField Palette[597].Object objects\block\stone\part27\part27.scenery
-AddBlockElements Palette[597].Setters
-SetField Palette[597].Setters[0].Target General_Physics
-SetField Palette[597].Setters[0].Type Integer
-SetField Palette[597].Setters[0].IntegerValue 1
-SetField Palette[597].Setters[0].RealValue 0
-
-SetField Palette[598].Name "STONE STRUCTURE 28"
-SetField Palette[598].Type Prop
-SetField Palette[598].CategoryIndex 85
-SetField Palette[598].DescriptionIndex -1
-SetField Palette[598].MaxAllowed 0
-SetField Palette[598].Object objects\block\stone\part28\part28.scenery
-AddBlockElements Palette[598].Setters
-SetField Palette[598].Setters[0].Target General_Physics
-SetField Palette[598].Setters[0].Type Integer
-SetField Palette[598].Setters[0].IntegerValue 1
-SetField Palette[598].Setters[0].RealValue 0
-
-SetField Palette[599].Name "STONE STRUCTURE 29"
-SetField Palette[599].Type Prop
-SetField Palette[599].CategoryIndex 85
-SetField Palette[599].DescriptionIndex -1
-SetField Palette[599].MaxAllowed 0
-SetField Palette[599].Object objects\block\stone\part29\part29.scenery
-AddBlockElements Palette[599].Setters
-SetField Palette[599].Setters[0].Target General_Physics
-SetField Palette[599].Setters[0].Type Integer
-SetField Palette[599].Setters[0].IntegerValue 1
-SetField Palette[599].Setters[0].RealValue 0
-
-SetField Palette[600].Name "STONE STRUCTURE 30"
-SetField Palette[600].Type Prop
-SetField Palette[600].CategoryIndex 85
-SetField Palette[600].DescriptionIndex -1
-SetField Palette[600].MaxAllowed 0
-SetField Palette[600].Object objects\block\stone\part30\part30.scenery
-AddBlockElements Palette[600].Setters
-SetField Palette[600].Setters[0].Target General_Physics
-SetField Palette[600].Setters[0].Type Integer
-SetField Palette[600].Setters[0].IntegerValue 1
-SetField Palette[600].Setters[0].RealValue 0
-
-SetField Palette[601].Name "STONE STRUCTURE 31"
-SetField Palette[601].Type Prop
-SetField Palette[601].CategoryIndex 85
-SetField Palette[601].DescriptionIndex -1
-SetField Palette[601].MaxAllowed 0
-SetField Palette[601].Object objects\block\stone\part31\part31.scenery
-AddBlockElements Palette[601].Setters
-SetField Palette[601].Setters[0].Target General_Physics
-SetField Palette[601].Setters[0].Type Integer
-SetField Palette[601].Setters[0].IntegerValue 1
-SetField Palette[601].Setters[0].RealValue 0
-
-SetField Palette[602].Name "STONE STRUCTURE 32"
-SetField Palette[602].Type Prop
-SetField Palette[602].CategoryIndex 85
-SetField Palette[602].DescriptionIndex -1
-SetField Palette[602].MaxAllowed 0
-SetField Palette[602].Object objects\block\stone\part32\part32.scenery
-AddBlockElements Palette[602].Setters
-SetField Palette[602].Setters[0].Target General_Physics
-SetField Palette[602].Setters[0].Type Integer
-SetField Palette[602].Setters[0].IntegerValue 1
-SetField Palette[602].Setters[0].RealValue 0
-
-SetField Palette[603].Name "STONE STRUCTURE 33"
-SetField Palette[603].Type Prop
-SetField Palette[603].CategoryIndex 85
-SetField Palette[603].DescriptionIndex -1
-SetField Palette[603].MaxAllowed 0
-SetField Palette[603].Object objects\block\stone\part33\part33.scenery
-AddBlockElements Palette[603].Setters
-SetField Palette[603].Setters[0].Target General_Physics
-SetField Palette[603].Setters[0].Type Integer
-SetField Palette[603].Setters[0].IntegerValue 1
-SetField Palette[603].Setters[0].RealValue 0
-
-SetField Palette[604].Name "STONE STRUCTURE 34"
-SetField Palette[604].Type Prop
-SetField Palette[604].CategoryIndex 85
-SetField Palette[604].DescriptionIndex -1
-SetField Palette[604].MaxAllowed 0
-SetField Palette[604].Object objects\block\stone\part34\part34.scenery
-AddBlockElements Palette[604].Setters
-SetField Palette[604].Setters[0].Target General_Physics
-SetField Palette[604].Setters[0].Type Integer
-SetField Palette[604].Setters[0].IntegerValue 1
-SetField Palette[604].Setters[0].RealValue 0
-
-SetField Palette[605].Name "STONE STRUCTURE 35"
-SetField Palette[605].Type Prop
-SetField Palette[605].CategoryIndex 85
-SetField Palette[605].DescriptionIndex -1
-SetField Palette[605].MaxAllowed 0
-SetField Palette[605].Object objects\block\stone\part35\part35.scenery
-AddBlockElements Palette[605].Setters
-SetField Palette[605].Setters[0].Target General_Physics
-SetField Palette[605].Setters[0].Type Integer
-SetField Palette[605].Setters[0].IntegerValue 1
-SetField Palette[605].Setters[0].RealValue 0
-
-SetField Palette[606].Name "STONE STRUCTURE 36"
-SetField Palette[606].Type Prop
-SetField Palette[606].CategoryIndex 85
-SetField Palette[606].DescriptionIndex -1
-SetField Palette[606].MaxAllowed 0
-SetField Palette[606].Object objects\block\stone\part36\part36.scenery
-AddBlockElements Palette[606].Setters
-SetField Palette[606].Setters[0].Target General_Physics
-SetField Palette[606].Setters[0].Type Integer
-SetField Palette[606].Setters[0].IntegerValue 1
-SetField Palette[606].Setters[0].RealValue 0
-
-SetField Palette[607].Name "STONE STRUCTURE 37"
-SetField Palette[607].Type Prop
-SetField Palette[607].CategoryIndex 85
-SetField Palette[607].DescriptionIndex -1
-SetField Palette[607].MaxAllowed 0
-SetField Palette[607].Object objects\block\stone\part37\part37.scenery
-AddBlockElements Palette[607].Setters
-SetField Palette[607].Setters[0].Target General_Physics
-SetField Palette[607].Setters[0].Type Integer
-SetField Palette[607].Setters[0].IntegerValue 1
-SetField Palette[607].Setters[0].RealValue 0
-
-SetField Palette[608].Name "STONE STRUCTURE 38"
-SetField Palette[608].Type Prop
-SetField Palette[608].CategoryIndex 85
-SetField Palette[608].DescriptionIndex -1
-SetField Palette[608].MaxAllowed 0
-SetField Palette[608].Object objects\block\stone\part38\part38.scenery
-AddBlockElements Palette[608].Setters
-SetField Palette[608].Setters[0].Target General_Physics
-SetField Palette[608].Setters[0].Type Integer
-SetField Palette[608].Setters[0].IntegerValue 1
-SetField Palette[608].Setters[0].RealValue 0
-
-SetField Palette[609].Name "STONE STRUCTURE 39"
-SetField Palette[609].Type Prop
-SetField Palette[609].CategoryIndex 85
-SetField Palette[609].DescriptionIndex -1
-SetField Palette[609].MaxAllowed 0
-SetField Palette[609].Object objects\block\stone\part39\part39.scenery
-AddBlockElements Palette[609].Setters
-SetField Palette[609].Setters[0].Target General_Physics
-SetField Palette[609].Setters[0].Type Integer
-SetField Palette[609].Setters[0].IntegerValue 1
-SetField Palette[609].Setters[0].RealValue 0
-
-SetField Palette[610].Name "STONE STRUCTURE 40"
-SetField Palette[610].Type Prop
-SetField Palette[610].CategoryIndex 85
-SetField Palette[610].DescriptionIndex -1
-SetField Palette[610].MaxAllowed 0
-SetField Palette[610].Object objects\block\stone\part40\part40.scenery
-AddBlockElements Palette[610].Setters
-SetField Palette[610].Setters[0].Target General_Physics
-SetField Palette[610].Setters[0].Type Integer
-SetField Palette[610].Setters[0].IntegerValue 1
-SetField Palette[610].Setters[0].RealValue 0
-
-SetField Palette[611].Name "STONE STRUCTURE 41"
-SetField Palette[611].Type Prop
-SetField Palette[611].CategoryIndex 85
-SetField Palette[611].DescriptionIndex -1
-SetField Palette[611].MaxAllowed 0
-SetField Palette[611].Object objects\block\stone\part41\part41.scenery
-AddBlockElements Palette[611].Setters
-SetField Palette[611].Setters[0].Target General_Physics
-SetField Palette[611].Setters[0].Type Integer
-SetField Palette[611].Setters[0].IntegerValue 1
-SetField Palette[611].Setters[0].RealValue 0
-
-SetField Palette[612].Name "STONE STRUCTURE 42"
-SetField Palette[612].Type Prop
-SetField Palette[612].CategoryIndex 85
-SetField Palette[612].DescriptionIndex -1
-SetField Palette[612].MaxAllowed 0
-SetField Palette[612].Object objects\block\stone\part42\part42.scenery
-AddBlockElements Palette[612].Setters
-SetField Palette[612].Setters[0].Target General_Physics
-SetField Palette[612].Setters[0].Type Integer
-SetField Palette[612].Setters[0].IntegerValue 1
-SetField Palette[612].Setters[0].RealValue 0
-
-SetField Palette[613].Name "STONE STRUCTURE 43"
-SetField Palette[613].Type Prop
-SetField Palette[613].CategoryIndex 85
-SetField Palette[613].DescriptionIndex -1
-SetField Palette[613].MaxAllowed 0
-SetField Palette[613].Object objects\block\stone\part43\part43.scenery
-AddBlockElements Palette[613].Setters
-SetField Palette[613].Setters[0].Target General_Physics
-SetField Palette[613].Setters[0].Type Integer
-SetField Palette[613].Setters[0].IntegerValue 1
-SetField Palette[613].Setters[0].RealValue 0
-
-SetField Palette[614].Name "STONE STRUCTURE 44"
-SetField Palette[614].Type Prop
-SetField Palette[614].CategoryIndex 85
-SetField Palette[614].DescriptionIndex -1
-SetField Palette[614].MaxAllowed 0
-SetField Palette[614].Object objects\block\stone\part44\part44.scenery
-AddBlockElements Palette[614].Setters
-SetField Palette[614].Setters[0].Target General_Physics
-SetField Palette[614].Setters[0].Type Integer
-SetField Palette[614].Setters[0].IntegerValue 1
-SetField Palette[614].Setters[0].RealValue 0
-
-SetField Palette[615].Name "STONE STRUCTURE 45"
-SetField Palette[615].Type Prop
-SetField Palette[615].CategoryIndex 85
-SetField Palette[615].DescriptionIndex -1
-SetField Palette[615].MaxAllowed 0
-SetField Palette[615].Object objects\block\stone\part45\part45.scenery
-AddBlockElements Palette[615].Setters
-SetField Palette[615].Setters[0].Target General_Physics
-SetField Palette[615].Setters[0].Type Integer
-SetField Palette[615].Setters[0].IntegerValue 1
-SetField Palette[615].Setters[0].RealValue 0
-
-SetField Palette[616].Name "STONE STRUCTURE 46"
-SetField Palette[616].Type Prop
-SetField Palette[616].CategoryIndex 85
-SetField Palette[616].DescriptionIndex -1
-SetField Palette[616].MaxAllowed 0
-SetField Palette[616].Object objects\block\stone\part46\part46.scenery
-AddBlockElements Palette[616].Setters
-SetField Palette[616].Setters[0].Target General_Physics
-SetField Palette[616].Setters[0].Type Integer
-SetField Palette[616].Setters[0].IntegerValue 1
-SetField Palette[616].Setters[0].RealValue 0
-
-SetField Palette[617].Name "STONE STRUCTURE 47"
-SetField Palette[617].Type Prop
-SetField Palette[617].CategoryIndex 85
-SetField Palette[617].DescriptionIndex -1
-SetField Palette[617].MaxAllowed 0
-SetField Palette[617].Object objects\block\stone\part47\part47.scenery
-AddBlockElements Palette[617].Setters
-SetField Palette[617].Setters[0].Target General_Physics
-SetField Palette[617].Setters[0].Type Integer
-SetField Palette[617].Setters[0].IntegerValue 1
-SetField Palette[617].Setters[0].RealValue 0
-
-SetField Palette[618].Name "STONE STRUCTURE 48"
-SetField Palette[618].Type Prop
-SetField Palette[618].CategoryIndex 85
-SetField Palette[618].DescriptionIndex -1
-SetField Palette[618].MaxAllowed 0
-SetField Palette[618].Object objects\block\stone\part48\part48.scenery
-AddBlockElements Palette[618].Setters
-SetField Palette[618].Setters[0].Target General_Physics
-SetField Palette[618].Setters[0].Type Integer
-SetField Palette[618].Setters[0].IntegerValue 1
-SetField Palette[618].Setters[0].RealValue 0
-
-SetField Palette[619].Name "STONE STRUCTURE 49"
-SetField Palette[619].Type Prop
-SetField Palette[619].CategoryIndex 85
-SetField Palette[619].DescriptionIndex -1
-SetField Palette[619].MaxAllowed 0
-SetField Palette[619].Object objects\block\stone\part49\part49.scenery
-AddBlockElements Palette[619].Setters
-SetField Palette[619].Setters[0].Target General_Physics
-SetField Palette[619].Setters[0].Type Integer
-SetField Palette[619].Setters[0].IntegerValue 1
-SetField Palette[619].Setters[0].RealValue 0
-
-SetField Palette[620].Name "STONE STRUCTURE 50"
-SetField Palette[620].Type Prop
-SetField Palette[620].CategoryIndex 85
-SetField Palette[620].DescriptionIndex -1
-SetField Palette[620].MaxAllowed 0
-SetField Palette[620].Object objects\block\stone\part50\part50.scenery
-AddBlockElements Palette[620].Setters
-SetField Palette[620].Setters[0].Target General_Physics
-SetField Palette[620].Setters[0].Type Integer
-SetField Palette[620].Setters[0].IntegerValue 1
-SetField Palette[620].Setters[0].RealValue 0
-
-SetField Palette[621].Name "STONE STRUCTURE 51"
-SetField Palette[621].Type Prop
-SetField Palette[621].CategoryIndex 85
-SetField Palette[621].DescriptionIndex -1
-SetField Palette[621].MaxAllowed 0
-SetField Palette[621].Object objects\block\stone\part51\part51.scenery
-AddBlockElements Palette[621].Setters
-SetField Palette[621].Setters[0].Target General_Physics
-SetField Palette[621].Setters[0].Type Integer
-SetField Palette[621].Setters[0].IntegerValue 1
-SetField Palette[621].Setters[0].RealValue 0
-
-SetField Palette[622].Name "STONE STRUCTURE 52"
-SetField Palette[622].Type Prop
-SetField Palette[622].CategoryIndex 85
-SetField Palette[622].DescriptionIndex -1
-SetField Palette[622].MaxAllowed 0
-SetField Palette[622].Object objects\block\stone\part52\part52.scenery
-AddBlockElements Palette[622].Setters
-SetField Palette[622].Setters[0].Target General_Physics
-SetField Palette[622].Setters[0].Type Integer
-SetField Palette[622].Setters[0].IntegerValue 1
-SetField Palette[622].Setters[0].RealValue 0
-
-SetField Palette[623].Name "STONE STRUCTURE 53"
-SetField Palette[623].Type Prop
-SetField Palette[623].CategoryIndex 85
-SetField Palette[623].DescriptionIndex -1
-SetField Palette[623].MaxAllowed 0
-SetField Palette[623].Object objects\block\stone\part53\part53.scenery
-AddBlockElements Palette[623].Setters
-SetField Palette[623].Setters[0].Target General_Physics
-SetField Palette[623].Setters[0].Type Integer
-SetField Palette[623].Setters[0].IntegerValue 1
-SetField Palette[623].Setters[0].RealValue 0
-
-SetField Palette[624].Name "STONE STRUCTURE 54"
-SetField Palette[624].Type Prop
-SetField Palette[624].CategoryIndex 85
-SetField Palette[624].DescriptionIndex -1
-SetField Palette[624].MaxAllowed 0
-SetField Palette[624].Object objects\block\stone\part54\part54.scenery
-AddBlockElements Palette[624].Setters
-SetField Palette[624].Setters[0].Target General_Physics
-SetField Palette[624].Setters[0].Type Integer
-SetField Palette[624].Setters[0].IntegerValue 1
-SetField Palette[624].Setters[0].RealValue 0
-
-SetField Palette[625].Name "STONE STRUCTURE 55"
-SetField Palette[625].Type Prop
-SetField Palette[625].CategoryIndex 85
-SetField Palette[625].DescriptionIndex -1
-SetField Palette[625].MaxAllowed 0
-SetField Palette[625].Object objects\block\stone\part55\part55.scenery
-AddBlockElements Palette[625].Setters
-SetField Palette[625].Setters[0].Target General_Physics
-SetField Palette[625].Setters[0].Type Integer
-SetField Palette[625].Setters[0].IntegerValue 1
-SetField Palette[625].Setters[0].RealValue 0
-
-SetField Palette[626].Name "STONE STRUCTURE 56"
-SetField Palette[626].Type Prop
-SetField Palette[626].CategoryIndex 85
-SetField Palette[626].DescriptionIndex -1
-SetField Palette[626].MaxAllowed 0
-SetField Palette[626].Object objects\block\stone\part56\part56.scenery
-AddBlockElements Palette[626].Setters
-SetField Palette[626].Setters[0].Target General_Physics
-SetField Palette[626].Setters[0].Type Integer
-SetField Palette[626].Setters[0].IntegerValue 1
-SetField Palette[626].Setters[0].RealValue 0
-
-SetField Palette[627].Name "STONE STRUCTURE 57"
-SetField Palette[627].Type Prop
-SetField Palette[627].CategoryIndex 85
-SetField Palette[627].DescriptionIndex -1
-SetField Palette[627].MaxAllowed 0
-SetField Palette[627].Object objects\block\stone\part57\part57.scenery
-AddBlockElements Palette[627].Setters
-SetField Palette[627].Setters[0].Target General_Physics
-SetField Palette[627].Setters[0].Type Integer
-SetField Palette[627].Setters[0].IntegerValue 1
-SetField Palette[627].Setters[0].RealValue 0
-
-SetField Palette[628].Name "STONE STRUCTURE 58"
-SetField Palette[628].Type Prop
-SetField Palette[628].CategoryIndex 85
-SetField Palette[628].DescriptionIndex -1
-SetField Palette[628].MaxAllowed 0
-SetField Palette[628].Object objects\block\stone\part58\part58.scenery
-AddBlockElements Palette[628].Setters
-SetField Palette[628].Setters[0].Target General_Physics
-SetField Palette[628].Setters[0].Type Integer
-SetField Palette[628].Setters[0].IntegerValue 1
-SetField Palette[628].Setters[0].RealValue 0
-
-SetField Palette[629].Name "STONE STRUCTURE 59"
-SetField Palette[629].Type Prop
-SetField Palette[629].CategoryIndex 85
-SetField Palette[629].DescriptionIndex -1
-SetField Palette[629].MaxAllowed 0
-SetField Palette[629].Object objects\block\stone\part59\part59.scenery
-AddBlockElements Palette[629].Setters
-SetField Palette[629].Setters[0].Target General_Physics
-SetField Palette[629].Setters[0].Type Integer
-SetField Palette[629].Setters[0].IntegerValue 1
-SetField Palette[629].Setters[0].RealValue 0
-
-SetField Palette[630].Name "STONE STRUCTURE 60"
-SetField Palette[630].Type Prop
-SetField Palette[630].CategoryIndex 85
-SetField Palette[630].DescriptionIndex -1
-SetField Palette[630].MaxAllowed 0
-SetField Palette[630].Object objects\block\stone\part60\part60.scenery
-AddBlockElements Palette[630].Setters
-SetField Palette[630].Setters[0].Target General_Physics
-SetField Palette[630].Setters[0].Type Integer
-SetField Palette[630].Setters[0].IntegerValue 1
-SetField Palette[630].Setters[0].RealValue 0
-
-SetField Palette[631].Name "STONE STRUCTURE 61"
-SetField Palette[631].Type Prop
-SetField Palette[631].CategoryIndex 85
-SetField Palette[631].DescriptionIndex -1
-SetField Palette[631].MaxAllowed 0
-SetField Palette[631].Object objects\block\stone\part61\part61.scenery
-AddBlockElements Palette[631].Setters
-SetField Palette[631].Setters[0].Target General_Physics
-SetField Palette[631].Setters[0].Type Integer
-SetField Palette[631].Setters[0].IntegerValue 1
-SetField Palette[631].Setters[0].RealValue 0
-
-SetField Palette[632].Name "STONE STRUCTURE 62"
-SetField Palette[632].Type Prop
-SetField Palette[632].CategoryIndex 85
-SetField Palette[632].DescriptionIndex -1
-SetField Palette[632].MaxAllowed 0
-SetField Palette[632].Object objects\block\stone\part62\part62.scenery
-AddBlockElements Palette[632].Setters
-SetField Palette[632].Setters[0].Target General_Physics
-SetField Palette[632].Setters[0].Type Integer
-SetField Palette[632].Setters[0].IntegerValue 1
-SetField Palette[632].Setters[0].RealValue 0
-
-SetField Palette[633].Name "STONE STRUCTURE 63"
-SetField Palette[633].Type Prop
-SetField Palette[633].CategoryIndex 85
-SetField Palette[633].DescriptionIndex -1
-SetField Palette[633].MaxAllowed 0
-SetField Palette[633].Object objects\block\stone\part63\part63.scenery
-AddBlockElements Palette[633].Setters
-SetField Palette[633].Setters[0].Target General_Physics
-SetField Palette[633].Setters[0].Type Integer
-SetField Palette[633].Setters[0].IntegerValue 1
-SetField Palette[633].Setters[0].RealValue 0
-
-SetField Palette[634].Name "STONE STRUCTURE 64"
-SetField Palette[634].Type Prop
-SetField Palette[634].CategoryIndex 85
-SetField Palette[634].DescriptionIndex -1
-SetField Palette[634].MaxAllowed 0
-SetField Palette[634].Object objects\block\stone\part64\part64.scenery
-AddBlockElements Palette[634].Setters
-SetField Palette[634].Setters[0].Target General_Physics
-SetField Palette[634].Setters[0].Type Integer
-SetField Palette[634].Setters[0].IntegerValue 1
-SetField Palette[634].Setters[0].RealValue 0
-
-SetField Palette[635].Name "STONE STRUCTURE 65"
-SetField Palette[635].Type Prop
-SetField Palette[635].CategoryIndex 85
-SetField Palette[635].DescriptionIndex -1
-SetField Palette[635].MaxAllowed 0
-SetField Palette[635].Object objects\block\stone\part65\part65.scenery
-AddBlockElements Palette[635].Setters
-SetField Palette[635].Setters[0].Target General_Physics
-SetField Palette[635].Setters[0].Type Integer
-SetField Palette[635].Setters[0].IntegerValue 1
-SetField Palette[635].Setters[0].RealValue 0
-
-SetField Palette[636].Name "STONE STRUCTURE 66"
-SetField Palette[636].Type Prop
-SetField Palette[636].CategoryIndex 85
-SetField Palette[636].DescriptionIndex -1
-SetField Palette[636].MaxAllowed 0
-SetField Palette[636].Object objects\block\stone\part66\part66.scenery
-AddBlockElements Palette[636].Setters
-SetField Palette[636].Setters[0].Target General_Physics
-SetField Palette[636].Setters[0].Type Integer
-SetField Palette[636].Setters[0].IntegerValue 1
-SetField Palette[636].Setters[0].RealValue 0
-
-SetField Palette[637].Name "STONE STRUCTURE 67"
-SetField Palette[637].Type Prop
-SetField Palette[637].CategoryIndex 85
-SetField Palette[637].DescriptionIndex -1
-SetField Palette[637].MaxAllowed 0
-SetField Palette[637].Object objects\block\stone\part67\part67.scenery
-AddBlockElements Palette[637].Setters
-SetField Palette[637].Setters[0].Target General_Physics
-SetField Palette[637].Setters[0].Type Integer
-SetField Palette[637].Setters[0].IntegerValue 1
-SetField Palette[637].Setters[0].RealValue 0
-
-SetField Palette[638].Name "STONE STRUCTURE 68"
-SetField Palette[638].Type Prop
-SetField Palette[638].CategoryIndex 85
-SetField Palette[638].DescriptionIndex -1
-SetField Palette[638].MaxAllowed 0
-SetField Palette[638].Object objects\block\stone\part68\part68.scenery
-AddBlockElements Palette[638].Setters
-SetField Palette[638].Setters[0].Target General_Physics
-SetField Palette[638].Setters[0].Type Integer
-SetField Palette[638].Setters[0].IntegerValue 1
-SetField Palette[638].Setters[0].RealValue 0
-
-SetField Palette[639].Name "STONE STRUCTURE 69"
-SetField Palette[639].Type Prop
-SetField Palette[639].CategoryIndex 85
-SetField Palette[639].DescriptionIndex -1
-SetField Palette[639].MaxAllowed 0
-SetField Palette[639].Object objects\block\stone\part69\part69.scenery
-AddBlockElements Palette[639].Setters
-SetField Palette[639].Setters[0].Target General_Physics
-SetField Palette[639].Setters[0].Type Integer
-SetField Palette[639].Setters[0].IntegerValue 1
-SetField Palette[639].Setters[0].RealValue 0
-
-SetField Palette[640].Name "STONE STRUCTURE 71"
-SetField Palette[640].Type Prop
-SetField Palette[640].CategoryIndex 85
-SetField Palette[640].DescriptionIndex -1
-SetField Palette[640].MaxAllowed 0
-SetField Palette[640].Object objects\block\stone\part71\part71.scenery
-AddBlockElements Palette[640].Setters
-SetField Palette[640].Setters[0].Target General_Physics
-SetField Palette[640].Setters[0].Type Integer
-SetField Palette[640].Setters[0].IntegerValue 1
-SetField Palette[640].Setters[0].RealValue 0
-
-SetField Palette[641].Name "STONE STRUCTURE 72"
-SetField Palette[641].Type Prop
-SetField Palette[641].CategoryIndex 85
-SetField Palette[641].DescriptionIndex -1
-SetField Palette[641].MaxAllowed 0
-SetField Palette[641].Object objects\block\stone\part72\part72.scenery
-AddBlockElements Palette[641].Setters
-SetField Palette[641].Setters[0].Target General_Physics
-SetField Palette[641].Setters[0].Type Integer
-SetField Palette[641].Setters[0].IntegerValue 1
-SetField Palette[641].Setters[0].RealValue 0
-
-SetField Palette[642].Name "TALL GRASS"
-SetField Palette[642].Type Prop
-SetField Palette[642].CategoryIndex 84
-SetField Palette[642].DescriptionIndex -1
-SetField Palette[642].MaxAllowed 0
-SetField Palette[642].Object objects\block\tall_grass\block\block.scenery
-AddBlockElements Palette[642].Setters
-SetField Palette[642].Setters[0].Target General_Physics
-SetField Palette[642].Setters[0].Type Integer
-SetField Palette[642].Setters[0].IntegerValue 1
-SetField Palette[642].Setters[0].RealValue 0
-
-SetField Palette[643].Name "TALL GRASS PATCH"
-SetField Palette[643].Type Prop
-SetField Palette[643].CategoryIndex 88
-SetField Palette[643].DescriptionIndex -1
-SetField Palette[643].MaxAllowed 0
-SetField Palette[643].Object objects\block\tall_grass\chunk\chunk.scenery
-AddBlockElements Palette[643].Setters
-SetField Palette[643].Setters[0].Target General_Physics
-SetField Palette[643].Setters[0].Type Integer
-SetField Palette[643].Setters[0].IntegerValue 1
-SetField Palette[643].Setters[0].RealValue 0
-
-SetField Palette[644].Name "WATER PLANE"
-SetField Palette[644].Type Prop
-SetField Palette[644].CategoryIndex 92
-SetField Palette[644].DescriptionIndex -1
-SetField Palette[644].MaxAllowed 0
-SetField Palette[644].Object objects\block\water\plane\plane.scenery
-AddBlockElements Palette[644].Setters
-SetField Palette[644].Setters[0].Target General_Physics
-SetField Palette[644].Setters[0].Type Integer
-SetField Palette[644].Setters[0].IntegerValue 1
-SetField Palette[644].Setters[0].RealValue 0
-
-SetField Palette[645].Name "WELL WATER PLANE"
-SetField Palette[645].Type Prop
-SetField Palette[645].CategoryIndex 88
-SetField Palette[645].DescriptionIndex -1
-SetField Palette[645].MaxAllowed 0
-SetField Palette[645].Object objects\block\water\well\well.scenery
-AddBlockElements Palette[645].Setters
-SetField Palette[645].Setters[0].Target General_Physics
-SetField Palette[645].Setters[0].Type Integer
-SetField Palette[645].Setters[0].IntegerValue 1
-SetField Palette[645].Setters[0].RealValue 0
-
-SetField Palette[646].Name "OAK PLANKS"
-SetField Palette[646].Type Prop
-SetField Palette[646].CategoryIndex 84
-SetField Palette[646].DescriptionIndex -1
-SetField Palette[646].MaxAllowed 0
-SetField Palette[646].Object objects\block\wood\block\block.scenery
-AddBlockElements Palette[646].Setters
-SetField Palette[646].Setters[0].Target General_Physics
-SetField Palette[646].Setters[0].Type Integer
-SetField Palette[646].Setters[0].IntegerValue 1
-SetField Palette[646].Setters[0].RealValue 0
-
-SetField Palette[647].Name "BOOKSHELF"
-SetField Palette[647].Type Prop
-SetField Palette[647].CategoryIndex 86
-SetField Palette[647].DescriptionIndex -1
-SetField Palette[647].MaxAllowed 0
-SetField Palette[647].Object objects\block\wood\bookshelves\bookshelves.scenery
-AddBlockElements Palette[647].Setters
-SetField Palette[647].Setters[0].Target General_Physics
-SetField Palette[647].Setters[0].Type Integer
-SetField Palette[647].Setters[0].IntegerValue 1
-SetField Palette[647].Setters[0].RealValue 0
-
-SetField Palette[648].Name "CRAFTING TABLE"
-SetField Palette[648].Type Prop
-SetField Palette[648].CategoryIndex 84
-SetField Palette[648].DescriptionIndex -1
-SetField Palette[648].MaxAllowed 0
-SetField Palette[648].Object objects\block\wood\crafting_table\crafting_table.scenery
-AddBlockElements Palette[648].Setters
-SetField Palette[648].Setters[0].Target General_Physics
-SetField Palette[648].Setters[0].Type Integer
-SetField Palette[648].Setters[0].IntegerValue 1
-SetField Palette[648].Setters[0].RealValue 0
-
-SetField Palette[649].Name "OAK DESK"
-SetField Palette[649].Type Prop
-SetField Palette[649].CategoryIndex 86
-SetField Palette[649].DescriptionIndex -1
-SetField Palette[649].MaxAllowed 0
-SetField Palette[649].Object objects\block\wood\desk\desk.scenery
-AddBlockElements Palette[649].Setters
-SetField Palette[649].Setters[0].Target General_Physics
-SetField Palette[649].Setters[0].Type Integer
-SetField Palette[649].Setters[0].IntegerValue 1
-SetField Palette[649].Setters[0].RealValue 0
-
-SetField Palette[650].Name "LARGE BALCONY"
-SetField Palette[650].Type Prop
-SetField Palette[650].CategoryIndex 89
-SetField Palette[650].DescriptionIndex -1
-SetField Palette[650].MaxAllowed 0
-SetField Palette[650].Object objects\block\wood\house_big_balcony\house_big_balcony.scenery
-AddBlockElements Palette[650].Setters
-SetField Palette[650].Setters[0].Target General_Physics
-SetField Palette[650].Setters[0].Type Integer
-SetField Palette[650].Setters[0].IntegerValue 1
-SetField Palette[650].Setters[0].RealValue 0
-
-SetField Palette[651].Name "LARGE FENCE"
-SetField Palette[651].Type Prop
-SetField Palette[651].CategoryIndex 89
-SetField Palette[651].DescriptionIndex -1
-SetField Palette[651].MaxAllowed 0
-SetField Palette[651].Object objects\block\wood\house_big_fence\house_big_fence.scenery
-AddBlockElements Palette[651].Setters
-SetField Palette[651].Setters[0].Target General_Physics
-SetField Palette[651].Setters[0].Type Integer
-SetField Palette[651].Setters[0].IntegerValue 1
-SetField Palette[651].Setters[0].RealValue 0
-
-SetField Palette[652].Name "LARGE FLOOR"
-SetField Palette[652].Type Prop
-SetField Palette[652].CategoryIndex 89
-SetField Palette[652].DescriptionIndex -1
-SetField Palette[652].MaxAllowed 0
-SetField Palette[652].Object objects\block\wood\house_big_floor\house_big_floor.scenery
-AddBlockElements Palette[652].Setters
-SetField Palette[652].Setters[0].Target General_Physics
-SetField Palette[652].Setters[0].Type Integer
-SetField Palette[652].Setters[0].IntegerValue 1
-SetField Palette[652].Setters[0].RealValue 0
-
-SetField Palette[653].Name "LARGE ROOF"
-SetField Palette[653].Type Prop
-SetField Palette[653].CategoryIndex 89
-SetField Palette[653].DescriptionIndex -1
-SetField Palette[653].MaxAllowed 0
-SetField Palette[653].Object objects\block\wood\house_big_roof\house_big_roof.scenery
-AddBlockElements Palette[653].Setters
-SetField Palette[653].Setters[0].Target General_Physics
-SetField Palette[653].Setters[0].Type Integer
-SetField Palette[653].Setters[0].IntegerValue 1
-SetField Palette[653].Setters[0].RealValue 0
-
-SetField Palette[654].Name "LARGE ROOF SLICE"
-SetField Palette[654].Type Prop
-SetField Palette[654].CategoryIndex 89
-SetField Palette[654].DescriptionIndex -1
-SetField Palette[654].MaxAllowed 0
-SetField Palette[654].Object objects\block\wood\house_big_roof_slice\house_big_roof_slice.scenery
-AddBlockElements Palette[654].Setters
-SetField Palette[654].Setters[0].Target General_Physics
-SetField Palette[654].Setters[0].Type Integer
-SetField Palette[654].Setters[0].IntegerValue 1
-SetField Palette[654].Setters[0].RealValue 0
-
-SetField Palette[655].Name "LARGE ROOF SLICE FLIP"
-SetField Palette[655].Type Prop
-SetField Palette[655].CategoryIndex 89
-SetField Palette[655].DescriptionIndex -1
-SetField Palette[655].MaxAllowed 0
-SetField Palette[655].Object objects\block\wood\house_big_roof_slice_flip\house_big_roof_slice_flip.scenery
-AddBlockElements Palette[655].Setters
-SetField Palette[655].Setters[0].Target General_Physics
-SetField Palette[655].Setters[0].Type Integer
-SetField Palette[655].Setters[0].IntegerValue 1
-SetField Palette[655].Setters[0].RealValue 0
-
-SetField Palette[656].Name "LARGE ROOF SLICE FLOP"
-SetField Palette[656].Type Prop
-SetField Palette[656].CategoryIndex 89
-SetField Palette[656].DescriptionIndex -1
-SetField Palette[656].MaxAllowed 0
-SetField Palette[656].Object objects\block\wood\house_big_roof_slice_flop\house_big_roof_slice_flop.scenery
-AddBlockElements Palette[656].Setters
-SetField Palette[656].Setters[0].Target General_Physics
-SetField Palette[656].Setters[0].Type Integer
-SetField Palette[656].Setters[0].IntegerValue 1
-SetField Palette[656].Setters[0].RealValue 0
-
-SetField Palette[657].Name "LARGE STAIRS"
-SetField Palette[657].Type Prop
-SetField Palette[657].CategoryIndex 89
-SetField Palette[657].DescriptionIndex -1
-SetField Palette[657].MaxAllowed 0
-SetField Palette[657].Object objects\block\wood\house_big_stairs\house_big_stairs.scenery
-AddBlockElements Palette[657].Setters
-SetField Palette[657].Setters[0].Target General_Physics
-SetField Palette[657].Setters[0].Type Integer
-SetField Palette[657].Setters[0].IntegerValue 1
-SetField Palette[657].Setters[0].RealValue 0
-
-SetField Palette[658].Name "LARGE SUPPORT"
-SetField Palette[658].Type Prop
-SetField Palette[658].CategoryIndex 89
-SetField Palette[658].DescriptionIndex -1
-SetField Palette[658].MaxAllowed 0
-SetField Palette[658].Object objects\block\wood\house_big_support\house_big_support.scenery
-AddBlockElements Palette[658].Setters
-SetField Palette[658].Setters[0].Target General_Physics
-SetField Palette[658].Setters[0].Type Integer
-SetField Palette[658].Setters[0].IntegerValue 1
-SetField Palette[658].Setters[0].RealValue 0
-
-SetField Palette[659].Name "LARGE WALL REAR"
-SetField Palette[659].Type Prop
-SetField Palette[659].CategoryIndex 89
-SetField Palette[659].DescriptionIndex -1
-SetField Palette[659].MaxAllowed 0
-SetField Palette[659].Object objects\block\wood\house_big_wall_back\house_big_wall_back.scenery
-AddBlockElements Palette[659].Setters
-SetField Palette[659].Setters[0].Target General_Physics
-SetField Palette[659].Setters[0].Type Integer
-SetField Palette[659].Setters[0].IntegerValue 1
-SetField Palette[659].Setters[0].RealValue 0
-
-SetField Palette[660].Name "LARGE WALL FRONT"
-SetField Palette[660].Type Prop
-SetField Palette[660].CategoryIndex 89
-SetField Palette[660].DescriptionIndex -1
-SetField Palette[660].MaxAllowed 0
-SetField Palette[660].Object objects\block\wood\house_big_wall_front\house_big_wall_front.scenery
-AddBlockElements Palette[660].Setters
-SetField Palette[660].Setters[0].Target General_Physics
-SetField Palette[660].Setters[0].Type Integer
-SetField Palette[660].Setters[0].IntegerValue 1
-SetField Palette[660].Setters[0].RealValue 0
-
-SetField Palette[661].Name "LARGE WALL SIDE"
-SetField Palette[661].Type Prop
-SetField Palette[661].CategoryIndex 89
-SetField Palette[661].DescriptionIndex -1
-SetField Palette[661].MaxAllowed 0
-SetField Palette[661].Object objects\block\wood\house_big_wall_side\house_big_wall_side.scenery
-AddBlockElements Palette[661].Setters
-SetField Palette[661].Setters[0].Target General_Physics
-SetField Palette[661].Setters[0].Type Integer
-SetField Palette[661].Setters[0].IntegerValue 1
-SetField Palette[661].Setters[0].RealValue 0
-
-SetField Palette[662].Name "SMALL DOORWAY"
-SetField Palette[662].Type Prop
-SetField Palette[662].CategoryIndex 90
-SetField Palette[662].DescriptionIndex -1
-SetField Palette[662].MaxAllowed 0
-SetField Palette[662].Object objects\block\wood\house_small_doorway\house_small_doorway.scenery
-AddBlockElements Palette[662].Setters
-SetField Palette[662].Setters[0].Target General_Physics
-SetField Palette[662].Setters[0].Type Integer
-SetField Palette[662].Setters[0].IntegerValue 1
-SetField Palette[662].Setters[0].RealValue 0
-
-SetField Palette[663].Name "SMALL ROOF"
-SetField Palette[663].Type Prop
-SetField Palette[663].CategoryIndex 90
-SetField Palette[663].DescriptionIndex -1
-SetField Palette[663].MaxAllowed 0
-SetField Palette[663].Object objects\block\wood\house_small_roof\house_small_roof.scenery
-AddBlockElements Palette[663].Setters
-SetField Palette[663].Setters[0].Target General_Physics
-SetField Palette[663].Setters[0].Type Integer
-SetField Palette[663].Setters[0].IntegerValue 1
-SetField Palette[663].Setters[0].RealValue 0
-
-SetField Palette[664].Name "SMALL WALL"
-SetField Palette[664].Type Prop
-SetField Palette[664].CategoryIndex 90
-SetField Palette[664].DescriptionIndex -1
-SetField Palette[664].MaxAllowed 0
-SetField Palette[664].Object objects\block\wood\house_small_wall\house_small_wall.scenery
-AddBlockElements Palette[664].Setters
-SetField Palette[664].Setters[0].Target General_Physics
-SetField Palette[664].Setters[0].Type Integer
-SetField Palette[664].Setters[0].IntegerValue 1
-SetField Palette[664].Setters[0].RealValue 0
-
-SetField Palette[665].Name "ROOF"
-SetField Palette[665].Type Prop
-SetField Palette[665].CategoryIndex 91
-SetField Palette[665].DescriptionIndex -1
-SetField Palette[665].MaxAllowed 0
-SetField Palette[665].Object objects\block\wood\house_smith_roof\house_smith_roof.scenery
-AddBlockElements Palette[665].Setters
-SetField Palette[665].Setters[0].Target General_Physics
-SetField Palette[665].Setters[0].Type Integer
-SetField Palette[665].Setters[0].IntegerValue 1
-SetField Palette[665].Setters[0].RealValue 0
-
-SetField Palette[666].Name "ROOF SLICE"
-SetField Palette[666].Type Prop
-SetField Palette[666].CategoryIndex 91
-SetField Palette[666].DescriptionIndex -1
-SetField Palette[666].MaxAllowed 0
-SetField Palette[666].Object objects\block\wood\house_smith_roof_slice\house_smith_roof_slice.scenery
-AddBlockElements Palette[666].Setters
-SetField Palette[666].Setters[0].Target General_Physics
-SetField Palette[666].Setters[0].Type Integer
-SetField Palette[666].Setters[0].IntegerValue 1
-SetField Palette[666].Setters[0].RealValue 0
-
-SetField Palette[667].Name "WALL FRONT"
-SetField Palette[667].Type Prop
-SetField Palette[667].CategoryIndex 91
-SetField Palette[667].DescriptionIndex -1
-SetField Palette[667].MaxAllowed 0
-SetField Palette[667].Object objects\block\wood\house_smith_wall_front\house_smith_wall_front.scenery
-AddBlockElements Palette[667].Setters
-SetField Palette[667].Setters[0].Target General_Physics
-SetField Palette[667].Setters[0].Type Integer
-SetField Palette[667].Setters[0].IntegerValue 1
-SetField Palette[667].Setters[0].RealValue 0
-
-SetField Palette[668].Name "SMITH WALL SIDE"
-SetField Palette[668].Type Prop
-SetField Palette[668].CategoryIndex 91
-SetField Palette[668].DescriptionIndex -1
-SetField Palette[668].MaxAllowed 0
-SetField Palette[668].Object objects\block\wood\house_smith_wall_side\house_smith_wall_side.scenery
-AddBlockElements Palette[668].Setters
-SetField Palette[668].Setters[0].Target General_Physics
-SetField Palette[668].Setters[0].Type Integer
-SetField Palette[668].Setters[0].IntegerValue 1
-SetField Palette[668].Setters[0].RealValue 0
-
-SetField Palette[669].Name "OAK SEAT, RIGHT"
-SetField Palette[669].Type Prop
-SetField Palette[669].CategoryIndex 86
-SetField Palette[669].DescriptionIndex -1
-SetField Palette[669].MaxAllowed 0
-SetField Palette[669].Object objects\block\wood\library_seat_one\library_seat_one.scenery
-AddBlockElements Palette[669].Setters
-SetField Palette[669].Setters[0].Target General_Physics
-SetField Palette[669].Setters[0].Type Integer
-SetField Palette[669].Setters[0].IntegerValue 1
-SetField Palette[669].Setters[0].RealValue 0
-
-SetField Palette[670].Name "OAK SEAT, LEFT"
-SetField Palette[670].Type Prop
-SetField Palette[670].CategoryIndex 86
-SetField Palette[670].DescriptionIndex -1
-SetField Palette[670].MaxAllowed 0
-SetField Palette[670].Object objects\block\wood\library_seat_two\library_seat_two.scenery
-AddBlockElements Palette[670].Setters
-SetField Palette[670].Setters[0].Target General_Physics
-SetField Palette[670].Setters[0].Type Integer
-SetField Palette[670].Setters[0].IntegerValue 1
-SetField Palette[670].Setters[0].RealValue 0
-
-SetField Palette[671].Name "VILLAGE SIGN A"
-SetField Palette[671].Type Prop
-SetField Palette[671].CategoryIndex 88
-SetField Palette[671].DescriptionIndex -1
-SetField Palette[671].MaxAllowed 0
-SetField Palette[671].Object objects\block\wood\sign\a\a.scenery
-AddBlockElements Palette[671].Setters
-SetField Palette[671].Setters[0].Target General_Physics
-SetField Palette[671].Setters[0].Type Integer
-SetField Palette[671].Setters[0].IntegerValue 1
-SetField Palette[671].Setters[0].RealValue 0
-
-SetField Palette[672].Name "VILLAGE SIGN B"
-SetField Palette[672].Type Prop
-SetField Palette[672].CategoryIndex 88
-SetField Palette[672].DescriptionIndex -1
-SetField Palette[672].MaxAllowed 0
-SetField Palette[672].Object objects\block\wood\sign\b\b.scenery
-AddBlockElements Palette[672].Setters
-SetField Palette[672].Setters[0].Target General_Physics
-SetField Palette[672].Setters[0].Type Integer
-SetField Palette[672].Setters[0].IntegerValue 1
-SetField Palette[672].Setters[0].RealValue 0
-
-SetField Palette[673].Name "VILLAGE SIGN C"
-SetField Palette[673].Type Prop
-SetField Palette[673].CategoryIndex 88
-SetField Palette[673].DescriptionIndex -1
-SetField Palette[673].MaxAllowed 0
-SetField Palette[673].Object objects\block\wood\sign\c\c.scenery
-AddBlockElements Palette[673].Setters
-SetField Palette[673].Setters[0].Target General_Physics
-SetField Palette[673].Setters[0].Type Integer
-SetField Palette[673].Setters[0].IntegerValue 1
-SetField Palette[673].Setters[0].RealValue 0
-
-SetField Palette[674].Name "OAK TABLE"
-SetField Palette[674].Type Prop
-SetField Palette[674].CategoryIndex 86
-SetField Palette[674].DescriptionIndex -1
-SetField Palette[674].MaxAllowed 0
-SetField Palette[674].Object objects\block\wood\table\table.scenery
-AddBlockElements Palette[674].Setters
-SetField Palette[674].Setters[0].Target General_Physics
-SetField Palette[674].Setters[0].Type Integer
-SetField Palette[674].Setters[0].IntegerValue 1
-SetField Palette[674].Setters[0].RealValue 0
-
-SetField Palette[675].Name "TORCH"
-SetField Palette[675].Type Prop
-SetField Palette[675].CategoryIndex 84
-SetField Palette[675].DescriptionIndex -1
-SetField Palette[675].MaxAllowed 0
-SetField Palette[675].Object objects\block\wood\torch\torch.scenery
-AddBlockElements Palette[675].Setters
-SetField Palette[675].Setters[0].Target General_Physics
-SetField Palette[675].Setters[0].Type Integer
-SetField Palette[675].Setters[0].IntegerValue 1
-SetField Palette[675].Setters[0].RealValue 0
-
-SetField Palette[676].Name "TORCH, WALL"
-SetField Palette[676].Type Prop
-SetField Palette[676].CategoryIndex 84
-SetField Palette[676].DescriptionIndex -1
-SetField Palette[676].MaxAllowed 0
-SetField Palette[676].Object objects\block\wood\torch_wall\torch_wall.scenery
-AddBlockElements Palette[676].Setters
-SetField Palette[676].Setters[0].Target General_Physics
-SetField Palette[676].Setters[0].Type Integer
-SetField Palette[676].Setters[0].IntegerValue 1
-SetField Palette[676].Setters[0].RealValue 0
-
-SetField Palette[677].Name "TORCH, WALL DOUBLE"
-SetField Palette[677].Type Prop
-SetField Palette[677].CategoryIndex 86
-SetField Palette[677].DescriptionIndex -1
-SetField Palette[677].MaxAllowed 0
-SetField Palette[677].Object objects\block\wood\torch_wall_double\torch_wall_double.scenery
-AddBlockElements Palette[677].Setters
-SetField Palette[677].Setters[0].Target General_Physics
-SetField Palette[677].Setters[0].Type Integer
-SetField Palette[677].Setters[0].IntegerValue 1
-SetField Palette[677].Setters[0].RealValue 0
-
-SetField Palette[678].Name "TORCH, WALL DUD"
-SetField Palette[678].Type Prop
-SetField Palette[678].CategoryIndex 86
-SetField Palette[678].DescriptionIndex -1
-SetField Palette[678].MaxAllowed 0
-SetField Palette[678].Object objects\block\wood\torch_wall_dud\torch_wall_dud.scenery
-AddBlockElements Palette[678].Setters
-SetField Palette[678].Setters[0].Target General_Physics
-SetField Palette[678].Setters[0].Type Integer
-SetField Palette[678].Setters[0].IntegerValue 1
-SetField Palette[678].Setters[0].RealValue 0
-
-SetField Palette[679].Name "OAK DESKS"
-SetField Palette[679].Type Prop
-SetField Palette[679].CategoryIndex 86
-SetField Palette[679].DescriptionIndex -1
-SetField Palette[679].MaxAllowed 0
-SetField Palette[679].Object objects\block\wood\wall_desks\wall_desks.scenery
-AddBlockElements Palette[679].Setters
-SetField Palette[679].Setters[0].Target General_Physics
-SetField Palette[679].Setters[0].Type Integer
-SetField Palette[679].Setters[0].IntegerValue 1
-SetField Palette[679].Setters[0].RealValue 0
-
-SetField Palette[680].Name "BED"
-SetField Palette[680].Type Prop
-SetField Palette[680].CategoryIndex 86
-SetField Palette[680].DescriptionIndex -1
-SetField Palette[680].MaxAllowed 0
-SetField Palette[680].Object objects\block\wool\bed\bed.scenery
-AddBlockElements Palette[680].Setters
-SetField Palette[680].Setters[0].Target General_Physics
-SetField Palette[680].Setters[0].Type Integer
-SetField Palette[680].Setters[0].IntegerValue 1
-SetField Palette[680].Setters[0].RealValue 0
+SetField Palette[*].Name "WEAPON HOLDER INVIS"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 9
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\gear\covenant\military\cov_sword_holder\cov_sword_holder_invis.crate
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "COBBLESTONE ROOF"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 91
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\cobble\house_smith_roof\house_smith_roof.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "COBBLESTONE WELL"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 91
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\cobble\well\well.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DARK OAK ARCHWAY"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dark_wood\dark_wood_archway\dark_wood_archway.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DARK OAK WALL"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dark_wood\dark_wood_wall\dark_wood_wall.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DARK OAK WALL, DOUBLE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dark_wood\dark_wood_wall_double\dark_wood_wall_double.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DARK OAK WALL, DOUBLE PATTERN"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dark_wood\dark_wood_wall_double_pattern\dark_wood_wall_double_pattern.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DARK OAK WALL, DOUBLE PATTERN RIGHT"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dark_wood\dark_wood_wall_double_pattern_r\dark_wood_wall_double_pattern_r.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DARK OAK WALL, DOUBLE RIGHT"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dark_wood\dark_wood_wall_double_r\dark_wood_wall_double_r.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DARK OAK WALL, JAIL 1"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dark_wood\dark_wood_wall_jail_1\dark_wood_wall_jail_1.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DARK OAK WALL, JAIL 2"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dark_wood\dark_wood_wall_jail_2\dark_wood_wall_jail_2.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DARK OAK WALL, JAIL 3"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dark_wood\dark_wood_wall_jail_3\dark_wood_wall_jail_3.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DARK OAK WALL, PATTERN"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dark_wood\dark_wood_wall_pattern\dark_wood_wall_pattern.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DARK OAK WALL, PATTERN RIGHT"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dark_wood\dark_wood_wall_pattern_r\dark_wood_wall_pattern_r.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DARK OAK TORCH POST"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dark_wood\torch_post\torch_post.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DARK OAK TORCH POST, DOUBLE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dark_wood\torch_post_double\torch_post_double.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DARK OAK TORCH POST, DOUBLE DUD"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dark_wood\torch_post_double_dud\torch_post_double_dud.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DARK OAK WINDOW OVERHANG"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dark_wood\window_overhang\window_overhang.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DIRT"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 84
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dirt\block\block.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DIRT CHUNK [3 x 3]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dirt\chunk_flat\chunk_flat.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DIRT CHUNK [2 x 2]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\dirt\chunk_small\chunk_small.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "DANDELION"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 84
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\flower\dandelion\dandelion.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "POPPY"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 84
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\flower\poppy\poppy.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE BLUE [2 x 2]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 87
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\blue\blue.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE BLUE [4 x 4]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 87
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\blue_big\blue_big.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE BLUE [1 x 4]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 87
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\blue_narrow\blue_narrow.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE BLUE [1 x 1]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 87
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\blue_small\blue_small.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE, DOUBLE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\double\double.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS WINDOWS"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\part70\part70.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE [2 x 2]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\part73\part73.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE RED [2 x 2]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 87
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\red\red.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE RED [4 x 4]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 87
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\red_big\red_big.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE RED [1 x 4]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 87
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\red_narrow\red_narrow.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE RED [1 x 1]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 87
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\red_small\red_small.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 84
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\single\single.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE, TRIPLE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\triple\triple.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE WHITE [1 x 4]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 87
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\white_big\white_big.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE WHITE [1 x 16]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 87
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\white_huge\white_huge.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE WHITE [1 x 7]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 87
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\white_large\white_large.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS PANE WHITE [1 x 1]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 87
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\white_small\white_small.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GLASS WINDOW"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 87
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\glass\window\window.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GRASS"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 84
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\grass\block\block.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GRASS CHUNK [2 x 2 x 2]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\grass\chunk_cube\chunk_cube.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GRASS CHUNK [4 x 4]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\grass\chunk_flat\chunk_flat.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GRASS CHUNK [2 x 4 x 2]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\grass\chunk_long\chunk_long.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GRASS CHUNK [1 x 4 x 2]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\grass\chunk_long_narrow\chunk_long_narrow.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GRASS CHUNK [1 x 1 x 2]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\grass\chunk_single\chunk_single.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GRASS CHUNK [2 x 2]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\grass\chunk_small\chunk_small.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GRASS CHUNK [1 x 4]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\grass\chunk_small_long\chunk_small_long.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GRASS CHUNK [4 x 1]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\grass\chunk_small_wide\chunk_small_wide.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GRASS CHUNK [4 x 2 x 2]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\grass\chunk_wide\chunk_wide.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "GRASS CHUNK [4 x 1 x 2]"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\grass\chunk_wide_narrow\chunk_wide_narrow.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "OAK LOG"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 84
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\log\block\block.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "OAK LOG, MEDIUM"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\log\column\column.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "OAK LOG, LARGE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\log\column_big\column_big.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "OAK LOG, SMALL"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\log\column_small\column_small.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "TREE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\log\tree\tree.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "MANSION SIGN A"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\patron\sign_func_a\sign_func_a.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "MANSION SIGN B"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\patron\sign_func_b\sign_func_b.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "MANSION SIGN C"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\patron\sign_func_c\sign_func_c.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "SPLEEF SAFEZONE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 87
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\safezone\spleef\spleef.crate
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "HOUSE LARGE SHADOW"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\shadow\house_big\house_big.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "HOUSE SMALL SHADOW"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\shadow\house_small\house_small.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "LOCKOUT SHADOW"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\shadow\lockout\lockout.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "ROOF SHADOW"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\shadow\roof\roof.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "ROOF FACADE SHADOW"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\shadow\roof_facade\roof_facade.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "SPLEEF PLATFORM SHADOW"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\shadow\spleef_platform\spleef_platform.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "SPLEEF STRUCTURE SHADOW"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\shadow\spleef_structure\spleef_structure.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "WALL SHADOW"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\shadow\walls\walls.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "BOUNCY SLIME"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\slime\bounce\bounce.crate
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "LOCKOUT SLIME"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\slime\lockout\lockout.crate
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "SPLEEF PAD"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 87
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\slime\spleef_pads\spleef_pads.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 0"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part00\part00.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 1"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part01\part01.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 2"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part02\part02.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 3"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part03\part03.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 4"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part04\part04.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 5"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part05\part05.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 6"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part06\part06.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 7"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part07\part07.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 8"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part08\part08.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 9"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part09\part09.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 10"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part10\part10.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 11"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part11\part11.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 12"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part12\part12.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 13"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part13\part13.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 14"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part14\part14.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 15"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part15\part15.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 16"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part16\part16.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 17"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part17\part17.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 18"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part18\part18.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 19"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part19\part19.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 20"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part20\part20.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 21"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part21\part21.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 22"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part22\part22.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 23"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part23\part23.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 24"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part24\part24.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 25"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part25\part25.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 26"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part26\part26.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 27"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part27\part27.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 28"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part28\part28.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 29"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part29\part29.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 30"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part30\part30.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 31"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part31\part31.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 32"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part32\part32.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 33"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part33\part33.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 34"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part34\part34.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 35"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part35\part35.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 36"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part36\part36.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 37"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part37\part37.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 38"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part38\part38.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 39"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part39\part39.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 40"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part40\part40.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 41"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part41\part41.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 42"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part42\part42.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 43"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part43\part43.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 44"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part44\part44.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 45"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part45\part45.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 46"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part46\part46.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 47"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part47\part47.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 48"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part48\part48.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 49"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part49\part49.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 50"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part50\part50.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 51"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part51\part51.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 52"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part52\part52.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 53"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part53\part53.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 54"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part54\part54.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 55"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part55\part55.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 56"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part56\part56.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 57"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part57\part57.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 58"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part58\part58.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 59"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part59\part59.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 60"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part60\part60.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 61"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part61\part61.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 62"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part62\part62.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 63"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part63\part63.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 64"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part64\part64.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 65"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part65\part65.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 66"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part66\part66.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 67"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part67\part67.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 68"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part68\part68.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 69"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part69\part69.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 71"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part71\part71.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "STONE STRUCTURE 72"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 85
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\stone\part72\part72.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "TALL GRASS"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 84
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\tall_grass\block\block.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "TALL GRASS PATCH"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 88
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\tall_grass\chunk\chunk.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "WATER PLANE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 92
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\water\plane\plane.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "WELL WATER PLANE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 88
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\water\well\well.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "OAK PLANKS"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 84
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\block\block.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "BOOKSHELF"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\bookshelves\bookshelves.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "CRAFTING TABLE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 84
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\crafting_table\crafting_table.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "OAK DESK"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\desk\desk.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "LARGE BALCONY"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 89
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_big_balcony\house_big_balcony.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "LARGE FENCE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 89
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_big_fence\house_big_fence.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "LARGE FLOOR"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 89
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_big_floor\house_big_floor.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "LARGE ROOF"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 89
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_big_roof\house_big_roof.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "LARGE ROOF SLICE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 89
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_big_roof_slice\house_big_roof_slice.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "LARGE ROOF SLICE FLIP"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 89
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_big_roof_slice_flip\house_big_roof_slice_flip.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "LARGE ROOF SLICE FLOP"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 89
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_big_roof_slice_flop\house_big_roof_slice_flop.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "LARGE STAIRS"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 89
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_big_stairs\house_big_stairs.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "LARGE SUPPORT"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 89
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_big_support\house_big_support.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "LARGE WALL REAR"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 89
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_big_wall_back\house_big_wall_back.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "LARGE WALL FRONT"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 89
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_big_wall_front\house_big_wall_front.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "LARGE WALL SIDE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 89
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_big_wall_side\house_big_wall_side.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "SMALL DOORWAY"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 90
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_small_doorway\house_small_doorway.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "SMALL ROOF"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 90
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_small_roof\house_small_roof.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "SMALL WALL"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 90
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_small_wall\house_small_wall.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "ROOF"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 91
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_smith_roof\house_smith_roof.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "ROOF SLICE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 91
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_smith_roof_slice\house_smith_roof_slice.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "WALL FRONT"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 91
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_smith_wall_front\house_smith_wall_front.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "SMITH WALL SIDE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 91
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\house_smith_wall_side\house_smith_wall_side.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "OAK SEAT, RIGHT"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\library_seat_one\library_seat_one.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "OAK SEAT, LEFT"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\library_seat_two\library_seat_two.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "VILLAGE SIGN A"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 88
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\sign\a\a.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "VILLAGE SIGN B"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 88
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\sign\b\b.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "VILLAGE SIGN C"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 88
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\sign\c\c.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "OAK TABLE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\table\table.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "TORCH"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 84
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\torch\torch.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "TORCH, WALL"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 84
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\torch_wall\torch_wall.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "TORCH, WALL DOUBLE"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\torch_wall_double\torch_wall_double.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "TORCH, WALL DUD"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\torch_wall_dud\torch_wall_dud.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "OAK DESKS"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wood\wall_desks\wall_desks.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
+
+SetField Palette[*].Name "BED"
+SetField Palette[*].Type Prop
+SetField Palette[*].CategoryIndex 86
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].MaxAllowed 0
+SetField Palette[*].Object objects\block\wool\bed\bed.scenery
+AddBlockElements Palette[*].Setters
+SetField Palette[*].Setters[0].Target General_Physics
+SetField Palette[*].Setters[0].Type Integer
+SetField Palette[*].Setters[0].IntegerValue 1
+SetField Palette[*].Setters[0].RealValue 0
 
 SaveTagChanges
 Exit
