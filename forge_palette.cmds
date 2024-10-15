@@ -84,7 +84,7 @@ SetField Palette[500].Setters[0].RealValue 0
 
 SetField Palette[501].Name "DARK OAK ARCHWAY"
 SetField Palette[501].Type Prop
-SetField Palette[501].CategoryIndex 85
+SetField Palette[501].CategoryIndex 86
 SetField Palette[501].DescriptionIndex -1
 SetField Palette[501].MaxAllowed 0
 SetField Palette[501].Object objects\block\dark_wood\dark_wood_archway\dark_wood_archway.scenery
@@ -96,7 +96,7 @@ SetField Palette[501].Setters[0].RealValue 0
 
 SetField Palette[502].Name "DARK OAK WALL"
 SetField Palette[502].Type Prop
-SetField Palette[502].CategoryIndex 85
+SetField Palette[502].CategoryIndex 86
 SetField Palette[502].DescriptionIndex -1
 SetField Palette[502].MaxAllowed 0
 SetField Palette[502].Object objects\block\dark_wood\dark_wood_wall\dark_wood_wall.scenery
@@ -108,7 +108,7 @@ SetField Palette[502].Setters[0].RealValue 0
 
 SetField Palette[503].Name "DARK OAK WALL, DOUBLE"
 SetField Palette[503].Type Prop
-SetField Palette[503].CategoryIndex 85
+SetField Palette[503].CategoryIndex 86
 SetField Palette[503].DescriptionIndex -1
 SetField Palette[503].MaxAllowed 0
 SetField Palette[503].Object objects\block\dark_wood\dark_wood_wall_double\dark_wood_wall_double.scenery
@@ -120,7 +120,7 @@ SetField Palette[503].Setters[0].RealValue 0
 
 SetField Palette[504].Name "DARK OAK WALL, DOUBLE PATTERN"
 SetField Palette[504].Type Prop
-SetField Palette[504].CategoryIndex 85
+SetField Palette[504].CategoryIndex 86
 SetField Palette[504].DescriptionIndex -1
 SetField Palette[504].MaxAllowed 0
 SetField Palette[504].Object objects\block\dark_wood\dark_wood_wall_double_pattern\dark_wood_wall_double_pattern.scenery
@@ -132,7 +132,7 @@ SetField Palette[504].Setters[0].RealValue 0
 
 SetField Palette[505].Name "DARK OAK WALL, DOUBLE PATTERN RIGHT"
 SetField Palette[505].Type Prop
-SetField Palette[505].CategoryIndex 85
+SetField Palette[505].CategoryIndex 86
 SetField Palette[505].DescriptionIndex -1
 SetField Palette[505].MaxAllowed 0
 SetField Palette[505].Object objects\block\dark_wood\dark_wood_wall_double_pattern_r\dark_wood_wall_double_pattern_r.scenery
@@ -144,7 +144,7 @@ SetField Palette[505].Setters[0].RealValue 0
 
 SetField Palette[506].Name "DARK OAK WALL, DOUBLE RIGHT"
 SetField Palette[506].Type Prop
-SetField Palette[506].CategoryIndex 85
+SetField Palette[506].CategoryIndex 86
 SetField Palette[506].DescriptionIndex -1
 SetField Palette[506].MaxAllowed 0
 SetField Palette[506].Object objects\block\dark_wood\dark_wood_wall_double_r\dark_wood_wall_double_r.scenery
@@ -156,7 +156,7 @@ SetField Palette[506].Setters[0].RealValue 0
 
 SetField Palette[507].Name "DARK OAK WALL, JAIL 1"
 SetField Palette[507].Type Prop
-SetField Palette[507].CategoryIndex 85
+SetField Palette[507].CategoryIndex 86
 SetField Palette[507].DescriptionIndex -1
 SetField Palette[507].MaxAllowed 0
 SetField Palette[507].Object objects\block\dark_wood\dark_wood_wall_jail_1\dark_wood_wall_jail_1.scenery
@@ -168,7 +168,7 @@ SetField Palette[507].Setters[0].RealValue 0
 
 SetField Palette[508].Name "DARK OAK WALL, JAIL 2"
 SetField Palette[508].Type Prop
-SetField Palette[508].CategoryIndex 85
+SetField Palette[508].CategoryIndex 86
 SetField Palette[508].DescriptionIndex -1
 SetField Palette[508].MaxAllowed 0
 SetField Palette[508].Object objects\block\dark_wood\dark_wood_wall_jail_2\dark_wood_wall_jail_2.scenery
@@ -180,7 +180,7 @@ SetField Palette[508].Setters[0].RealValue 0
 
 SetField Palette[509].Name "DARK OAK WALL, JAIL 3"
 SetField Palette[509].Type Prop
-SetField Palette[509].CategoryIndex 85
+SetField Palette[509].CategoryIndex 86
 SetField Palette[509].DescriptionIndex -1
 SetField Palette[509].MaxAllowed 0
 SetField Palette[509].Object objects\block\dark_wood\dark_wood_wall_jail_3\dark_wood_wall_jail_3.scenery
@@ -192,7 +192,7 @@ SetField Palette[509].Setters[0].RealValue 0
 
 SetField Palette[510].Name "DARK OAK WALL, PATTERN"
 SetField Palette[510].Type Prop
-SetField Palette[510].CategoryIndex 85
+SetField Palette[510].CategoryIndex 86
 SetField Palette[510].DescriptionIndex -1
 SetField Palette[510].MaxAllowed 0
 SetField Palette[510].Object objects\block\dark_wood\dark_wood_wall_pattern\dark_wood_wall_pattern.scenery
@@ -204,7 +204,7 @@ SetField Palette[510].Setters[0].RealValue 0
 
 SetField Palette[511].Name "DARK OAK WALL, PATTERN RIGHT"
 SetField Palette[511].Type Prop
-SetField Palette[511].CategoryIndex 85
+SetField Palette[511].CategoryIndex 86
 SetField Palette[511].DescriptionIndex -1
 SetField Palette[511].MaxAllowed 0
 SetField Palette[511].Object objects\block\dark_wood\dark_wood_wall_pattern_r\dark_wood_wall_pattern_r.scenery
@@ -216,7 +216,7 @@ SetField Palette[511].Setters[0].RealValue 0
 
 SetField Palette[512].Name "DARK OAK TORCH POST"
 SetField Palette[512].Type Prop
-SetField Palette[512].CategoryIndex 85
+SetField Palette[512].CategoryIndex 86
 SetField Palette[512].DescriptionIndex -1
 SetField Palette[512].MaxAllowed 0
 SetField Palette[512].Object objects\block\dark_wood\torch_post\torch_post.scenery
@@ -228,7 +228,7 @@ SetField Palette[512].Setters[0].RealValue 0
 
 SetField Palette[513].Name "DARK OAK TORCH POST, DOUBLE"
 SetField Palette[513].Type Prop
-SetField Palette[513].CategoryIndex 85
+SetField Palette[513].CategoryIndex 86
 SetField Palette[513].DescriptionIndex -1
 SetField Palette[513].MaxAllowed 0
 SetField Palette[513].Object objects\block\dark_wood\torch_post_double\torch_post_double.scenery
@@ -240,7 +240,7 @@ SetField Palette[513].Setters[0].RealValue 0
 
 SetField Palette[514].Name "DARK OAK TORCH POST, DOUBLE DUD"
 SetField Palette[514].Type Prop
-SetField Palette[514].CategoryIndex 85
+SetField Palette[514].CategoryIndex 86
 SetField Palette[514].DescriptionIndex -1
 SetField Palette[514].MaxAllowed 0
 SetField Palette[514].Object objects\block\dark_wood\torch_post_double_dud\torch_post_double_dud.scenery
@@ -252,7 +252,7 @@ SetField Palette[514].Setters[0].RealValue 0
 
 SetField Palette[515].Name "DARK OAK WINDOW OVERHANG"
 SetField Palette[515].Type Prop
-SetField Palette[515].CategoryIndex 85
+SetField Palette[515].CategoryIndex 86
 SetField Palette[515].DescriptionIndex -1
 SetField Palette[515].MaxAllowed 0
 SetField Palette[515].Object objects\block\dark_wood\window_overhang\window_overhang.scenery
@@ -276,7 +276,7 @@ SetField Palette[516].Setters[0].RealValue 0
 
 SetField Palette[517].Name "DIRT CHUNK [3 x 3]"
 SetField Palette[517].Type Prop
-SetField Palette[517].CategoryIndex 85
+SetField Palette[517].CategoryIndex 92
 SetField Palette[517].DescriptionIndex -1
 SetField Palette[517].MaxAllowed 0
 SetField Palette[517].Object objects\block\dirt\chunk_flat\chunk_flat.scenery
@@ -288,7 +288,7 @@ SetField Palette[517].Setters[0].RealValue 0
 
 SetField Palette[518].Name "DIRT CHUNK [2 x 2]"
 SetField Palette[518].Type Prop
-SetField Palette[518].CategoryIndex 85
+SetField Palette[518].CategoryIndex 92
 SetField Palette[518].DescriptionIndex -1
 SetField Palette[518].MaxAllowed 0
 SetField Palette[518].Object objects\block\dirt\chunk_small\chunk_small.scenery
@@ -324,7 +324,7 @@ SetField Palette[520].Setters[0].RealValue 0
 
 SetField Palette[521].Name "GLASS PANE BLUE [2 x 2]"
 SetField Palette[521].Type Prop
-SetField Palette[521].CategoryIndex 85
+SetField Palette[521].CategoryIndex 87
 SetField Palette[521].DescriptionIndex -1
 SetField Palette[521].MaxAllowed 0
 SetField Palette[521].Object objects\block\glass\blue\blue.scenery
@@ -336,7 +336,7 @@ SetField Palette[521].Setters[0].RealValue 0
 
 SetField Palette[522].Name "GLASS PANE BLUE [4 x 4]"
 SetField Palette[522].Type Prop
-SetField Palette[522].CategoryIndex 85
+SetField Palette[522].CategoryIndex 87
 SetField Palette[522].DescriptionIndex -1
 SetField Palette[522].MaxAllowed 0
 SetField Palette[522].Object objects\block\glass\blue_big\blue_big.scenery
@@ -348,7 +348,7 @@ SetField Palette[522].Setters[0].RealValue 0
 
 SetField Palette[523].Name "GLASS PANE BLUE [1 x 4]"
 SetField Palette[523].Type Prop
-SetField Palette[523].CategoryIndex 85
+SetField Palette[523].CategoryIndex 87
 SetField Palette[523].DescriptionIndex -1
 SetField Palette[523].MaxAllowed 0
 SetField Palette[523].Object objects\block\glass\blue_narrow\blue_narrow.scenery
@@ -360,7 +360,7 @@ SetField Palette[523].Setters[0].RealValue 0
 
 SetField Palette[524].Name "GLASS PANE BLUE [1 x 1]"
 SetField Palette[524].Type Prop
-SetField Palette[524].CategoryIndex 85
+SetField Palette[524].CategoryIndex 87
 SetField Palette[524].DescriptionIndex -1
 SetField Palette[524].MaxAllowed 0
 SetField Palette[524].Object objects\block\glass\blue_small\blue_small.scenery
@@ -372,7 +372,7 @@ SetField Palette[524].Setters[0].RealValue 0
 
 SetField Palette[525].Name "GLASS PANE, DOUBLE"
 SetField Palette[525].Type Prop
-SetField Palette[525].CategoryIndex 85
+SetField Palette[525].CategoryIndex 92
 SetField Palette[525].DescriptionIndex -1
 SetField Palette[525].MaxAllowed 0
 SetField Palette[525].Object objects\block\glass\double\double.scenery
@@ -396,7 +396,7 @@ SetField Palette[526].Setters[0].RealValue 0
 
 SetField Palette[527].Name "GLASS PANE [2 x 2]"
 SetField Palette[527].Type Prop
-SetField Palette[527].CategoryIndex 85
+SetField Palette[527].CategoryIndex 92
 SetField Palette[527].DescriptionIndex -1
 SetField Palette[527].MaxAllowed 0
 SetField Palette[527].Object objects\block\glass\part73\part73.scenery
@@ -408,7 +408,7 @@ SetField Palette[527].Setters[0].RealValue 0
 
 SetField Palette[528].Name "GLASS PANE RED [2 x 2]"
 SetField Palette[528].Type Prop
-SetField Palette[528].CategoryIndex 85
+SetField Palette[528].CategoryIndex 87
 SetField Palette[528].DescriptionIndex -1
 SetField Palette[528].MaxAllowed 0
 SetField Palette[528].Object objects\block\glass\red\red.scenery
@@ -420,7 +420,7 @@ SetField Palette[528].Setters[0].RealValue 0
 
 SetField Palette[529].Name "GLASS PANE RED [4 x 4]"
 SetField Palette[529].Type Prop
-SetField Palette[529].CategoryIndex 85
+SetField Palette[529].CategoryIndex 87
 SetField Palette[529].DescriptionIndex -1
 SetField Palette[529].MaxAllowed 0
 SetField Palette[529].Object objects\block\glass\red_big\red_big.scenery
@@ -432,7 +432,7 @@ SetField Palette[529].Setters[0].RealValue 0
 
 SetField Palette[530].Name "GLASS PANE RED [1 x 4]"
 SetField Palette[530].Type Prop
-SetField Palette[530].CategoryIndex 85
+SetField Palette[530].CategoryIndex 87
 SetField Palette[530].DescriptionIndex -1
 SetField Palette[530].MaxAllowed 0
 SetField Palette[530].Object objects\block\glass\red_narrow\red_narrow.scenery
@@ -444,7 +444,7 @@ SetField Palette[530].Setters[0].RealValue 0
 
 SetField Palette[531].Name "GLASS PANE RED [1 x 1]"
 SetField Palette[531].Type Prop
-SetField Palette[531].CategoryIndex 85
+SetField Palette[531].CategoryIndex 87
 SetField Palette[531].DescriptionIndex -1
 SetField Palette[531].MaxAllowed 0
 SetField Palette[531].Object objects\block\glass\red_small\red_small.scenery
@@ -454,9 +454,9 @@ SetField Palette[531].Setters[0].Type Integer
 SetField Palette[531].Setters[0].IntegerValue 1
 SetField Palette[531].Setters[0].RealValue 0
 
-SetField Palette[532].Name "GLASS PANE, SINGLE"
+SetField Palette[532].Name "GLASS PANE"
 SetField Palette[532].Type Prop
-SetField Palette[532].CategoryIndex 85
+SetField Palette[532].CategoryIndex 84
 SetField Palette[532].DescriptionIndex -1
 SetField Palette[532].MaxAllowed 0
 SetField Palette[532].Object objects\block\glass\single\single.scenery
@@ -468,7 +468,7 @@ SetField Palette[532].Setters[0].RealValue 0
 
 SetField Palette[533].Name "GLASS PANE, TRIPLE"
 SetField Palette[533].Type Prop
-SetField Palette[533].CategoryIndex 85
+SetField Palette[533].CategoryIndex 92
 SetField Palette[533].DescriptionIndex -1
 SetField Palette[533].MaxAllowed 0
 SetField Palette[533].Object objects\block\glass\triple\triple.scenery
@@ -480,7 +480,7 @@ SetField Palette[533].Setters[0].RealValue 0
 
 SetField Palette[534].Name "GLASS PANE WHITE [1 x 4]"
 SetField Palette[534].Type Prop
-SetField Palette[534].CategoryIndex 85
+SetField Palette[534].CategoryIndex 87
 SetField Palette[534].DescriptionIndex -1
 SetField Palette[534].MaxAllowed 0
 SetField Palette[534].Object objects\block\glass\white_big\white_big.scenery
@@ -492,7 +492,7 @@ SetField Palette[534].Setters[0].RealValue 0
 
 SetField Palette[535].Name "GLASS PANE WHITE [1 x 16]"
 SetField Palette[535].Type Prop
-SetField Palette[535].CategoryIndex 85
+SetField Palette[535].CategoryIndex 87
 SetField Palette[535].DescriptionIndex -1
 SetField Palette[535].MaxAllowed 0
 SetField Palette[535].Object objects\block\glass\white_huge\white_huge.scenery
@@ -504,7 +504,7 @@ SetField Palette[535].Setters[0].RealValue 0
 
 SetField Palette[536].Name "GLASS PANE WHITE [1 x 7]"
 SetField Palette[536].Type Prop
-SetField Palette[536].CategoryIndex 85
+SetField Palette[536].CategoryIndex 87
 SetField Palette[536].DescriptionIndex -1
 SetField Palette[536].MaxAllowed 0
 SetField Palette[536].Object objects\block\glass\white_large\white_large.scenery
@@ -516,7 +516,7 @@ SetField Palette[536].Setters[0].RealValue 0
 
 SetField Palette[537].Name "GLASS PANE WHITE [1 x 1]"
 SetField Palette[537].Type Prop
-SetField Palette[537].CategoryIndex 85
+SetField Palette[537].CategoryIndex 87
 SetField Palette[537].DescriptionIndex -1
 SetField Palette[537].MaxAllowed 0
 SetField Palette[537].Object objects\block\glass\white_small\white_small.scenery
@@ -528,7 +528,7 @@ SetField Palette[537].Setters[0].RealValue 0
 
 SetField Palette[538].Name "GLASS WINDOW"
 SetField Palette[538].Type Prop
-SetField Palette[538].CategoryIndex 85
+SetField Palette[538].CategoryIndex 87
 SetField Palette[538].DescriptionIndex -1
 SetField Palette[538].MaxAllowed 0
 SetField Palette[538].Object objects\block\glass\window\window.scenery
@@ -552,7 +552,7 @@ SetField Palette[539].Setters[0].RealValue 0
 
 SetField Palette[540].Name "GRASS CHUNK [2 x 2 x 2]"
 SetField Palette[540].Type Prop
-SetField Palette[540].CategoryIndex 85
+SetField Palette[540].CategoryIndex 92
 SetField Palette[540].DescriptionIndex -1
 SetField Palette[540].MaxAllowed 0
 SetField Palette[540].Object objects\block\grass\chunk_cube\chunk_cube.scenery
@@ -564,7 +564,7 @@ SetField Palette[540].Setters[0].RealValue 0
 
 SetField Palette[541].Name "GRASS CHUNK [4 x 4]"
 SetField Palette[541].Type Prop
-SetField Palette[541].CategoryIndex 85
+SetField Palette[541].CategoryIndex 92
 SetField Palette[541].DescriptionIndex -1
 SetField Palette[541].MaxAllowed 0
 SetField Palette[541].Object objects\block\grass\chunk_flat\chunk_flat.scenery
@@ -576,7 +576,7 @@ SetField Palette[541].Setters[0].RealValue 0
 
 SetField Palette[542].Name "GRASS CHUNK [2 x 4 x 2]"
 SetField Palette[542].Type Prop
-SetField Palette[542].CategoryIndex 85
+SetField Palette[542].CategoryIndex 92
 SetField Palette[542].DescriptionIndex -1
 SetField Palette[542].MaxAllowed 0
 SetField Palette[542].Object objects\block\grass\chunk_long\chunk_long.scenery
@@ -588,7 +588,7 @@ SetField Palette[542].Setters[0].RealValue 0
 
 SetField Palette[543].Name "GRASS CHUNK [1 x 4 x 2]"
 SetField Palette[543].Type Prop
-SetField Palette[543].CategoryIndex 85
+SetField Palette[543].CategoryIndex 92
 SetField Palette[543].DescriptionIndex -1
 SetField Palette[543].MaxAllowed 0
 SetField Palette[543].Object objects\block\grass\chunk_long_narrow\chunk_long_narrow.scenery
@@ -600,7 +600,7 @@ SetField Palette[543].Setters[0].RealValue 0
 
 SetField Palette[544].Name "GRASS CHUNK [1 x 1 x 2]"
 SetField Palette[544].Type Prop
-SetField Palette[544].CategoryIndex 85
+SetField Palette[544].CategoryIndex 92
 SetField Palette[544].DescriptionIndex -1
 SetField Palette[544].MaxAllowed 0
 SetField Palette[544].Object objects\block\grass\chunk_single\chunk_single.scenery
@@ -612,7 +612,7 @@ SetField Palette[544].Setters[0].RealValue 0
 
 SetField Palette[545].Name "GRASS CHUNK [2 x 2]"
 SetField Palette[545].Type Prop
-SetField Palette[545].CategoryIndex 85
+SetField Palette[545].CategoryIndex 92
 SetField Palette[545].DescriptionIndex -1
 SetField Palette[545].MaxAllowed 0
 SetField Palette[545].Object objects\block\grass\chunk_small\chunk_small.scenery
@@ -624,7 +624,7 @@ SetField Palette[545].Setters[0].RealValue 0
 
 SetField Palette[546].Name "GRASS CHUNK [1 x 4]"
 SetField Palette[546].Type Prop
-SetField Palette[546].CategoryIndex 85
+SetField Palette[546].CategoryIndex 92
 SetField Palette[546].DescriptionIndex -1
 SetField Palette[546].MaxAllowed 0
 SetField Palette[546].Object objects\block\grass\chunk_small_long\chunk_small_long.scenery
@@ -636,7 +636,7 @@ SetField Palette[546].Setters[0].RealValue 0
 
 SetField Palette[547].Name "GRASS CHUNK [4 x 1]"
 SetField Palette[547].Type Prop
-SetField Palette[547].CategoryIndex 85
+SetField Palette[547].CategoryIndex 92
 SetField Palette[547].DescriptionIndex -1
 SetField Palette[547].MaxAllowed 0
 SetField Palette[547].Object objects\block\grass\chunk_small_wide\chunk_small_wide.scenery
@@ -648,7 +648,7 @@ SetField Palette[547].Setters[0].RealValue 0
 
 SetField Palette[548].Name "GRASS CHUNK [4 x 2 x 2]"
 SetField Palette[548].Type Prop
-SetField Palette[548].CategoryIndex 85
+SetField Palette[548].CategoryIndex 92
 SetField Palette[548].DescriptionIndex -1
 SetField Palette[548].MaxAllowed 0
 SetField Palette[548].Object objects\block\grass\chunk_wide\chunk_wide.scenery
@@ -660,7 +660,7 @@ SetField Palette[548].Setters[0].RealValue 0
 
 SetField Palette[549].Name "GRASS CHUNK [4 x 1 x 2]"
 SetField Palette[549].Type Prop
-SetField Palette[549].CategoryIndex 85
+SetField Palette[549].CategoryIndex 92
 SetField Palette[549].DescriptionIndex -1
 SetField Palette[549].MaxAllowed 0
 SetField Palette[549].Object objects\block\grass\chunk_wide_narrow\chunk_wide_narrow.scenery
@@ -682,9 +682,9 @@ SetField Palette[550].Setters[0].Type Integer
 SetField Palette[550].Setters[0].IntegerValue 1
 SetField Palette[550].Setters[0].RealValue 0
 
-SetField Palette[551].Name "OAK LOG"
+SetField Palette[551].Name "OAK LOG, MEDIUM"
 SetField Palette[551].Type Prop
-SetField Palette[551].CategoryIndex 85
+SetField Palette[551].CategoryIndex 92
 SetField Palette[551].DescriptionIndex -1
 SetField Palette[551].MaxAllowed 0
 SetField Palette[551].Object objects\block\log\column\column.scenery
@@ -696,7 +696,7 @@ SetField Palette[551].Setters[0].RealValue 0
 
 SetField Palette[552].Name "OAK LOG, LARGE"
 SetField Palette[552].Type Prop
-SetField Palette[552].CategoryIndex 85
+SetField Palette[552].CategoryIndex 92
 SetField Palette[552].DescriptionIndex -1
 SetField Palette[552].MaxAllowed 0
 SetField Palette[552].Object objects\block\log\column_big\column_big.scenery
@@ -708,7 +708,7 @@ SetField Palette[552].Setters[0].RealValue 0
 
 SetField Palette[553].Name "OAK LOG, SMALL"
 SetField Palette[553].Type Prop
-SetField Palette[553].CategoryIndex 85
+SetField Palette[553].CategoryIndex 92
 SetField Palette[553].DescriptionIndex -1
 SetField Palette[553].MaxAllowed 0
 SetField Palette[553].Object objects\block\log\column_small\column_small.scenery
@@ -720,7 +720,7 @@ SetField Palette[553].Setters[0].RealValue 0
 
 SetField Palette[554].Name "TREE"
 SetField Palette[554].Type Prop
-SetField Palette[554].CategoryIndex 85
+SetField Palette[554].CategoryIndex 92
 SetField Palette[554].DescriptionIndex -1
 SetField Palette[554].MaxAllowed 0
 SetField Palette[554].Object objects\block\log\tree\tree.scenery
@@ -732,7 +732,7 @@ SetField Palette[554].Setters[0].RealValue 0
 
 SetField Palette[555].Name "MANSION SIGN A"
 SetField Palette[555].Type Prop
-SetField Palette[555].CategoryIndex 85
+SetField Palette[555].CategoryIndex 86
 SetField Palette[555].DescriptionIndex -1
 SetField Palette[555].MaxAllowed 0
 SetField Palette[555].Object objects\block\patron\sign_func_a\sign_func_a.scenery
@@ -744,7 +744,7 @@ SetField Palette[555].Setters[0].RealValue 0
 
 SetField Palette[556].Name "MANSION SIGN B"
 SetField Palette[556].Type Prop
-SetField Palette[556].CategoryIndex 85
+SetField Palette[556].CategoryIndex 86
 SetField Palette[556].DescriptionIndex -1
 SetField Palette[556].MaxAllowed 0
 SetField Palette[556].Object objects\block\patron\sign_func_b\sign_func_b.scenery
@@ -756,7 +756,7 @@ SetField Palette[556].Setters[0].RealValue 0
 
 SetField Palette[557].Name "MANSION SIGN C"
 SetField Palette[557].Type Prop
-SetField Palette[557].CategoryIndex 85
+SetField Palette[557].CategoryIndex 86
 SetField Palette[557].DescriptionIndex -1
 SetField Palette[557].MaxAllowed 0
 SetField Palette[557].Object objects\block\patron\sign_func_c\sign_func_c.scenery
@@ -768,7 +768,7 @@ SetField Palette[557].Setters[0].RealValue 0
 
 SetField Palette[558].Name "SPLEEF SAFEZONE"
 SetField Palette[558].Type Prop
-SetField Palette[558].CategoryIndex 85
+SetField Palette[558].CategoryIndex 87
 SetField Palette[558].DescriptionIndex -1
 SetField Palette[558].MaxAllowed 0
 SetField Palette[558].Object objects\block\safezone\spleef\spleef.crate
@@ -900,7 +900,7 @@ SetField Palette[568].Setters[0].RealValue 0
 
 SetField Palette[569].Name "SPLEEF PAD"
 SetField Palette[569].Type Prop
-SetField Palette[569].CategoryIndex 85
+SetField Palette[569].CategoryIndex 87
 SetField Palette[569].DescriptionIndex -1
 SetField Palette[569].MaxAllowed 0
 SetField Palette[569].Object objects\block\slime\spleef_pads\spleef_pads.scenery
@@ -1800,7 +1800,7 @@ SetField Palette[643].Setters[0].RealValue 0
 
 SetField Palette[644].Name "WATER PLANE"
 SetField Palette[644].Type Prop
-SetField Palette[644].CategoryIndex 85
+SetField Palette[644].CategoryIndex 92
 SetField Palette[644].DescriptionIndex -1
 SetField Palette[644].MaxAllowed 0
 SetField Palette[644].Object objects\block\water\plane\plane.scenery
@@ -1836,7 +1836,7 @@ SetField Palette[646].Setters[0].RealValue 0
 
 SetField Palette[647].Name "BOOKSHELF"
 SetField Palette[647].Type Prop
-SetField Palette[647].CategoryIndex 85
+SetField Palette[647].CategoryIndex 86
 SetField Palette[647].DescriptionIndex -1
 SetField Palette[647].MaxAllowed 0
 SetField Palette[647].Object objects\block\wood\bookshelves\bookshelves.scenery
@@ -1860,7 +1860,7 @@ SetField Palette[648].Setters[0].RealValue 0
 
 SetField Palette[649].Name "OAK DESK"
 SetField Palette[649].Type Prop
-SetField Palette[649].CategoryIndex 85
+SetField Palette[649].CategoryIndex 86
 SetField Palette[649].DescriptionIndex -1
 SetField Palette[649].MaxAllowed 0
 SetField Palette[649].Object objects\block\wood\desk\desk.scenery
@@ -2100,7 +2100,7 @@ SetField Palette[668].Setters[0].RealValue 0
 
 SetField Palette[669].Name "OAK SEAT, RIGHT"
 SetField Palette[669].Type Prop
-SetField Palette[669].CategoryIndex 85
+SetField Palette[669].CategoryIndex 86
 SetField Palette[669].DescriptionIndex -1
 SetField Palette[669].MaxAllowed 0
 SetField Palette[669].Object objects\block\wood\library_seat_one\library_seat_one.scenery
@@ -2112,7 +2112,7 @@ SetField Palette[669].Setters[0].RealValue 0
 
 SetField Palette[670].Name "OAK SEAT, LEFT"
 SetField Palette[670].Type Prop
-SetField Palette[670].CategoryIndex 85
+SetField Palette[670].CategoryIndex 86
 SetField Palette[670].DescriptionIndex -1
 SetField Palette[670].MaxAllowed 0
 SetField Palette[670].Object objects\block\wood\library_seat_two\library_seat_two.scenery
@@ -2160,7 +2160,7 @@ SetField Palette[673].Setters[0].RealValue 0
 
 SetField Palette[674].Name "OAK TABLE"
 SetField Palette[674].Type Prop
-SetField Palette[674].CategoryIndex 85
+SetField Palette[674].CategoryIndex 86
 SetField Palette[674].DescriptionIndex -1
 SetField Palette[674].MaxAllowed 0
 SetField Palette[674].Object objects\block\wood\table\table.scenery
@@ -2196,7 +2196,7 @@ SetField Palette[676].Setters[0].RealValue 0
 
 SetField Palette[677].Name "TORCH, WALL DOUBLE"
 SetField Palette[677].Type Prop
-SetField Palette[677].CategoryIndex 85
+SetField Palette[677].CategoryIndex 86
 SetField Palette[677].DescriptionIndex -1
 SetField Palette[677].MaxAllowed 0
 SetField Palette[677].Object objects\block\wood\torch_wall_double\torch_wall_double.scenery
@@ -2208,7 +2208,7 @@ SetField Palette[677].Setters[0].RealValue 0
 
 SetField Palette[678].Name "TORCH, WALL DUD"
 SetField Palette[678].Type Prop
-SetField Palette[678].CategoryIndex 85
+SetField Palette[678].CategoryIndex 86
 SetField Palette[678].DescriptionIndex -1
 SetField Palette[678].MaxAllowed 0
 SetField Palette[678].Object objects\block\wood\torch_wall_dud\torch_wall_dud.scenery
@@ -2220,7 +2220,7 @@ SetField Palette[678].Setters[0].RealValue 0
 
 SetField Palette[679].Name "OAK DESKS"
 SetField Palette[679].Type Prop
-SetField Palette[679].CategoryIndex 85
+SetField Palette[679].CategoryIndex 86
 SetField Palette[679].DescriptionIndex -1
 SetField Palette[679].MaxAllowed 0
 SetField Palette[679].Object objects\block\wood\wall_desks\wall_desks.scenery
@@ -2232,7 +2232,7 @@ SetField Palette[679].Setters[0].RealValue 0
 
 SetField Palette[680].Name "BED"
 SetField Palette[680].Type Prop
-SetField Palette[680].CategoryIndex 85
+SetField Palette[680].CategoryIndex 86
 SetField Palette[680].DescriptionIndex -1
 SetField Palette[680].MaxAllowed 0
 SetField Palette[680].Object objects\block\wool\bed\bed.scenery
