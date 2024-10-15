@@ -6,19 +6,8 @@ CreateTag phmo objects\block\glass\triple\triple
 CreateTag phmo objects\block\patron\sign_func_a\sign_func_a
 CreateTag phmo objects\block\patron\sign_func_b\sign_func_b
 CreateTag phmo objects\block\patron\sign_func_c\sign_func_c
-CreateTag phmo objects\block\shadow\house_big\house_big
-CreateTag phmo objects\block\shadow\house_small\house_small
-CreateTag phmo objects\block\shadow\lockout\lockout
-CreateTag phmo objects\block\shadow\roof\roof
-CreateTag phmo objects\block\shadow\roof_facade\roof_facade
-CreateTag phmo objects\block\shadow\spleef_platform\spleef_platform
-CreateTag phmo objects\block\shadow\spleef_structure\spleef_structure
-CreateTag phmo objects\block\shadow\walls\walls
-CreateTag phmo objects\block\slime\spleef_pads\spleef_pads
 CreateTag phmo objects\block\tall_grass\block\block
 CreateTag phmo objects\block\tall_grass\chunk\chunk
-CreateTag phmo objects\block\water\plane\plane
-CreateTag phmo objects\block\water\well\well
 CreateTag phmo objects\block\wood\sign\a\a
 CreateTag phmo objects\block\wood\sign\b\b
 CreateTag phmo objects\block\wood\sign\c\c
@@ -329,46 +318,6 @@ SaveTagChanges
 Exit
 
 EditTag objects\block\safezone\spleef\spleef.crate
-AddBlockElements MultiplayerObject 1
-SaveTagChanges
-Exit
-
-EditTag objects\block\shadow\house_big\house_big.scenery
-AddBlockElements MultiplayerObject 1
-SaveTagChanges
-Exit
-
-EditTag objects\block\shadow\house_small\house_small.scenery
-AddBlockElements MultiplayerObject 1
-SaveTagChanges
-Exit
-
-EditTag objects\block\shadow\lockout\lockout.scenery
-AddBlockElements MultiplayerObject 1
-SaveTagChanges
-Exit
-
-EditTag objects\block\shadow\roof\roof.scenery
-AddBlockElements MultiplayerObject 1
-SaveTagChanges
-Exit
-
-EditTag objects\block\shadow\roof_facade\roof_facade.scenery
-AddBlockElements MultiplayerObject 1
-SaveTagChanges
-Exit
-
-EditTag objects\block\shadow\spleef_platform\spleef_platform.scenery
-AddBlockElements MultiplayerObject 1
-SaveTagChanges
-Exit
-
-EditTag objects\block\shadow\spleef_structure\spleef_structure.scenery
-AddBlockElements MultiplayerObject 1
-SaveTagChanges
-Exit
-
-EditTag objects\block\shadow\walls\walls.scenery
 AddBlockElements MultiplayerObject 1
 SaveTagChanges
 Exit
