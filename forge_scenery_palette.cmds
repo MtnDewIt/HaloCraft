@@ -1,8 +1,3 @@
-AddBlockElements PaletteCategories 1
-SetField PaletteCategories[91].Name "SCENERY"
-SetField PaletteCategories[91].DescriptionIndex -1
-SetField PaletteCategories[91].ParentCategoryIndex 83
-
 AddBlockElements Palette 1
 SetField Palette[*].Name "DIRT CHUNK [3 x 3]"
 SetField Palette[*].Type Prop
@@ -10,11 +5,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\dirt\chunk_flat\chunk_flat.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "DIRT CHUNK [2 x 2]"
@@ -23,11 +14,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\dirt\chunk_small\chunk_small.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE, DOUBLE"
@@ -36,11 +23,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\double\double.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE [2 x 2]"
@@ -49,11 +32,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\part73\part73.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE, TRIPLE"
@@ -62,11 +41,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\triple\triple.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [2 x 2 x 2]"
@@ -75,11 +50,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\grass\chunk_cube\chunk_cube.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [4 x 4]"
@@ -88,11 +59,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\grass\chunk_flat\chunk_flat.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [2 x 4 x 2]"
@@ -101,11 +68,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\grass\chunk_long\chunk_long.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [1 x 4 x 2]"
@@ -114,11 +77,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\grass\chunk_long_narrow\chunk_long_narrow.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [1 x 1 x 2]"
@@ -127,11 +86,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\grass\chunk_single\chunk_single.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [2 x 2]"
@@ -140,11 +95,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\grass\chunk_small\chunk_small.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [1 x 4]"
@@ -153,11 +104,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\grass\chunk_small_long\chunk_small_long.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [4 x 1]"
@@ -166,11 +113,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\grass\chunk_small_wide\chunk_small_wide.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [4 x 2 x 2]"
@@ -179,11 +122,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\grass\chunk_wide\chunk_wide.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GRASS CHUNK [4 x 1 x 2]"
@@ -192,11 +131,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\grass\chunk_wide_narrow\chunk_wide_narrow.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "OAK LOG, MEDIUM"
@@ -205,11 +140,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\log\column\column.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "OAK LOG, LARGE"
@@ -218,11 +149,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\log\column_big\column_big.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "OAK LOG, SMALL"
@@ -231,11 +158,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\log\column_small\column_small.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "TREE"
@@ -244,11 +167,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\log\tree\tree.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "TALL GRASS PATCH"
@@ -257,11 +176,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\tall_grass\chunk\chunk.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "WATER PLANE"
@@ -270,11 +185,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\water\plane\plane.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE BLUE [2 x 2]"
@@ -283,11 +194,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\blue\blue.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE BLUE [4 x 4]"
@@ -296,11 +203,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\blue_big\blue_big.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE BLUE [1 x 4]"
@@ -309,11 +212,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\blue_narrow\blue_narrow.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE BLUE [1 x 1]"
@@ -322,11 +221,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\blue_small\blue_small.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE RED [2 x 2]"
@@ -335,11 +230,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\red\red.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE RED [4 x 4]"
@@ -348,11 +239,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\red_big\red_big.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE RED [1 x 4]"
@@ -361,11 +248,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\red_narrow\red_narrow.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE RED [1 x 1]"
@@ -374,11 +257,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\red_small\red_small.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE WHITE [1 x 4]"
@@ -387,11 +266,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\white_big\white_big.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE WHITE [1 x 16]"
@@ -400,11 +275,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\white_huge\white_huge.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE WHITE [1 x 7]"
@@ -413,11 +284,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\white_large\white_large.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS PANE WHITE [1 x 1]"
@@ -426,11 +293,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\white_small\white_small.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS WINDOW"
@@ -439,11 +302,7 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\window\window.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "SPLEEF SAFEZONE"
@@ -452,8 +311,3 @@ SetField Palette[*].CategoryIndex 91
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\safezone\spleef\spleef.crate
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0

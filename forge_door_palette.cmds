@@ -1,5 +1,0 @@
-AddBlockElements PaletteCategories 1
-SetField PaletteCategories[92].Name "DOORS"
-SetField PaletteCategories[92].DescriptionIndex -1
-SetField PaletteCategories[92].ParentCategoryIndex 83
-

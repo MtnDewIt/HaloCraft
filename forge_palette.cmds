@@ -11,13 +11,26 @@ AddForgeCategory "DOORS" "HALOCRAFT"
 
 AddForgeItem "WEAPON HOLDER INVIS" "GADGETS" General_Physics Integer 1 objects\gear\covenant\military\cov_sword_holder\cov_sword_holder_invis.crate
 
-EditTag multiplayer\forge_globals.forge_globals_definition
+AddForgeItem "DIRT" "BLOCKS" General_Physics Integer 1 objects\block\dirt\block\block.scenery
+AddForgeItem "DANDELION" "BLOCKS" General_Physics Integer 1 objects\block\flower\dandelion\dandelion.scenery
+AddForgeItem "POPPY" "BLOCKS" General_Physics Integer 1 objects\block\flower\poppy\poppy.scenery
+AddForgeItem "GLASS PANE" "BLOCKS" General_Physics Integer 1 objects\block\glass\single\single.scenery
+AddForgeItem "OAK PLANKS" "BLOCKS" General_Physics Integer 1 objects\block\wood\block\block.scenery
+AddForgeItem "CRAFTING TABLE" "BLOCKS" General_Physics Integer 1 objects\block\wood\crafting_table\crafting_table.scenery
+AddForgeItem "TORCH" "BLOCKS" General_Physics Integer 1 objects\block\wood\torch\torch.scenery
+AddForgeItem "TORCH, WALL" "BLOCKS" General_Physics Integer 1 objects\block\wood\torch_wall\torch_wall.scenery
+AddForgeItem "TALL GRASS" "BLOCKS" General_Physics Integer 1 objects\block\tall_grass\block\block.scenery
+AddForgeItem "GRASS" "BLOCKS" General_Physics Integer 1 objects\block\grass\block\block.scenery
+AddForgeItem "OAK LOG" "BLOCKS" General_Physics Integer 1 objects\block\log\block\block.scenery
 
-RunCommands ModDataPath\forge_block_palette.cmds
 RunCommands ModDataPath\forge_blockout_palette.cmds
+
 RunCommands ModDataPath\forge_mansion_palette.cmds
+
 RunCommands ModDataPath\forge_village_palette.cmds
+
 RunCommands ModDataPath\forge_scenery_palette.cmds
+
 RunCommands ModDataPath\forge_door_palette.cmds
 
 SaveTagChanges

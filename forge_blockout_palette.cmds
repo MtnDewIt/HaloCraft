@@ -1,8 +1,3 @@
-AddBlockElements PaletteCategories 1
-SetField PaletteCategories[85].Name "BLOCKOUT"
-SetField PaletteCategories[85].DescriptionIndex -1
-SetField PaletteCategories[85].ParentCategoryIndex 83
-
 AddBlockElements Palette 1
 SetField Palette[*].Name "GLASS WINDOWS"
 SetField Palette[*].Type Prop
@@ -10,11 +5,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\glass\part70\part70.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 0"
@@ -23,11 +14,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part00\part00.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 1"
@@ -36,11 +23,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part01\part01.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 2"
@@ -49,11 +32,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part02\part02.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 3"
@@ -62,11 +41,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part03\part03.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 4"
@@ -75,11 +50,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part04\part04.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 5"
@@ -88,11 +59,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part05\part05.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 6"
@@ -101,11 +68,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part06\part06.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 7"
@@ -114,11 +77,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part07\part07.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 8"
@@ -127,11 +86,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part08\part08.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 9"
@@ -140,11 +95,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part09\part09.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 10"
@@ -153,11 +104,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part10\part10.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 11"
@@ -166,11 +113,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part11\part11.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 12"
@@ -179,11 +122,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part12\part12.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 13"
@@ -192,11 +131,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part13\part13.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 14"
@@ -205,11 +140,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part14\part14.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 15"
@@ -218,11 +149,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part15\part15.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 16"
@@ -231,11 +158,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part16\part16.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 17"
@@ -244,11 +167,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part17\part17.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 18"
@@ -257,11 +176,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part18\part18.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 19"
@@ -270,11 +185,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part19\part19.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 20"
@@ -283,11 +194,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part20\part20.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 21"
@@ -296,11 +203,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part21\part21.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 22"
@@ -309,11 +212,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part22\part22.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 23"
@@ -322,11 +221,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part23\part23.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 24"
@@ -335,11 +230,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part24\part24.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 25"
@@ -348,11 +239,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part25\part25.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 26"
@@ -361,11 +248,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part26\part26.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 27"
@@ -374,11 +257,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part27\part27.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 28"
@@ -387,11 +266,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part28\part28.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 29"
@@ -400,11 +275,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part29\part29.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 30"
@@ -413,11 +284,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part30\part30.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 31"
@@ -426,11 +293,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part31\part31.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 32"
@@ -439,11 +302,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part32\part32.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 33"
@@ -452,11 +311,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part33\part33.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 34"
@@ -465,11 +320,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part34\part34.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 35"
@@ -478,11 +329,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part35\part35.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 36"
@@ -491,11 +338,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part36\part36.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 37"
@@ -504,11 +347,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part37\part37.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 38"
@@ -517,11 +356,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part38\part38.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 39"
@@ -530,11 +365,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part39\part39.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 40"
@@ -543,11 +374,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part40\part40.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 41"
@@ -556,11 +383,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part41\part41.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 42"
@@ -569,11 +392,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part42\part42.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 43"
@@ -582,11 +401,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part43\part43.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 44"
@@ -595,11 +410,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part44\part44.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 45"
@@ -608,11 +419,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part45\part45.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 46"
@@ -621,11 +428,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part46\part46.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 47"
@@ -634,11 +437,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part47\part47.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 48"
@@ -647,11 +446,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part48\part48.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 49"
@@ -660,11 +455,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part49\part49.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 50"
@@ -673,11 +464,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part50\part50.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 51"
@@ -686,11 +473,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part51\part51.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 52"
@@ -699,11 +482,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part52\part52.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 53"
@@ -712,11 +491,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part53\part53.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 54"
@@ -725,11 +500,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part54\part54.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 55"
@@ -738,11 +509,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part55\part55.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 56"
@@ -751,11 +518,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part56\part56.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 57"
@@ -764,11 +527,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part57\part57.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 58"
@@ -777,11 +536,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part58\part58.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 59"
@@ -790,11 +545,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part59\part59.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 60"
@@ -803,11 +554,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part60\part60.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 61"
@@ -816,11 +563,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part61\part61.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 62"
@@ -829,11 +572,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part62\part62.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 63"
@@ -842,11 +581,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part63\part63.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 64"
@@ -855,11 +590,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part64\part64.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 65"
@@ -868,11 +599,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part65\part65.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 66"
@@ -881,11 +608,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part66\part66.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 67"
@@ -894,11 +617,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part67\part67.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 68"
@@ -907,11 +626,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part68\part68.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 69"
@@ -920,11 +635,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part69\part69.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 71"
@@ -933,11 +644,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part71\part71.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 72"
@@ -946,11 +653,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\stone\part72\part72.scenery
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "BOUNCY SLIME"
@@ -959,11 +662,7 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\slime\bounce\bounce.crate
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
+
 
 AddBlockElements Palette 1
 SetField Palette[*].Name "LOCKOUT SLIME"
@@ -972,8 +671,3 @@ SetField Palette[*].CategoryIndex 85
 SetField Palette[*].DescriptionIndex -1
 SetField Palette[*].MaxAllowed 0
 SetField Palette[*].Object objects\block\slime\lockout\lockout.crate
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
