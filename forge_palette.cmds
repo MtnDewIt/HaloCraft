@@ -1,22 +1,17 @@
+AddForgeCategory "HALOCRAFT" -1
+AddForgeCategory "BLOCKS" "HALOCRAFT"
+AddForgeCategory "BLOCKOUT" "HALOCRAFT"
+AddForgeCategory "MANSION" "HALOCRAFT"
+AddForgeCategory "VILLAGE" "HALOCRAFT"
+AddForgeCategory "HOUSE LARGE" "VILLAGE"
+AddForgeCategory "HOUSE SMALL" "VILLAGE"
+AddForgeCategory "HOUSE SMITH" "VILLAGE"
+AddForgeCategory "SCENERY" "HALOCRAFT"
+AddForgeCategory "DOORS" "HALOCRAFT"
+
+AddForgeItem "WEAPON HOLDER INVIS" "GADGETS" General_Physics Integer 1 objects\gear\covenant\military\cov_sword_holder\cov_sword_holder_invis.crate
+
 EditTag multiplayer\forge_globals.forge_globals_definition
-
-AddBlockElements PaletteCategories 1
-SetField PaletteCategories[83].Name "HALOCRAFT"
-SetField PaletteCategories[83].DescriptionIndex -1
-SetField PaletteCategories[83].ParentCategoryIndex -1
-
-AddBlockElements Palette 1
-SetField Palette[*].Name "WEAPON HOLDER INVIS"
-SetField Palette[*].Type Prop
-SetField Palette[*].CategoryIndex 9
-SetField Palette[*].DescriptionIndex -1
-SetField Palette[*].MaxAllowed 0
-SetField Palette[*].Object objects\gear\covenant\military\cov_sword_holder\cov_sword_holder_invis.crate
-AddBlockElements Palette[*].Setters
-SetField Palette[*].Setters[0].Target General_Physics
-SetField Palette[*].Setters[0].Type Integer
-SetField Palette[*].Setters[0].IntegerValue 1
-SetField Palette[*].Setters[0].RealValue 0
 
 RunCommands ModDataPath\forge_block_palette.cmds
 RunCommands ModDataPath\forge_blockout_palette.cmds

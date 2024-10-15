@@ -16,7 +16,6 @@ SetField Palette[*].Setters[0].Type Integer
 SetField Palette[*].Setters[0].IntegerValue 1
 SetField Palette[*].Setters[0].RealValue 0
 
-
 AddBlockElements Palette 1
 SetField Palette[*].Name "STONE STRUCTURE 0"
 SetField Palette[*].Type Prop
