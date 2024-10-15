@@ -1,5 +1,5 @@
 AddBlockElements PaletteCategories 1
-SetField PaletteCategories[93].Name "DOORS"
-SetField PaletteCategories[93].DescriptionIndex -1
-SetField PaletteCategories[93].ParentCategoryIndex 83
+SetField PaletteCategories[92].Name "DOORS"
+SetField PaletteCategories[92].DescriptionIndex -1
+SetField PaletteCategories[92].ParentCategoryIndex 83
 
