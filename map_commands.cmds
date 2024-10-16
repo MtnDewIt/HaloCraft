@@ -1,0 +1,63 @@
+EditMap village.map
+SetField Blf.MapVariant.MapVariant.Metadata.Author InfernoPlus
+SetField Blf.Scenario.GameEngineTeamCounts.NoGametypeTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.CtfTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.SlayerTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.OddballTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.KingTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.SandboxTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.VipTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.JuggernautTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.TerritoriesTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.AssaultTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.InfectionTeamCount 8
+SaveMapChanges
+Exit
+
+EditMap spleef.map
+SetField Blf.MapVariant.MapVariant.Metadata.Author InfernoPlus
+SetField Blf.Scenario.GameEngineTeamCounts.NoGametypeTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.CtfTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.SlayerTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.OddballTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.KingTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.SandboxTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.VipTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.JuggernautTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.TerritoriesTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.AssaultTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.InfectionTeamCount 8
+SaveMapChanges
+Exit
+
+EditMap mansion.map
+SetField Blf.MapVariant.MapVariant.Metadata.Author InfernoPlus
+SetField Blf.Scenario.GameEngineTeamCounts.NoGametypeTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.CtfTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.SlayerTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.OddballTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.KingTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.SandboxTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.VipTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.JuggernautTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.TerritoriesTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.AssaultTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.InfectionTeamCount 8
+SaveMapChanges
+Exit
+
+EditMap lockout.map
+SetField Blf.MapVariant.MapVariant.Metadata.Author InfernoPlus
+SetField Blf.Scenario.GameEngineTeamCounts.NoGametypeTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.CtfTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.SlayerTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.OddballTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.KingTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.SandboxTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.VipTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.JuggernautTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.TerritoriesTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.AssaultTeamCount 8
+SetField Blf.Scenario.GameEngineTeamCounts.InfectionTeamCount 8
+SaveMapChanges
+Exit

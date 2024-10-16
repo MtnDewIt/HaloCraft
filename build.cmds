@@ -30,6 +30,8 @@ RunCommands ModDataPath\object_properties.cmds
 
 RunCommands ModDataPath\global_commands.cmds
 
+RunCommands ModDataPath\map_commands.cmds
+
 AddModFiles ModDataPath\assets
 
 SaveModPackage

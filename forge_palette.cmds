@@ -14,6 +14,7 @@ AddForgeCategory "GLASS PANES" "SCENERY"
 AddForgeCategory "BLUE GLASS PANES" "SCENERY"
 AddForgeCategory "RED GLASS PANES" "SCENERY"
 AddForgeCategory "WHITE GLASS PANES" "SCENERY"
+AddForgeCategory "FOLIAGE" "SCENERY"
 AddForgeCategory "DOORS" "HALOCRAFT"
 
 AddForgeItem "WEAPON HOLDER INVIS" "GADGETS" objects\gear\covenant\military\cov_sword_holder\cov_sword_holder_invis.crate
@@ -160,39 +161,39 @@ AddForgeItem "VILLAGE SIGN B" "VILLAGE" objects\block\wood\sign\b\b.scenery
 AddForgeItem "VILLAGE SIGN C" "VILLAGE" objects\block\wood\sign\c\c.scenery 
 AddForgeItem "COBBLESTONE WELL" "VILLAGE" objects\block\cobble\well\well.scenery 
 
-AddForgeItem "DIRT CHUNK [3 x 3]" "DIRT CHUNKS" objects\block\dirt\chunk_flat\chunk_flat.scenery 
-AddForgeItem "DIRT CHUNK [2 x 2]" "DIRT CHUNKS" objects\block\dirt\chunk_small\chunk_small.scenery 
-AddForgeItem "GLASS PANE [1 x 2]" "GLASS PANES" objects\block\glass\double\double.scenery 
-AddForgeItem "GLASS PANE [2 x 2]" "GLASS PANES" objects\block\glass\part73\part73.scenery 
-AddForgeItem "GLASS PANE [1 x 3]" "GLASS PANES" objects\block\glass\triple\triple.scenery 
-AddForgeItem "GRASS CHUNK [2 x 2 x 2]" "GRASS CHUNKS" objects\block\grass\chunk_cube\chunk_cube.scenery 
-AddForgeItem "GRASS CHUNK [4 x 4]" "GRASS CHUNKS" objects\block\grass\chunk_flat\chunk_flat.scenery 
-AddForgeItem "GRASS CHUNK [2 x 4 x 2]" "GRASS CHUNKS" objects\block\grass\chunk_long\chunk_long.scenery 
-AddForgeItem "GRASS CHUNK [1 x 4 x 2]" "GRASS CHUNKS" objects\block\grass\chunk_long_narrow\chunk_long_narrow.scenery 
+AddForgeItem "DIRT CHUNK [2 x 2 x 1]" "DIRT CHUNKS" objects\block\dirt\chunk_small\chunk_small.scenery 
+AddForgeItem "DIRT CHUNK [4 x 4 x 1]" "DIRT CHUNKS" objects\block\dirt\chunk_flat\chunk_flat.scenery 
 AddForgeItem "GRASS CHUNK [1 x 1 x 2]" "GRASS CHUNKS" objects\block\grass\chunk_single\chunk_single.scenery 
-AddForgeItem "GRASS CHUNK [2 x 2]" "GRASS CHUNKS" objects\block\grass\chunk_small\chunk_small.scenery 
-AddForgeItem "GRASS CHUNK [1 x 4]" "GRASS CHUNKS" objects\block\grass\chunk_small_long\chunk_small_long.scenery 
-AddForgeItem "GRASS CHUNK [4 x 1]" "GRASS CHUNKS" objects\block\grass\chunk_small_wide\chunk_small_wide.scenery 
-AddForgeItem "GRASS CHUNK [4 x 2 x 2]" "GRASS CHUNKS" objects\block\grass\chunk_wide\chunk_wide.scenery 
+AddForgeItem "GRASS CHUNK [1 x 4 x 1]" "GRASS CHUNKS" objects\block\grass\chunk_small_long\chunk_small_long.scenery 
+AddForgeItem "GRASS CHUNK [1 x 4 x 2]" "GRASS CHUNKS" objects\block\grass\chunk_long_narrow\chunk_long_narrow.scenery 
+AddForgeItem "GRASS CHUNK [2 x 2 x 1]" "GRASS CHUNKS" objects\block\grass\chunk_small\chunk_small.scenery 
+AddForgeItem "GRASS CHUNK [2 x 2 x 2]" "GRASS CHUNKS" objects\block\grass\chunk_cube\chunk_cube.scenery 
+AddForgeItem "GRASS CHUNK [2 x 4 x 2]" "GRASS CHUNKS" objects\block\grass\chunk_long\chunk_long.scenery 
+AddForgeItem "GRASS CHUNK [4 x 1 x 1]" "GRASS CHUNKS" objects\block\grass\chunk_small_wide\chunk_small_wide.scenery 
 AddForgeItem "GRASS CHUNK [4 x 1 x 2]" "GRASS CHUNKS" objects\block\grass\chunk_wide_narrow\chunk_wide_narrow.scenery 
-AddForgeItem "OAK LOG [1 x 3]" "OAK LOGS" objects\block\log\column\column.scenery 
-AddForgeItem "OAK LOG [1 x 5]" "OAK LOGS" objects\block\log\column_big\column_big.scenery 
-AddForgeItem "OAK LOG [1 x 2]" "OAK LOGS" objects\block\log\column_small\column_small.scenery 
-AddForgeItem "TREE" "SCENERY" objects\block\log\tree\tree.scenery 
-AddForgeItem "TALL GRASS PATCH" "SCENERY" objects\block\tall_grass\chunk\chunk.scenery 
-AddForgeItem "GLASS PANE BLUE [2 x 2]" "BLUE GLASS PANES" objects\block\glass\blue\blue.scenery 
-AddForgeItem "GLASS PANE BLUE [4 x 4]" "BLUE GLASS PANES" objects\block\glass\blue_big\blue_big.scenery 
-AddForgeItem "GLASS PANE BLUE [1 x 4]" "BLUE GLASS PANES" objects\block\glass\blue_narrow\blue_narrow.scenery 
-AddForgeItem "GLASS PANE BLUE [1 x 1]" "BLUE GLASS PANES" objects\block\glass\blue_small\blue_small.scenery 
-AddForgeItem "GLASS PANE RED [2 x 2]" "RED GLASS PANES" objects\block\glass\red\red.scenery 
-AddForgeItem "GLASS PANE RED [4 x 4]" "RED GLASS PANES" objects\block\glass\red_big\red_big.scenery 
-AddForgeItem "GLASS PANE RED [1 x 4]" "RED GLASS PANES" objects\block\glass\red_narrow\red_narrow.scenery 
-AddForgeItem "GLASS PANE RED [1 x 1]" "RED GLASS PANES" objects\block\glass\red_small\red_small.scenery 
-AddForgeItem "GLASS PANE WHITE [1 x 4]" "WHITE GLASS PANES" objects\block\glass\white_big\white_big.scenery 
-AddForgeItem "GLASS PANE WHITE [1 x 16]" "WHITE GLASS PANES" objects\block\glass\white_huge\white_huge.scenery 
-AddForgeItem "GLASS PANE WHITE [1 x 7]" "WHITE GLASS PANES" objects\block\glass\white_large\white_large.scenery 
-AddForgeItem "GLASS PANE WHITE [1 x 1]" "WHITE GLASS PANES" objects\block\glass\white_small\white_small.scenery 
-AddForgeItem "GLASS WINDOW" "GLASS PANES" objects\block\glass\window\window.scenery 
+AddForgeItem "GRASS CHUNK [4 x 2 x 2]" "GRASS CHUNKS" objects\block\grass\chunk_wide\chunk_wide.scenery 
+AddForgeItem "GRASS CHUNK [4 x 4 x 1]" "GRASS CHUNKS" objects\block\grass\chunk_flat\chunk_flat.scenery 
+AddForgeItem "OAK LOG [1 x 1 x 2]" "OAK LOGS" objects\block\log\column_small\column_small.scenery 
+AddForgeItem "OAK LOG [1 x 1 x 3]" "OAK LOGS" objects\block\log\column\column.scenery 
+AddForgeItem "OAK LOG [1 x 1 x 5]" "OAK LOGS" objects\block\log\column_big\column_big.scenery  
+AddForgeItem "GLASS PANE [1 x 2 x 1]" "GLASS PANES" objects\block\glass\double\double.scenery 
+AddForgeItem "GLASS PANE [1 x 3 x 1]" "GLASS PANES" objects\block\glass\triple\triple.scenery
+AddForgeItem "GLASS PANE [2 x 2 x 1]" "GLASS PANES" objects\block\glass\part73\part73.scenery  
+AddForgeItem "GLASS PANE [3 x 4 x 1]" "GLASS PANES" objects\block\glass\window\window.scenery 
+AddForgeItem "GLASS PANE RED [1 x 1 x 1]" "RED GLASS PANES" objects\block\glass\red_small\red_small.scenery
+AddForgeItem "GLASS PANE RED [1 x 4 x 1]" "RED GLASS PANES" objects\block\glass\red_narrow\red_narrow.scenery 
+AddForgeItem "GLASS PANE RED [2 x 2 x 1]" "RED GLASS PANES" objects\block\glass\red\red.scenery 
+AddForgeItem "GLASS PANE RED [4 x 4 x 1]" "RED GLASS PANES" objects\block\glass\red_big\red_big.scenery 
+AddForgeItem "GLASS PANE BLUE [1 x 1 x 1]" "BLUE GLASS PANES" objects\block\glass\blue_small\blue_small.scenery 
+AddForgeItem "GLASS PANE BLUE [1 x 4 x 1]" "BLUE GLASS PANES" objects\block\glass\blue_narrow\blue_narrow.scenery 
+AddForgeItem "GLASS PANE BLUE [2 x 2 x 1]" "BLUE GLASS PANES" objects\block\glass\blue\blue.scenery 
+AddForgeItem "GLASS PANE BLUE [4 x 4 x 1]" "BLUE GLASS PANES" objects\block\glass\blue_big\blue_big.scenery 
+AddForgeItem "GLASS PANE WHITE [1 x 1 x 1]" "WHITE GLASS PANES" objects\block\glass\white_small\white_small.scenery 
+AddForgeItem "GLASS PANE WHITE [1 x 4 x 1]" "WHITE GLASS PANES" objects\block\glass\white_big\white_big.scenery 
+AddForgeItem "GLASS PANE WHITE [1 x 7 x 1]" "WHITE GLASS PANES" objects\block\glass\white_large\white_large.scenery 
+AddForgeItem "GLASS PANE WHITE [1 x 16 x 1]" "WHITE GLASS PANES" objects\block\glass\white_huge\white_huge.scenery 
+AddForgeItem "TALL GRASS PATCH" "FOLIAGE" objects\block\tall_grass\chunk\chunk.scenery
+AddForgeItem "TREE" "FOLIAGE" objects\block\log\tree\tree.scenery 
 
 AddForgeItem "OAK DOOR, LEFT" "DOORS" objects\block\wood\door_left\door_left.device_machine
 AddForgeItem "OAK DOOR, RIGHT" "DOORS" objects\block\wood\door_right\door_right.device_machine
