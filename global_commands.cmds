@@ -1,0 +1,373 @@
+EditTag globals\globals.globals
+
+StringId Add minecraft
+
+AddBlockElements DamageTable[0].DamageGroups[0].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[0].ArmorModifiers[35].Name minecraft
+SetField DamageTable[0].DamageGroups[0].ArmorModifiers[35].DamageMultiplier 1
+
+AddBlockElements DamageTable[0].DamageGroups[1].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[1].ArmorModifiers[35].Name minecraft
+SetField DamageTable[0].DamageGroups[1].ArmorModifiers[35].DamageMultiplier 0.4
+SetField DamageTable[0].DamageGroups[1].ArmorModifiers[36].Name soft_organic_flesh_hunter
+SetField DamageTable[0].DamageGroups[1].ArmorModifiers[36].DamageMultiplier 0
+
+AddBlockElements DamageTable[0].DamageGroups[2].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[2].ArmorModifiers[35].Name minecraft
+SetField DamageTable[0].DamageGroups[2].ArmorModifiers[35].DamageMultiplier 0.4
+
+AddBlockElements DamageTable[0].DamageGroups[3].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[3].ArmorModifiers[2].Name minecraft
+SetField DamageTable[0].DamageGroups[3].ArmorModifiers[2].DamageMultiplier 0.4
+
+AddBlockElements DamageTable[0].DamageGroups[4].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[4].ArmorModifiers[35].Name minecraft
+SetField DamageTable[0].DamageGroups[4].ArmorModifiers[35].DamageMultiplier 0.4
+SetField DamageTable[0].DamageGroups[4].ArmorModifiers[36].Name soft_organic_flesh_hunter
+SetField DamageTable[0].DamageGroups[4].ArmorModifiers[36].DamageMultiplier 2
+
+AddBlockElements DamageTable[0].DamageGroups[5].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[5].ArmorModifiers[35].Name minecraft
+SetField DamageTable[0].DamageGroups[5].ArmorModifiers[35].DamageMultiplier 0.4
+SetField DamageTable[0].DamageGroups[5].ArmorModifiers[36].Name soft_organic_flesh_hunter
+SetField DamageTable[0].DamageGroups[5].ArmorModifiers[36].DamageMultiplier 2
+SetField DamageTable[0].DamageGroups[5].ArmorModifiers[37].Name sentinel
+SetField DamageTable[0].DamageGroups[5].ArmorModifiers[37].DamageMultiplier 4
+
+AddBlockElements DamageTable[0].DamageGroups[6].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[6].ArmorModifiers[35].Name minecraft
+SetField DamageTable[0].DamageGroups[6].ArmorModifiers[35].DamageMultiplier 0.4
+SetField DamageTable[0].DamageGroups[6].ArmorModifiers[36].Name soft_organic_flesh_hunter
+SetField DamageTable[0].DamageGroups[6].ArmorModifiers[36].DamageMultiplier 2
+
+AddBlockElements DamageTable[0].DamageGroups[7].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[7].ArmorModifiers[35].Name minecraft
+SetField DamageTable[0].DamageGroups[7].ArmorModifiers[35].DamageMultiplier 0.4
+SetField DamageTable[0].DamageGroups[7].ArmorModifiers[36].Name soft_organic_flesh_hunter
+SetField DamageTable[0].DamageGroups[7].ArmorModifiers[36].DamageMultiplier 2
+SetField DamageTable[0].DamageGroups[7].ArmorModifiers[37].Name sentinel
+SetField DamageTable[0].DamageGroups[7].ArmorModifiers[37].DamageMultiplier 2
+
+AddBlockElements DamageTable[0].DamageGroups[8].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[8].ArmorModifiers[35].Name minecraft
+SetField DamageTable[0].DamageGroups[8].ArmorModifiers[35].DamageMultiplier 0.4
+
+AddBlockElements DamageTable[0].DamageGroups[9].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[9].ArmorModifiers[35].Name minecraft
+SetField DamageTable[0].DamageGroups[9].ArmorModifiers[35].DamageMultiplier 0.4
+SetField DamageTable[0].DamageGroups[9].ArmorModifiers[36].Name sentinel
+SetField DamageTable[0].DamageGroups[9].ArmorModifiers[36].DamageMultiplier 2
+
+AddBlockElements DamageTable[0].DamageGroups[10].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[10].ArmorModifiers[35].Name minecraft
+SetField DamageTable[0].DamageGroups[10].ArmorModifiers[35].DamageMultiplier 1
+
+AddBlockElements DamageTable[0].DamageGroups[11].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[11].ArmorModifiers[35].Name minecraft
+SetField DamageTable[0].DamageGroups[11].ArmorModifiers[35].DamageMultiplier 1
+
+AddBlockElements DamageTable[0].DamageGroups[12].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[12].ArmorModifiers[35].Name minecraft
+SetField DamageTable[0].DamageGroups[12].ArmorModifiers[35].DamageMultiplier 1
+
+AddBlockElements DamageTable[0].DamageGroups[13].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[13].ArmorModifiers[35].Name minecraft
+SetField DamageTable[0].DamageGroups[13].ArmorModifiers[35].DamageMultiplier 0
+
+AddBlockElements DamageTable[0].DamageGroups[15].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[15].ArmorModifiers[35].Name minecraft
+SetField DamageTable[0].DamageGroups[15].ArmorModifiers[35].DamageMultiplier 0
+
+AddBlockElements DamageTable[0].DamageGroups[16].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[16].ArmorModifiers[34].Name minecraft
+SetField DamageTable[0].DamageGroups[16].ArmorModifiers[34].DamageMultiplier 0
+
+AddBlockElements DamageTable[0].DamageGroups[17].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[17].ArmorModifiers[35].Name minecraft
+SetField DamageTable[0].DamageGroups[17].ArmorModifiers[35].DamageMultiplier 1
+
+AddBlockElements DamageTable[0].DamageGroups[18].ArmorModifiers 1
+SetField DamageTable[0].DamageGroups[18].ArmorModifiers[36].Name minecraft
+SetField DamageTable[0].DamageGroups[18].ArmorModifiers[36].DamageMultiplier 1
+
+AddBlockElements DamageTable[1].DamageGroups[0].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[0].ArmorModifiers[35].Name minecraft
+SetField DamageTable[1].DamageGroups[0].ArmorModifiers[35].DamageMultiplier 1
+SetField DamageTable[1].DamageGroups[0].ArmorModifiers[36].Name energy_shield_thin_player
+SetField DamageTable[1].DamageGroups[0].ArmorModifiers[36].DamageMultiplier 2
+
+AddBlockElements DamageTable[1].DamageGroups[1].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[1].ArmorModifiers[35].Name minecraft
+SetField DamageTable[1].DamageGroups[1].ArmorModifiers[35].DamageMultiplier 0.4
+SetField DamageTable[1].DamageGroups[1].ArmorModifiers[36].Name soft_organic_flesh_hunter
+SetField DamageTable[1].DamageGroups[1].ArmorModifiers[36].DamageMultiplier 0
+
+AddBlockElements DamageTable[1].DamageGroups[2].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[2].ArmorModifiers[35].Name minecraft
+SetField DamageTable[1].DamageGroups[2].ArmorModifiers[35].DamageMultiplier 0.4
+
+AddBlockElements DamageTable[1].DamageGroups[3].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[3].ArmorModifiers[2].Name minecraft
+SetField DamageTable[1].DamageGroups[3].ArmorModifiers[2].DamageMultiplier 0.4
+
+AddBlockElements DamageTable[1].DamageGroups[4].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[4].ArmorModifiers[35].Name minecraft
+SetField DamageTable[1].DamageGroups[4].ArmorModifiers[35].DamageMultiplier 0.4
+SetField DamageTable[1].DamageGroups[4].ArmorModifiers[36].Name soft_organic_flesh_hunter
+SetField DamageTable[1].DamageGroups[4].ArmorModifiers[36].DamageMultiplier 2
+SetField DamageTable[1].DamageGroups[4].ArmorModifiers[37].Name energy_shield_thin_player
+SetField DamageTable[1].DamageGroups[4].ArmorModifiers[37].DamageMultiplier 4
+
+AddBlockElements DamageTable[1].DamageGroups[5].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[5].ArmorModifiers[35].Name minecraft
+SetField DamageTable[1].DamageGroups[5].ArmorModifiers[35].DamageMultiplier 0.4
+SetField DamageTable[1].DamageGroups[5].ArmorModifiers[36].Name soft_organic_flesh_hunter
+SetField DamageTable[1].DamageGroups[5].ArmorModifiers[36].DamageMultiplier 2
+SetField DamageTable[1].DamageGroups[5].ArmorModifiers[37].Name sentinel
+SetField DamageTable[1].DamageGroups[5].ArmorModifiers[37].DamageMultiplier 4
+SetField DamageTable[1].DamageGroups[5].ArmorModifiers[38].Name hard_metal_thin_player
+SetField DamageTable[1].DamageGroups[5].ArmorModifiers[38].DamageMultiplier 3
+
+AddBlockElements DamageTable[1].DamageGroups[6].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[6].ArmorModifiers[35].Name minecraft
+SetField DamageTable[1].DamageGroups[6].ArmorModifiers[35].DamageMultiplier 0.4
+SetField DamageTable[1].DamageGroups[6].ArmorModifiers[36].Name soft_organic_flesh_hunter
+SetField DamageTable[1].DamageGroups[6].ArmorModifiers[36].DamageMultiplier 2
+SetField DamageTable[1].DamageGroups[6].ArmorModifiers[37].Name energy_shield_thin_player
+SetField DamageTable[1].DamageGroups[6].ArmorModifiers[37].DamageMultiplier 4
+
+AddBlockElements DamageTable[1].DamageGroups[7].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[7].ArmorModifiers[35].Name minecraft
+SetField DamageTable[1].DamageGroups[7].ArmorModifiers[35].DamageMultiplier 0.4
+SetField DamageTable[1].DamageGroups[7].ArmorModifiers[36].Name soft_organic_flesh_hunter
+SetField DamageTable[1].DamageGroups[7].ArmorModifiers[36].DamageMultiplier 2
+SetField DamageTable[1].DamageGroups[7].ArmorModifiers[37].Name sentinel
+SetField DamageTable[1].DamageGroups[7].ArmorModifiers[37].DamageMultiplier 2
+SetField DamageTable[1].DamageGroups[7].ArmorModifiers[38].Name hard_metal_thin_player
+SetField DamageTable[1].DamageGroups[7].ArmorModifiers[38].DamageMultiplier 3
+
+AddBlockElements DamageTable[1].DamageGroups[8].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[8].ArmorModifiers[35].Name minecraft
+SetField DamageTable[1].DamageGroups[8].ArmorModifiers[35].DamageMultiplier 0.4
+SetField DamageTable[1].DamageGroups[8].ArmorModifiers[36].Name energy_shield_thin_player
+SetField DamageTable[1].DamageGroups[8].ArmorModifiers[36].DamageMultiplier 4
+
+AddBlockElements DamageTable[1].DamageGroups[9].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[9].ArmorModifiers[35].Name minecraft
+SetField DamageTable[1].DamageGroups[9].ArmorModifiers[35].DamageMultiplier 0.4
+SetField DamageTable[1].DamageGroups[9].ArmorModifiers[36].Name sentinel
+SetField DamageTable[1].DamageGroups[9].ArmorModifiers[36].DamageMultiplier 2
+
+AddBlockElements DamageTable[1].DamageGroups[10].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[10].ArmorModifiers[35].Name minecraft
+SetField DamageTable[1].DamageGroups[10].ArmorModifiers[35].DamageMultiplier 1
+
+AddBlockElements DamageTable[1].DamageGroups[11].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[11].ArmorModifiers[35].Name minecraft
+SetField DamageTable[1].DamageGroups[11].ArmorModifiers[35].DamageMultiplier 1
+
+AddBlockElements DamageTable[1].DamageGroups[12].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[12].ArmorModifiers[35].Name minecraft
+SetField DamageTable[1].DamageGroups[12].ArmorModifiers[35].DamageMultiplier 1
+
+AddBlockElements DamageTable[1].DamageGroups[13].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[13].ArmorModifiers[35].Name minecraft
+SetField DamageTable[1].DamageGroups[13].ArmorModifiers[35].DamageMultiplier 0
+
+AddBlockElements DamageTable[1].DamageGroups[15].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[15].ArmorModifiers[35].Name minecraft
+SetField DamageTable[1].DamageGroups[15].ArmorModifiers[35].DamageMultiplier 0
+SetField DamageTable[1].DamageGroups[15].ArmorModifiers[36].Name hard_metal_thin_player
+SetField DamageTable[1].DamageGroups[15].ArmorModifiers[36].DamageMultiplier 4
+
+AddBlockElements DamageTable[1].DamageGroups[16].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[16].ArmorModifiers[34].Name minecraft
+SetField DamageTable[1].DamageGroups[16].ArmorModifiers[34].DamageMultiplier 0
+
+AddBlockElements DamageTable[1].DamageGroups[17].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[17].ArmorModifiers[35].Name minecraft
+SetField DamageTable[1].DamageGroups[17].ArmorModifiers[35].DamageMultiplier 1
+
+AddBlockElements DamageTable[1].DamageGroups[18].ArmorModifiers 1
+SetField DamageTable[1].DamageGroups[18].ArmorModifiers[36].Name minecraft
+SetField DamageTable[1].DamageGroups[18].ArmorModifiers[36].DamageMultiplier 1
+
+AddBlockElements Materials 1
+SetField Materials[*].Name minecraft_dirt
+SetField Materials[*].ParentName tough_terrain_dirt
+SetField Materials[*].RuntimeMaterialIndex 48
+SetField Materials[*].GeneralArmor minecraft
+SetField Materials[*].Friction 0.8
+SetField Materials[*].Restitution 0.15
+SetField Materials[*].Density 1750
+SetField Materials[*].SoundSweetenerSmall sound\materials\tough\terrain_dirt\dirt_small.sound
+SetField Materials[*].SoundSweetenerMedium sound\materials\tough\terrain_dirt\dirt_med.sound
+SetField Materials[*].SoundSweetenerLarge sound\materials\tough\terrain_dirt\dirt_large.sound
+SetField Materials[*].SoundSweetenerRolling sound\materials\tough\terrain_dirt\dirt_looping\dirt_looping.sound_looping
+SetField Materials[*].SoundSweetenerMeleeSmall sound\materials\tough\terrain_dirt\dirt_small.sound
+SetField Materials[*].SoundSweetenerMeleeMedium sound\materials\tough\terrain_dirt\dirt_med.sound
+SetField Materials[*].SoundSweetenerMeleeLarge sound\materials\tough\terrain_dirt\dirt_large.sound
+SetField Materials[*].MaterialEffects fx\material_effects\materials\tough\terrain_dirt.material_effects
+AddBlockElements Materials[*].UnderwaterProxies 1
+SetField Materials[*].UnderwaterProxies[0].SurfaceName liquid_thin_water
+SetField Materials[*].UnderwaterProxies[0].SubmergedName submerged_default_material
+SetField Materials[*].UnderwaterProxies[0].SurfaceIndex 3
+SetField Materials[*].UnderwaterProxies[0].SubmergedIndex 207
+
+AddBlockElements Materials 1
+SetField Materials[*].Name minecraft_foliage
+SetField Materials[*].ParentName soft_organic_plant
+SetField Materials[*].RuntimeMaterialIndex 17
+SetField Materials[*].GeneralArmor minecraft
+SetField Materials[*].Friction 0.85
+SetField Materials[*].Restitution 0.4
+SetField Materials[*].Density 750
+SetField Materials[*].SoundSweetenerSmall sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actor.sound
+SetField Materials[*].SoundSweetenerMedium sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actor.sound
+SetField Materials[*].SoundSweetenerLarge sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actor.sound
+SetField Materials[*].SoundSweetenerRolling sound\materials\soft\soft_organic_plant_leafy_dynamic\soft_organic_plant_leafy_dynamic\soft_organic_plant_leafy_dynamic.sound_looping
+SetField Materials[*].SoundSweetenerMeleeSmall sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actee.sound
+SetField Materials[*].SoundSweetenerMeleeMedium sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actee.sound
+SetField Materials[*].SoundSweetenerMeleeLarge sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actee.sound
+SetField Materials[*].MaterialEffects fx\material_effects\materials\soft\soft_organic_plant.material_effects
+AddBlockElements Materials[*].UnderwaterProxies 1
+SetField Materials[*].UnderwaterProxies[0].SurfaceName liquid_thin_water
+SetField Materials[*].UnderwaterProxies[0].SubmergedName submerged_default_material
+SetField Materials[*].UnderwaterProxies[0].SurfaceIndex 3
+SetField Materials[*].UnderwaterProxies[0].SubmergedIndex 207
+
+AddBlockElements Materials 1
+SetField Materials[*].Name minecraft_glass
+SetField Materials[*].ParentName brittle_glass
+SetField Materials[*].RuntimeMaterialIndex 107
+SetField Materials[*].GeneralArmor minecraft
+SetField Materials[*].Friction 0.6
+SetField Materials[*].Restitution 0.1
+SetField Materials[*].Density 2750
+SetField Materials[*].BreakableSurface globals\glass.breakable_surface
+SetField Materials[*].SoundSweetenerSmall sound\materials\brittle\glass\glass_small.sound
+SetField Materials[*].SoundSweetenerMedium sound\materials\brittle\glass\glass_med.sound
+SetField Materials[*].SoundSweetenerLarge sound\materials\brittle\glass\glass_med.sound
+SetField Materials[*].SoundSweetenerRolling sound\materials\brittle\glass\glass_looping\glass_looping.sound_looping
+SetField Materials[*].SoundSweetenerMeleeSmall sound\materials\brittle\glass\glass_med.sound
+SetField Materials[*].SoundSweetenerMeleeMedium sound\materials\brittle\glass\glass_med.sound
+SetField Materials[*].SoundSweetenerMeleeLarge sound\materials\brittle\glass\glass_med.sound
+SetField Materials[*].MaterialEffects fx\material_effects\materials\brittle\glass.material_effects
+AddBlockElements Materials[*].UnderwaterProxies 1
+SetField Materials[*].UnderwaterProxies[0].SurfaceName liquid_thin_water
+SetField Materials[*].UnderwaterProxies[0].SubmergedName submerged_default_material
+SetField Materials[*].UnderwaterProxies[0].SurfaceIndex 3
+SetField Materials[*].UnderwaterProxies[0].SubmergedIndex 207
+
+AddBlockElements Materials 1
+SetField Materials[*].Name minecraft_grass
+SetField Materials[*].ParentName tough_terrain_dirt
+SetField Materials[*].RuntimeMaterialIndex 48
+SetField Materials[*].GeneralArmor minecraft
+SetField Materials[*].Friction 0.8
+SetField Materials[*].Restitution 0.15
+SetField Materials[*].Density 1750
+SetField Materials[*].SoundSweetenerSmall sound\materials\tough\terrain_grass\grass_small.sound
+SetField Materials[*].SoundSweetenerMedium sound\materials\tough\terrain_grass\grass_med.sound
+SetField Materials[*].SoundSweetenerLarge sound\materials\tough\terrain_grass\grass_med.sound
+SetField Materials[*].SoundSweetenerRolling sound\materials\tough\terrain_grass\grass_looping\grass_looping.sound_looping
+SetField Materials[*].SoundSweetenerMeleeSmall sound\materials\tough\terrain_grass\grass_med.sound
+SetField Materials[*].SoundSweetenerMeleeMedium sound\materials\tough\terrain_grass\grass_med.sound
+SetField Materials[*].SoundSweetenerMeleeLarge sound\materials\tough\terrain_grass\grass_med.sound
+SetField Materials[*].MaterialEffects fx\material_effects\materials\tough\terrain_dirt.material_effects
+AddBlockElements Materials[*].UnderwaterProxies 1
+SetField Materials[*].UnderwaterProxies[0].SurfaceName liquid_thin_water
+SetField Materials[*].UnderwaterProxies[0].SubmergedName submerged_default_material
+SetField Materials[*].UnderwaterProxies[0].SurfaceIndex 3
+SetField Materials[*].UnderwaterProxies[0].SubmergedIndex 207
+
+AddBlockElements Materials 1
+SetField Materials[*].Name minecraft_leaves
+SetField Materials[*].ParentName soft_organic_plant
+SetField Materials[*].RuntimeMaterialIndex 17
+SetField Materials[*].GeneralArmor minecraft
+SetField Materials[*].Friction 0.85
+SetField Materials[*].Restitution 0.4
+SetField Materials[*].Density 750
+SetField Materials[*].SoundSweetenerSmall sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actor.sound
+SetField Materials[*].SoundSweetenerMedium sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actor.sound
+SetField Materials[*].SoundSweetenerLarge sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actor.sound
+SetField Materials[*].SoundSweetenerRolling sound\materials\soft\soft_organic_plant_leafy_dynamic\soft_organic_plant_leafy_dynamic\soft_organic_plant_leafy_dynamic.sound_looping
+SetField Materials[*].SoundSweetenerMeleeSmall sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actee.sound
+SetField Materials[*].SoundSweetenerMeleeMedium sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actee.sound
+SetField Materials[*].SoundSweetenerMeleeLarge sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actee.sound
+SetField Materials[*].MaterialEffects fx\material_effects\materials\soft\soft_organic_plant.material_effects
+AddBlockElements Materials[*].UnderwaterProxies 1
+SetField Materials[*].UnderwaterProxies[0].SurfaceName liquid_thin_water
+SetField Materials[*].UnderwaterProxies[0].SubmergedName submerged_default_material
+SetField Materials[*].UnderwaterProxies[0].SurfaceIndex 3
+SetField Materials[*].UnderwaterProxies[0].SubmergedIndex 207
+
+AddBlockElements Materials 1
+SetField Materials[*].Name minecraft_stone
+SetField Materials[*].ParentName hard_terrain_stone
+SetField Materials[*].RuntimeMaterialIndex 102
+SetField Materials[*].GeneralArmor minecraft
+SetField Materials[*].Friction 0.85
+SetField Materials[*].Restitution 0.3
+SetField Materials[*].Density 6500
+SetField Materials[*].SoundSweetenerSmall sound\materials\hard\terrain_stone\stone_small.sound
+SetField Materials[*].SoundSweetenerMedium sound\materials\hard\terrain_stone\stone_med.sound
+SetField Materials[*].SoundSweetenerLarge sound\materials\hard\terrain_stone\stone_med.sound
+SetField Materials[*].SoundSweetenerRolling sound\materials\hard\terrain_stone\stone_looping\stone_looping.sound_looping
+SetField Materials[*].SoundSweetenerMeleeSmall sound\materials\hard\terrain_stone\stone_med.sound
+SetField Materials[*].SoundSweetenerMeleeMedium sound\materials\hard\terrain_stone\stone_med.sound
+SetField Materials[*].SoundSweetenerMeleeLarge sound\materials\hard\terrain_stone\stone_med.sound
+SetField Materials[*].MaterialEffects fx\material_effects\materials\hard\terrain_stone.material_effects
+AddBlockElements Materials[*].UnderwaterProxies 1
+SetField Materials[*].UnderwaterProxies[0].SurfaceName liquid_thin_water
+SetField Materials[*].UnderwaterProxies[0].SubmergedName submerged_default_material
+SetField Materials[*].UnderwaterProxies[0].SurfaceIndex 3
+SetField Materials[*].UnderwaterProxies[0].SubmergedIndex 207
+
+AddBlockElements Materials 1
+SetField Materials[*].Name minecraft_wood
+SetField Materials[*].ParentName tough_terrain_woodfloor
+SetField Materials[*].RuntimeMaterialIndex 171
+SetField Materials[*].GeneralArmor minecraft
+SetField Materials[*].Friction 0.8
+SetField Materials[*].Restitution 0.15
+SetField Materials[*].Density 1750
+SetField Materials[*].SoundSweetenerSmall sound\materials\tough\organic_wood\wood_med.sound
+SetField Materials[*].SoundSweetenerMedium sound\materials\tough\organic_wood\wood_med.sound
+SetField Materials[*].SoundSweetenerLarge sound\materials\tough\organic_wood\wood_med.sound
+SetField Materials[*].SoundSweetenerRolling sound\materials\tough\organic_wood\wood_looping\wood_looping.sound_looping
+SetField Materials[*].SoundSweetenerMeleeSmall sound\materials\tough\organic_wood\wood_med.sound
+SetField Materials[*].SoundSweetenerMeleeMedium sound\materials\tough\organic_wood\wood_med.sound
+SetField Materials[*].SoundSweetenerMeleeLarge sound\materials\tough\organic_wood\wood_med.sound
+SetField Materials[*].MaterialEffects fx\material_effects\materials\tough\terrain_dirt.material_effects
+AddBlockElements Materials[*].UnderwaterProxies 1
+SetField Materials[*].UnderwaterProxies[0].SurfaceName liquid_thin_water
+SetField Materials[*].UnderwaterProxies[0].SubmergedName submerged_default_material
+SetField Materials[*].UnderwaterProxies[0].SurfaceIndex 3
+SetField Materials[*].UnderwaterProxies[0].SubmergedIndex 207
+
+AddBlockElements Materials 1
+SetField Materials[*].Name minecraft_barrier
+SetField Materials[*].ParentName energy
+SetField Materials[*].RuntimeMaterialIndex 144
+SetField Materials[*].GeneralArmor energy_shield_thin
+SetField Materials[*].Friction 0.5
+SetField Materials[*].Restitution 0.1
+SetField Materials[*].Density 1
+SetField Materials[*].SoundSweetenerSmall sound\materials\energy\energy_small.sound
+SetField Materials[*].SoundSweetenerMedium sound\materials\energy\energy_medium.sound
+SetField Materials[*].SoundSweetenerLarge sound\materials\energy\energy_medium.sound
+SetField Materials[*].SoundSweetenerRolling sound\materials\energy\blue_plasma_looping\blue_plasma_looping.sound_looping
+SetField Materials[*].SoundSweetenerMeleeSmall sound\materials\energy\energy_medium.sound
+SetField Materials[*].SoundSweetenerMeleeMedium sound\materials\energy\energy_medium.sound
+SetField Materials[*].SoundSweetenerMeleeLarge sound\materials\energy\energy_medium.sound
+SetField Materials[*].MaterialEffects fx\material_effects\materials\energy\energy.material_effects
+AddBlockElements Materials[*].UnderwaterProxies 1
+SetField Materials[*].UnderwaterProxies[0].SurfaceName liquid_thin_water
+SetField Materials[*].UnderwaterProxies[0].SubmergedName submerged_default_material
+SetField Materials[*].UnderwaterProxies[0].SurfaceIndex 3
+SetField Materials[*].UnderwaterProxies[0].SubmergedIndex 207
+
+SaveTagChanges
+Exit
