@@ -21,13 +21,14 @@ RunCommands ModDataPath\porting_commands.cmds
 
 RunCommands ModDataPath\scenario_commands.cmds
 
+UpdateMapFiles CacheFilePath\info
+
+
 RunCommands ModDataPath\forge_palette.cmds
 
 RunCommands ModDataPath\object_properties.cmds
 
 RunCommands ModDataPath\global_commands.cmds
-
-UpdateMapFiles CacheFilePath\info
 
 AddModFiles ModDataPath\assets
 

@@ -96,8 +96,6 @@ AddForgeItem "STONE STRUCTURE 68" "BLOCKOUT" objects\block\stone\part68\part68.s
 AddForgeItem "STONE STRUCTURE 69" "BLOCKOUT" objects\block\stone\part69\part69.scenery 
 AddForgeItem "STONE STRUCTURE 71" "BLOCKOUT" objects\block\stone\part71\part71.scenery 
 AddForgeItem "STONE STRUCTURE 72" "BLOCKOUT" objects\block\stone\part72\part72.scenery 
-AddForgeItem "BOUNCY SLIME" "BLOCKOUT" objects\block\slime\bounce\bounce.crate 
-AddForgeItem "LOCKOUT SLIME" "BLOCKOUT" objects\block\slime\lockout\lockout.crate
 
 AddForgeItem "DARK OAK ARCHWAY" "MANSION" objects\block\dark_wood\dark_wood_archway\dark_wood_archway.scenery 
 AddForgeItem "DARK OAK WALL" "MANSION" objects\block\dark_wood\dark_wood_wall\dark_wood_wall.scenery 
@@ -153,7 +151,6 @@ AddForgeItem "SMITH WALL SIDE" "HOUSE SMITH" objects\block\wood\house_smith_wall
 AddForgeItem "VILLAGE SIGN A" "VILLAGE" objects\block\wood\sign\a\a.scenery 
 AddForgeItem "VILLAGE SIGN B" "VILLAGE" objects\block\wood\sign\b\b.scenery 
 AddForgeItem "VILLAGE SIGN C" "VILLAGE" objects\block\wood\sign\c\c.scenery 
-AddForgeItem "WELL WATER PLANE" "VILLAGE" objects\block\water\well\well.scenery
 AddForgeItem "COBBLESTONE WELL" "VILLAGE" objects\block\cobble\well\well.scenery 
 
 AddForgeItem "DIRT CHUNK [3 x 3]" "SCENERY" objects\block\dirt\chunk_flat\chunk_flat.scenery 
@@ -176,7 +173,6 @@ AddForgeItem "OAK LOG [1 x 5]" "SCENERY" objects\block\log\column_big\column_big
 AddForgeItem "OAK LOG [1 x 2]" "SCENERY" objects\block\log\column_small\column_small.scenery 
 AddForgeItem "TREE" "SCENERY" objects\block\log\tree\tree.scenery 
 AddForgeItem "TALL GRASS PATCH" "SCENERY" objects\block\tall_grass\chunk\chunk.scenery 
-AddForgeItem "WATER PLANE" "SCENERY" objects\block\water\plane\plane.scenery 
 AddForgeItem "GLASS PANE BLUE [2 x 2]" "SCENERY" objects\block\glass\blue\blue.scenery 
 AddForgeItem "GLASS PANE BLUE [4 x 4]" "SCENERY" objects\block\glass\blue_big\blue_big.scenery 
 AddForgeItem "GLASS PANE BLUE [1 x 4]" "SCENERY" objects\block\glass\blue_narrow\blue_narrow.scenery 
@@ -190,9 +186,77 @@ AddForgeItem "GLASS PANE WHITE [1 x 16]" "SCENERY" objects\block\glass\white_hug
 AddForgeItem "GLASS PANE WHITE [1 x 7]" "SCENERY" objects\block\glass\white_large\white_large.scenery 
 AddForgeItem "GLASS PANE WHITE [1 x 1]" "SCENERY" objects\block\glass\white_small\white_small.scenery 
 AddForgeItem "GLASS WINDOW" "SCENERY" objects\block\glass\window\window.scenery 
-AddForgeItem "SPLEEF SAFEZONE" "SCENERY" objects\block\safezone\spleef\spleef.crate
 
 AddForgeItem "OAK DOOR, LEFT" "DOORS" objects\block\wood\door_left\door_left.device_machine
 AddForgeItem "OAK DOOR, RIGHT" "DOORS" objects\block\wood\door_right\door_right.device_machine
 AddForgeItem "IRON DOOR, LEFT" "DOORS" objects\block\metal\door_left\door_left.device_machine
 AddForgeItem "IRON DOOR, RIGHT" "DOORS" objects\block\metal\door_right\door_right.device_machine
+
+EditTag multiplayer\forge_globals.forge_globals_definition
+
+AddBlockElements Palette 1
+SetField Palette[*].Name null
+SetField Palette[*].Type None
+SetField Palette[*].CategoryIndex -1
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].Object objects\block\safezone\spleef\spleef.crate
+
+AddBlockElements Palette 1
+SetField Palette[*].Name null
+SetField Palette[*].Type None
+SetField Palette[*].CategoryIndex -1
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].Object objects\block\shadow\house_big\house_big.scenery
+
+AddBlockElements Palette 1
+SetField Palette[*].Name null
+SetField Palette[*].Type None
+SetField Palette[*].CategoryIndex -1
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].Object objects\block\shadow\house_small\house_small.scenery
+
+AddBlockElements Palette 1
+SetField Palette[*].Name null
+SetField Palette[*].Type None
+SetField Palette[*].CategoryIndex -1
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].Object objects\block\shadow\lockout\lockout.scenery
+
+AddBlockElements Palette 1
+SetField Palette[*].Name null
+SetField Palette[*].Type None
+SetField Palette[*].CategoryIndex -1
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].Object objects\block\shadow\spleef_platform\spleef_platform.scenery
+
+AddBlockElements Palette 1
+SetField Palette[*].Name null
+SetField Palette[*].Type None
+SetField Palette[*].CategoryIndex -1
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].Object objects\block\shadow\spleef_structure\spleef_structure.scenery
+
+AddBlockElements Palette 1
+SetField Palette[*].Name null
+SetField Palette[*].Type None
+SetField Palette[*].CategoryIndex -1
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].Object objects\block\shadow\walls\walls.scenery
+
+AddBlockElements Palette 1
+SetField Palette[*].Name null
+SetField Palette[*].Type None
+SetField Palette[*].CategoryIndex -1
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].Object objects\block\water\plane\plane.scenery
+
+AddBlockElements Palette 1
+SetField Palette[*].Name null
+SetField Palette[*].Type None
+SetField Palette[*].CategoryIndex -1
+SetField Palette[*].DescriptionIndex -1
+SetField Palette[*].Object objects\block\water\well\well.scenery
+
+//MaximizeBudget
+SaveTagChanges
+Exit
