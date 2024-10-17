@@ -292,6 +292,6 @@ SetField Skies[*].Parameters levels\multi\village\sky\village.sky_atm_parameters
 SetField Skies[*].CameraFx levels\multi\village\village.camera_fx_settings
 SetField Skies[*].GlobalLighting levels\multi\village\village.chocolate_mountain_new
 
-//MaximizeBudget
+MaximizeBudget
 SaveTagChanges
 Exit
