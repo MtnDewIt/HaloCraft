@@ -1,5 +1,4 @@
 EditTag objects\gear\covenant\military\cov_sword_holder\cov_sword_holder_invis.crate
-AddBlockElements MultiplayerObject 1
 SetField MultiplayerObject[0].Flags CandyMonitorShouldIgnore
 SaveTagChanges
 Exit
