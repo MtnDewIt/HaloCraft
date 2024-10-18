@@ -1,7 +1,7 @@
-DebugTest levels\multi\village\village.scenario
-DebugTest levels\multi\spleef\spleef.scenario
-DebugTest levels\multi\mansion\mansion.scenario
-DebugTest levels\multi\lockout\lockout.scenario
+//DebugTest levels\multi\village\village.scenario
+//DebugTest levels\multi\spleef\spleef.scenario
+//DebugTest levels\multi\mansion\mansion.scenario
+//DebugTest levels\multi\lockout\lockout.scenario
 
 AddForgeCategory "HALOCRAFT" -1
 AddForgeCategory "MINECRAFT BLOCKS" "HALOCRAFT"
@@ -297,6 +297,6 @@ SetField Skies[*].Parameters levels\multi\village\sky\village.sky_atm_parameters
 SetField Skies[*].CameraFx levels\multi\village\village.camera_fx_settings
 SetField Skies[*].GlobalLighting levels\multi\village\village.chocolate_mountain_new
 
-MaximizeBudget
+//MaximizeBudget
 SaveTagChanges
 Exit
