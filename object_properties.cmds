@@ -9,7 +9,7 @@ SetField Flags ForceLooping,Deterministic
 SetField DeathDelay 0.1
 SetField LoopStartEvent -1
 AddBlockElements Locations
-SetField Locations[0].MarkerName block00
+SetField Locations[0].MarkerName item00
 
 AddBlockElements Events
 SetField Events[*].Name chest_item_00
