@@ -5,16 +5,33 @@ Exit
 
 CreateTag effe objects\block\wood\chest\chest_open
 EditTag objects\block\wood\chest\chest_open.effect
-SetField Flags ForceLooping,Deterministic
+
+StringId Add chest_item_00
+StringId Add chest_item_01
+StringId Add chest_item_02
+StringId Add chest_item_03
+StringId Add chest_item_04
+StringId Add chest_item_05
+StringId Add chest_item_06
+StringId Add chest_item_07
+StringId Add chest_item_08
+StringId Add chest_item_09
+StringId Add chest_item_10
+
+SetField Flags Deterministic,TintFromLightmap
 SetField DeathDelay 0.1
+SetField Priority Essential
 SetField LoopStartEvent -1
+
 AddBlockElements Locations
-SetField Locations[0].MarkerName item00
+SetField Locations[*].MarkerName item00
+SetField Locations[*].Priority Essential
 
 AddBlockElements Events
 SetField Events[*].Name chest_item_00
-SetField Events[*].SkipFraction 0.99
-SetField Events[*].DurationBounds 0.033333335 0.033333335
+SetField Events[*].SkipFraction 0.909
+SetField Events[*].DelayBounds 0.4 0.4
+SetField Events[*].DurationBounds 0.01666667 0.01666667
 AddBlockElements Events[*].Parts
 SetField Events[*].Parts[0].PrimaryLocation 0
 SetField Events[*].Parts[0].SecondaryLocation -1
@@ -24,11 +41,13 @@ SetField Events[*].Parts[0].RuntimeBaseGroupTag obje
 SetField Events[*].Parts[0].Type objects\weapons\support_high\rocket_launcher\rocket_launcher.weapon
 SetField Events[*].Parts[0].VelocityBounds -1 -1
 SetField Events[*].Parts[0].RadiusModifierBounds 0.1 0.1
+Setfield Events[*].Parts[0].RelativeOrientation 0 45
 
 AddBlockElements Events
 SetField Events[*].Name chest_item_01
-SetField Events[*].SkipFraction 0.99
-SetField Events[*].DurationBounds 0.033333335 0.033333335
+SetField Events[*].SkipFraction 0.909
+SetField Events[*].DelayBounds 0.4 0.4
+SetField Events[*].DurationBounds 0.01666667 0.01666667
 AddBlockElements Events[*].Parts
 SetField Events[*].Parts[0].PrimaryLocation 0
 SetField Events[*].Parts[0].SecondaryLocation -1
@@ -38,11 +57,13 @@ SetField Events[*].Parts[0].RuntimeBaseGroupTag obje
 SetField Events[*].Parts[0].Type objects\weapons\melee\energy_blade\energy_blade.weapon
 SetField Events[*].Parts[0].VelocityBounds -1 -1
 SetField Events[*].Parts[0].RadiusModifierBounds 0.1 0.1
+Setfield Events[*].Parts[0].RelativeOrientation 0 45
 
 AddBlockElements Events
 SetField Events[*].Name chest_item_02
-SetField Events[*].SkipFraction 0.99
-SetField Events[*].DurationBounds 0.033333335 0.033333335
+SetField Events[*].SkipFraction 0.909
+SetField Events[*].DelayBounds 0.4 0.4
+SetField Events[*].DurationBounds 0.01666667 0.01666667
 AddBlockElements Events[*].Parts
 SetField Events[*].Parts[0].PrimaryLocation 0
 SetField Events[*].Parts[0].SecondaryLocation -1
@@ -52,11 +73,13 @@ SetField Events[*].Parts[0].RuntimeBaseGroupTag obje
 SetField Events[*].Parts[0].Type objects\weapons\turret\flamethrower\flamethrower.weapon
 SetField Events[*].Parts[0].VelocityBounds -1 -1
 SetField Events[*].Parts[0].RadiusModifierBounds 0.1 0.1
+Setfield Events[*].Parts[0].RelativeOrientation 0 45
 
 AddBlockElements Events
 SetField Events[*].Name chest_item_03
-SetField Events[*].SkipFraction 0.99
-SetField Events[*].DurationBounds 0.033333335 0.033333335
+SetField Events[*].SkipFraction 0.909
+SetField Events[*].DelayBounds 0.4 0.4
+SetField Events[*].DurationBounds 0.01666667 0.01666667
 AddBlockElements Events[*].Parts
 SetField Events[*].Parts[0].PrimaryLocation 0
 SetField Events[*].Parts[0].SecondaryLocation -1
@@ -66,11 +89,13 @@ SetField Events[*].Parts[0].RuntimeBaseGroupTag obje
 SetField Events[*].Parts[0].Type objects\weapons\turret\machinegun_turret\machinegun_turret.weapon
 SetField Events[*].Parts[0].VelocityBounds -1 -1
 SetField Events[*].Parts[0].RadiusModifierBounds 0.1 0.1
+Setfield Events[*].Parts[0].RelativeOrientation 0 45
 
 AddBlockElements Events
 SetField Events[*].Name chest_item_04
-SetField Events[*].SkipFraction 0.99
-SetField Events[*].DurationBounds 0.033333335 0.033333335
+SetField Events[*].SkipFraction 0.909
+SetField Events[*].DelayBounds 0.4 0.4
+SetField Events[*].DurationBounds 0.01666667 0.01666667
 AddBlockElements Events[*].Parts
 SetField Events[*].Parts[0].PrimaryLocation 0
 SetField Events[*].Parts[0].SecondaryLocation -1
@@ -80,11 +105,13 @@ SetField Events[*].Parts[0].RuntimeBaseGroupTag obje
 SetField Events[*].Parts[0].Type objects\weapons\turret\plasma_cannon\plasma_cannon.weapon
 SetField Events[*].Parts[0].VelocityBounds -1 -1
 SetField Events[*].Parts[0].RadiusModifierBounds 0.1 0.1
+Setfield Events[*].Parts[0].RelativeOrientation 0 45
 
 AddBlockElements Events
 SetField Events[*].Name chest_item_05
-SetField Events[*].SkipFraction 0.99
-SetField Events[*].DurationBounds 0.033333335 0.033333335
+SetField Events[*].SkipFraction 0.909
+SetField Events[*].DelayBounds 0.4 0.4
+SetField Events[*].DurationBounds 0.01666667 0.01666667
 AddBlockElements Events[*].Parts
 SetField Events[*].Parts[0].PrimaryLocation 0
 SetField Events[*].Parts[0].SecondaryLocation -1
@@ -94,11 +121,13 @@ SetField Events[*].Parts[0].RuntimeBaseGroupTag obje
 SetField Events[*].Parts[0].Type objects\weapons\support_low\sentinel_gun\sentinel_gun.weapon
 SetField Events[*].Parts[0].VelocityBounds -1 -1
 SetField Events[*].Parts[0].RadiusModifierBounds 0.1 0.1
+Setfield Events[*].Parts[0].RelativeOrientation 0 45
 
 AddBlockElements Events
 SetField Events[*].Name chest_item_06
-SetField Events[*].SkipFraction 0.99
-SetField Events[*].DurationBounds 0.033333335 0.033333335
+SetField Events[*].SkipFraction 0.909
+SetField Events[*].DelayBounds 0.4 0.4
+SetField Events[*].DurationBounds 0.01666667 0.01666667
 AddBlockElements Events[*].Parts
 SetField Events[*].Parts[0].PrimaryLocation 0
 SetField Events[*].Parts[0].SecondaryLocation -1
@@ -108,11 +137,13 @@ SetField Events[*].Parts[0].RuntimeBaseGroupTag obje
 SetField Events[*].Parts[0].Type objects\weapons\rifle\beam_rifle\beam_rifle.weapon
 SetField Events[*].Parts[0].VelocityBounds -1 -1
 SetField Events[*].Parts[0].RadiusModifierBounds 0.1 0.1
+Setfield Events[*].Parts[0].RelativeOrientation 0 45
 
 AddBlockElements Events
 SetField Events[*].Name chest_item_07
-SetField Events[*].SkipFraction 0.99
-SetField Events[*].DurationBounds 0.033333335 0.033333335
+SetField Events[*].SkipFraction 0.909
+SetField Events[*].DelayBounds 0.4 0.4
+SetField Events[*].DurationBounds 0.01666667 0.01666667
 AddBlockElements Events[*].Parts
 SetField Events[*].Parts[0].PrimaryLocation 0
 SetField Events[*].Parts[0].SecondaryLocation -1
@@ -122,25 +153,29 @@ SetField Events[*].Parts[0].RuntimeBaseGroupTag obje
 SetField Events[*].Parts[0].Type objects\equipment\invincibility_equipment\invincibility_equipment.equipment
 SetField Events[*].Parts[0].VelocityBounds -1 -1
 SetField Events[*].Parts[0].RadiusModifierBounds 0.1 0.1
+Setfield Events[*].Parts[0].RelativeOrientation 0 45
 
 AddBlockElements Events
 SetField Events[*].Name chest_item_08
-SetField Events[*].SkipFraction 0.99
-SetField Events[*].DurationBounds 0.033333335 0.033333335
+SetField Events[*].SkipFraction 0.909
+SetField Events[*].DelayBounds 0.4 0.4
+SetField Events[*].DurationBounds 0.01666667 0.01666667
 AddBlockElements Events[*].Parts
 SetField Events[*].Parts[0].PrimaryLocation 0
 SetField Events[*].Parts[0].SecondaryLocation -1
 SetField Events[*].Parts[0].Flags OffsetOriginAwayFromGeometry
 SetField Events[*].Parts[0].Priority AboveNormal
 SetField Events[*].Parts[0].RuntimeBaseGroupTag obje
-//SetField Events[*].Parts[0].Type null // This is technically the autoturret
+SetField Events[*].Parts[0].Type objects\equipment\concussiveblast_equipment\concussiveblast_equipment.equipment // This is technically the autoturret
 SetField Events[*].Parts[0].VelocityBounds -1 -1
 SetField Events[*].Parts[0].RadiusModifierBounds 0.1 0.1
+Setfield Events[*].Parts[0].RelativeOrientation 0 45
 
 AddBlockElements Events
 SetField Events[*].Name chest_item_09
-SetField Events[*].SkipFraction 0.99
-SetField Events[*].DurationBounds 0.033333335 0.033333335
+SetField Events[*].SkipFraction 0.909
+SetField Events[*].DelayBounds 0.4 0.4
+SetField Events[*].DurationBounds 0.01666667 0.01666667
 AddBlockElements Events[*].Parts
 SetField Events[*].Parts[0].PrimaryLocation 0
 SetField Events[*].Parts[0].SecondaryLocation -1
@@ -150,11 +185,13 @@ SetField Events[*].Parts[0].RuntimeBaseGroupTag obje
 SetField Events[*].Parts[0].Type objects\weapons\support_high\spartan_laser\spartan_laser.weapon
 SetField Events[*].Parts[0].VelocityBounds -1 -1
 SetField Events[*].Parts[0].RadiusModifierBounds 0.1 0.1
+Setfield Events[*].Parts[0].RelativeOrientation 0 45
 
 AddBlockElements Events
 SetField Events[*].Name chest_item_10
-SetField Events[*].SkipFraction 0.99
-SetField Events[*].DurationBounds 0.033333335 0.033333335
+SetField Events[*].SkipFraction 0.909
+SetField Events[*].DelayBounds 0.4 0.4
+SetField Events[*].DurationBounds 0.01666667 0.01666667
 AddBlockElements Events[*].Parts
 SetField Events[*].Parts[0].PrimaryLocation 0
 SetField Events[*].Parts[0].SecondaryLocation -1
@@ -164,6 +201,7 @@ SetField Events[*].Parts[0].RuntimeBaseGroupTag obje
 SetField Events[*].Parts[0].Type objects\weapons\turret\missile_pod\missile_pod.weapon
 SetField Events[*].Parts[0].VelocityBounds -1 -1
 SetField Events[*].Parts[0].RadiusModifierBounds 0.1 0.1
+Setfield Events[*].Parts[0].RelativeOrientation 0 45
 
 SetField LocationIndex -1
 SetField BindScaleToEvent -1
