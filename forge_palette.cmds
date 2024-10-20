@@ -1,7 +1,7 @@
-//DebugTest levels\multi\village\village.scenario
-//DebugTest levels\multi\spleef\spleef.scenario
-//DebugTest levels\multi\mansion\mansion.scenario
-//DebugTest levels\multi\lockout\lockout.scenario
+DebugTest levels\multi\village\village.scenario
+DebugTest levels\multi\spleef\spleef.scenario
+DebugTest levels\multi\mansion\mansion.scenario
+DebugTest levels\multi\lockout\lockout.scenario
 
 AddForgeCategory "HALOCRAFT" -1
 AddForgeCategory "MINECRAFT BLOCKS" "HALOCRAFT"
