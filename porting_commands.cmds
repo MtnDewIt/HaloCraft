@@ -45,6 +45,8 @@ IgnoreBlamTag \objects\block\wood\table\table.scenery
 IgnoreBlamTag \objects\block\wood\torch_wall\torch_wall.scenery
 IgnoreBlamTag \objects\block\wood\wall_desks\wall_desks.scenery
 IgnoreBlamTag \objects\block\wool\bed\bed.scenery
+IgnoreBlamTag objects\block\shadow\roof\roof.scenery
+IgnoreBlamTag objects\block\shadow\roof_facade\roof_facade.scenery
 IgnoreBlamTag objects\equipment\autoturret_equipment\autoturret_equipment.equipment
 IgnoreBlamTag objects\weapons\rifle\smg_silenced\smg_silenced.weapon
 IgnoreBlamTag objects\weapons\pistol\automag\automag.weapon

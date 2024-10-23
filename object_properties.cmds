@@ -209,7 +209,7 @@ SetField RuntimeLocalSpaceDeathDelay 0.1
 SaveTagChanges
 Exit
 
-EditTag objects\block\wood\chest\chest.device_machine
-SetField OpenUp objects\block\wood\chest\chest_open.effect
-SaveTagChanges
-Exit
+## EditTag objects\block\wood\chest\chest.device_machine
+## SetField OpenUp objects\block\wood\chest\chest_open.effect
+## SaveTagChanges
+## Exit

@@ -205,70 +205,17 @@ AddForgeItem "OAK DOOR, RIGHT" "DOORS" objects\block\wood\door_right\door_right.
 AddForgeItem "IRON DOOR, LEFT" "DOORS" objects\block\metal\door_left\door_left.device_machine
 AddForgeItem "IRON DOOR, RIGHT" "DOORS" objects\block\metal\door_right\door_right.device_machine
 
+AddForgeItem "HOUSE LARGE SHADOW" "HALOCRAFT" objects\block\shadow\house_big\house_big.scenery
+AddForgeItem "HOUSE SMALL SHADOW" "HALOCRAFT" objects\block\shadow\house_small\house_small.scenery
+AddForgeItem "LOCKOUT SHADOW" "HALOCRAFT" objects\block\shadow\lockout\lockout.scenery
+AddForgeItem "SPLEEF PLATFORM SHADOW" "HALOCRAFT" objects\block\shadow\spleef_platform\spleef_platform.scenery
+AddForgeItem "SPLEEF SAFEZONE" "HALOCRAFT" objects\block\safezone\spleef\spleef.crate
+AddForgeItem "SPLEEF STRUCTURE SHADOW" "HALOCRAFT" objects\block\shadow\spleef_structure\spleef_structure.scenery
+AddForgeItem "WALL SHADOW" "HALOCRAFT" objects\block\shadow\walls\walls.scenery
+AddForgeItem "WATER PLANE" "HALOCRAFT" objects\block\water\plane\plane.scenery
+AddForgeItem "WELL WATER PLANE" "HALOCRAFT" objects\block\water\well\well.scenery
+
 EditTag multiplayer\forge_globals.forge_globals_definition
-
-AddBlockElements Palette
-SetField Palette[*].Name null
-SetField Palette[*].Type None
-SetField Palette[*].CategoryIndex -1
-SetField Palette[*].DescriptionIndex -1
-SetField Palette[*].Object objects\block\safezone\spleef\spleef.crate
-
-AddBlockElements Palette
-SetField Palette[*].Name null
-SetField Palette[*].Type None
-SetField Palette[*].CategoryIndex -1
-SetField Palette[*].DescriptionIndex -1
-SetField Palette[*].Object objects\block\shadow\house_big\house_big.scenery
-
-AddBlockElements Palette
-SetField Palette[*].Name null
-SetField Palette[*].Type None
-SetField Palette[*].CategoryIndex -1
-SetField Palette[*].DescriptionIndex -1
-SetField Palette[*].Object objects\block\shadow\house_small\house_small.scenery
-
-AddBlockElements Palette
-SetField Palette[*].Name null
-SetField Palette[*].Type None
-SetField Palette[*].CategoryIndex -1
-SetField Palette[*].DescriptionIndex -1
-SetField Palette[*].Object objects\block\shadow\lockout\lockout.scenery
-
-AddBlockElements Palette
-SetField Palette[*].Name null
-SetField Palette[*].Type None
-SetField Palette[*].CategoryIndex -1
-SetField Palette[*].DescriptionIndex -1
-SetField Palette[*].Object objects\block\shadow\spleef_platform\spleef_platform.scenery
-
-AddBlockElements Palette
-SetField Palette[*].Name null
-SetField Palette[*].Type None
-SetField Palette[*].CategoryIndex -1
-SetField Palette[*].DescriptionIndex -1
-SetField Palette[*].Object objects\block\shadow\spleef_structure\spleef_structure.scenery
-
-AddBlockElements Palette
-SetField Palette[*].Name null
-SetField Palette[*].Type None
-SetField Palette[*].CategoryIndex -1
-SetField Palette[*].DescriptionIndex -1
-SetField Palette[*].Object objects\block\shadow\walls\walls.scenery
-
-AddBlockElements Palette
-SetField Palette[*].Name null
-SetField Palette[*].Type None
-SetField Palette[*].CategoryIndex -1
-SetField Palette[*].DescriptionIndex -1
-SetField Palette[*].Object objects\block\water\plane\plane.scenery
-
-AddBlockElements Palette
-SetField Palette[*].Name null
-SetField Palette[*].Type None
-SetField Palette[*].CategoryIndex -1
-SetField Palette[*].DescriptionIndex -1
-SetField Palette[*].Object objects\block\water\well\well.scenery
 
 AddBlockElements Skies
 SetField Skies[*].Name "Blockout"
@@ -297,6 +244,6 @@ SetField Skies[*].Parameters levels\multi\village\sky\village.sky_atm_parameters
 SetField Skies[*].CameraFx levels\multi\village\village.camera_fx_settings
 SetField Skies[*].GlobalLighting levels\multi\village\village.chocolate_mountain_new
 
-//MaximizeBudget
+MaximizeBudget
 SaveTagChanges
 Exit
