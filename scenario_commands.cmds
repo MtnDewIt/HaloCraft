@@ -7,6 +7,17 @@ SetField CutsceneCameraPoints[1].Name "podium_camera"
 SetField CutsceneCameraPoints[1].Position -1.1663 -4.9698 0.8042
 SetField CutsceneCameraPoints[1].Orientation 90 0 0
 SetField CutsceneCameraPoints[1].Flags PodiumCameraHack
+SetField Equipment[9].PaletteIndex -1
+SetField Equipment[10].PaletteIndex -1
+SetField Weapons[11].PaletteIndex -1
+SetField Weapons[12].PaletteIndex -1
+SetField Weapons[13].PaletteIndex -1
+SetField Weapons[14].PaletteIndex -1
+SetField Weapons[15].PaletteIndex -1
+SetField Weapons[16].PaletteIndex -1
+SetField Weapons[17].PaletteIndex -1
+SetField Weapons[18].PaletteIndex -1
+SetField Weapons[19].PaletteIndex -1
 CompileScripts ModDataPath\data\scripts\village.hsc
 ConvertPlacementLightprobes
 SaveTagChanges
@@ -194,6 +205,17 @@ SetField Scenery[155].PaletteIndex 23
 SetField Scenery[156].PaletteIndex 51
 SetField Scenery[157].PaletteIndex 51
 SetField Scenery[158].PaletteIndex 19
+SetField Equipment[15].PaletteIndex -1
+SetField Equipment[16].PaletteIndex -1
+SetField Weapons[17].PaletteIndex -1
+SetField Weapons[18].PaletteIndex -1
+SetField Weapons[19].PaletteIndex -1
+SetField Weapons[20].PaletteIndex -1
+SetField Weapons[21].PaletteIndex -1
+SetField Weapons[22].PaletteIndex -1
+SetField Weapons[23].PaletteIndex -1
+SetField Weapons[24].PaletteIndex -1
+SetField Weapons[25].PaletteIndex -1
 CompileScripts ModDataPath\data\scripts\mansion.hsc
 ConvertPlacementLightprobes
 SaveTagChanges
