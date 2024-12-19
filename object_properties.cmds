@@ -2,3 +2,33 @@ EditTag objects\gear\covenant\military\cov_sword_holder\cov_sword_holder_invis.c
 SetField MultiplayerObject[0].Flags CandyMonitorShouldIgnore
 SaveTagChanges
 Exit
+
+# Replace render models with the ones that don't cause a crash to fix the crash!
+OpenCacheFile CacheFilePath\village.map
+PortTag Replace Single objects\weapons\melee\gravity_hammer\gravity_hammer.render_model
+PortTag Replace Single objects\weapons\melee\gravity_hammer\fp_gravity_hammer\fp_gravity_hammer.render_model
+Exit
+
+# Import back fixed HO .dae model for third person
+EditTag objects\weapons\melee\gravity_hammer\gravity_hammer.render_model
+SetField Nodes[0].Name hammer
+ReplaceRenderGeometry ModDataPath\models\gravity_hammer.dae
+RemoveBlockElements Materials 0 *
+AddBlockElements Materials 3
+SetField Materials[0].RenderMethod objects\weapons\melee\gravity_hammer\shaders\hammer.shader
+SetField Materials[1].RenderMethod objects\weapons\melee\gravity_hammer\shaders\hammer_dull.shader
+SetField Materials[2].RenderMethod objects\weapons\melee\gravity_hammer\shaders\hammer_shiny.shader
+SaveTagChanges
+Exit
+
+# Import back fixed HO .dae model for first person
+EditTag objects\weapons\melee\gravity_hammer\fp_gravity_hammer\fp_gravity_hammer.render_model
+SetField Nodes[0].Name hammer
+ReplaceRenderGeometry ModDataPath\models\gravity_hammer.dae
+RemoveBlockElements Materials 0 *
+AddBlockElements Materials 3
+SetField Materials[0].RenderMethod objects\weapons\melee\gravity_hammer\shaders\hammer.shader
+SetField Materials[1].RenderMethod objects\weapons\melee\gravity_hammer\shaders\hammer_dull.shader
+SetField Materials[2].RenderMethod objects\weapons\melee\gravity_hammer\shaders\hammer_shiny.shader
+SaveTagChanges
+Exit
