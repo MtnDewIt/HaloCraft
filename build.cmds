@@ -8,7 +8,7 @@ HaloCraft
 A Multiplayer Map Pack of 4 Destructible Minecraft Maps and More!
 MtnDewIt
 0.1
-Multiplayer
+Multiplayer MainMenu Character
 
 UpdateShaderData
 
@@ -31,6 +31,10 @@ RunCommands ModDataPath\object_properties.cmds
 RunCommands ModDataPath\global_commands.cmds
 
 RunCommands ModDataPath\map_commands.cmds
+
+OpenModPackage ModDataPath\paks\MCCustomization.pak
+ApplyModPackage
+ExitModPackage
 
 AddModFiles ModDataPath\assets
 
