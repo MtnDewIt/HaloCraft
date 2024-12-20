@@ -206,7 +206,7 @@
 	(sleep 300)
 	(pdm_show_ui_place -1 -1)
 	(sleep 25)
-	(sound_impulse_start "sound\game_sfx\ui\scoreboard\podium_appear_whoosh" "none" 1)
+	(sound_impulse_start "sound\ui\scoreboard\appear_whoosh" "none" 1)
 	(sleep_forever)
 )
 
@@ -217,7 +217,7 @@
 	(effect_new_on_object_marker (pdm_get_respawn_effect 2) (player_get_by_idx player_3_index) "body")
 	(sleep 2)
 	(pdm_show_ui_place 3 -1)
-	(sound_impulse_start "sound\game_sfx\multiplayer\podium_third_place" "none" 1)
+	(sound_impulse_start "sound\podium\third_place" "none" 1)
 	(object_hide (player_get_by_idx player_3_index) false)
 	(sleep_until (begin
 		(sleep (unit_get_custom_animation_time (unit (player_get_by_idx player_3_index))))
@@ -235,7 +235,7 @@
 	(effect_new_on_object_marker (pdm_get_respawn_effect 1) (player_get_by_idx player_2_index) "body")
 	(sleep 2)
 	(pdm_show_ui_place 2 -1)
-	(sound_impulse_start "sound\game_sfx\multiplayer\podium_second_place" "none" 1)
+	(sound_impulse_start "sound\podium\second_place" "none" 1)
 	(object_hide (player_get_by_idx player_2_index) false)
 	(sleep_until (begin
 		(sleep (unit_get_custom_animation_time (unit (player_get_by_idx player_2_index))))
@@ -253,7 +253,7 @@
 	(effect_new_on_object_marker (pdm_get_respawn_effect 0) (player_get_by_idx player_1_index) "body")
 	(sleep 2)
 	(pdm_show_ui_place 1 player_1_index)
-	(sound_impulse_start "sound\game_sfx\multiplayer\podium_first_place" "none" 1)
+	(sound_impulse_start "sound\podium\first_place" "none" 1)
 	(object_hide (player_get_by_idx player_1_index) false)
 	(sleep_until (begin
 		(sleep (unit_get_custom_animation_time (unit (player_get_by_idx player_1_index))))
