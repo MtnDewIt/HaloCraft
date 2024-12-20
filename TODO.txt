@@ -7,3 +7,5 @@
 - Fix random item chests: These used to work via the scenario script, however the weapons were removed from the scenario to increase the forge budget. Current solution is to create a custom effect to spawn a random weapon
 
 - Fix issues with objects at (0, 0, 0): This is an engine issue with how the game handles variant placements. Current solution is to just add the affected objects as scenario placements
+
+- Fix ALL crashes caused by distortion particle tags: No real idea what is causing this issue. Will require some investigation
