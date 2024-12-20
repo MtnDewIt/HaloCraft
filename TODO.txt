@@ -1,0 +1,11 @@
+- Look into issues with map lighting: For some reason the shadow objects on some of the maps is extremely dark when compared to MCC
+
+- Look into issues with torch particle: For some reason the texture data ahs been flipped around 180 degrees
+
+- Look into issues with object collision no updating correctly:  One example is the seats in the bookshelf room on mansion
+
+- Fix door switches on maps which use doors: Currently the doors are in the forge palette, but the switches are linked via the scenario script. Current solution is to manually setup the doors in forge, and add the invisble switch to the forge palette
+
+- Fix random item chests: These used to work via the scenario script, however the weapons were removed from the scenario to increase the forge budget. Current solution is to create a custom effect to spawn a weapon randomly
+
+- Fix issues with objects at (0, 0, 0): This an engine issues with how the game handles variant placements. Current solution it to just the affacted objects as scenario placements
