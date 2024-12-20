@@ -9,10 +9,20 @@ removeblockelements Events[0].ParticleSystems 0 1
 SaveTagChanges
 Exit
 
-
 # Fix hammer impact effect, distortion particles cause a crash
 EditTag objects\weapons\melee\gravity_hammer\fx\gravity_hammer_impact.effect
 removeblockelements Events[0].ParticleSystems 0 1
 removeblockelements Events[0].ParticleSystems 0 1
+SaveTagChanges
+Exit
+
+# Fix torch particle texture being inverted
+edittag objects\block\wood\torch\fx\flame.particle
+SetField RenderMethod.ShaderProperties[0].RealConstants[0].Values -1 -1 1 1
+SaveTagChanges
+Exit
+
+EditTag objects\block\dark_wood\torch_post\fx\flame.particle
+SetField RenderMethod.ShaderProperties[0].RealConstants[0].Values -1 -1 1 1
 SaveTagChanges
 Exit
