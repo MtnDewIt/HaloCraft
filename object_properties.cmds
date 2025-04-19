@@ -3,21 +3,20 @@ SetField MultiplayerObject[0].Flags CandyMonitorShouldIgnore
 SaveTagChanges
 Exit
 
-# Fix hammer fp impact effect, distortion particles cause a crash
-EditTag objects\weapons\melee\gravity_hammer\fx\fp_gravity_hammer_impact.effect
-removeblockelements Events[0].ParticleSystems 0 1
-SaveTagChanges
-Exit
-
-# Fix hammer impact effect, distortion particles cause a crash
-EditTag objects\weapons\melee\gravity_hammer\fx\gravity_hammer_impact.effect
-removeblockelements Events[0].ParticleSystems 0 1
-removeblockelements Events[0].ParticleSystems 0 1
-SaveTagChanges
-Exit
+# Crate should be used for any block that has physics model
+ForEach scen contains: objects\block setfield ObjectType.Halo3ODST Crate
+ForEach scen contains: objects\block\glass setfield ObjectType.Halo3ODST Scenery
+ForEach scen contains: objects\block\shadow setfield ObjectType.Halo3ODST Scenery
+ForEach scen contains: objects\block\tall_grass setfield ObjectType.Halo3ODST Scenery
+ForEach scen contains: objects\block\flower setfield ObjectType.Halo3ODST Scenery
+ForEach scen contains: objects\block\dark_wood\torch setfield ObjectType.Halo3ODST Scenery
+ForEach scen contains: objects\block\wood\torch setfield ObjectType.Halo3ODST Scenery
+ForEach scen contains: objects\block\wood\library_seat_two setfield ObjectType.Halo3ODST Scenery
+ForEach scen contains: objects\block\wood\house_big_fence setfield ObjectType.Halo3ODST Scenery
+ForEach scen contains: objects\block\wood\table setfield ObjectType.Halo3ODST Scenery
 
 # Fix torch particle texture being inverted
-edittag objects\block\wood\torch\fx\flame.particle
+EditTag objects\block\wood\torch\fx\flame.particle
 SetField RenderMethod.ShaderProperties[0].RealConstants[0].Values -1 -1 1 1
 SaveTagChanges
 Exit
@@ -26,3 +25,183 @@ EditTag objects\block\dark_wood\torch_post\fx\flame.particle
 SetField RenderMethod.ShaderProperties[0].RealConstants[0].Values -1 -1 1 1
 SaveTagChanges
 Exit
+
+edittag globals\globals.globals
+addblockelements Materials
+setfield Materials[245].Name minecraft_dirt
+setfield Materials[245].ParentName tough_terrain_dirt
+setfield Materials[245].RuntimeMaterialIndex 48
+setfield Materials[245].GeneralArmor minecraft
+setfield Materials[245].Friction 0.8
+setfield Materials[245].Restitution 0.15
+setfield Materials[245].Density 1750
+setfield Materials[245].SoundSweetenerSmall sound\materials\tough\terrain_dirt\dirt_small.sound
+setfield Materials[245].SoundSweetenerMedium sound\materials\tough\terrain_dirt\dirt_med.sound
+setfield Materials[245].SoundSweetenerLarge sound\materials\tough\terrain_dirt\dirt_large.sound
+setfield Materials[245].SoundSweetenerRolling sound\materials\tough\terrain_dirt\dirt_looping\dirt_looping.sound_looping
+setfield Materials[245].SoundSweetenerMeleeSmall sound\materials\tough\terrain_dirt\dirt_small.sound
+setfield Materials[245].SoundSweetenerMeleeMedium sound\materials\tough\terrain_dirt\dirt_med.sound
+setfield Materials[245].SoundSweetenerMeleeLarge sound\materials\tough\terrain_dirt\dirt_large.sound
+setfield Materials[245].MaterialEffects fx\material_effects\materials\tough\terrain_dirt.material_effects
+addblockelements Materials[245].UnderwaterProxies
+setfield Materials[245].UnderwaterProxies[0].SurfaceName liquid_thin_water
+setfield Materials[245].UnderwaterProxies[0].SubmergedName submerged_default_material
+setfield Materials[245].UnderwaterProxies[0].SurfaceIndex 3
+setfield Materials[245].UnderwaterProxies[0].SubmergedIndex 207
+setfield Materials[245].RuntimeRainMaterialIndex -1
+addblockelements Materials
+setfield Materials[246].Name minecraft_foliage
+setfield Materials[246].ParentName soft_organic_plant
+setfield Materials[246].RuntimeMaterialIndex 17
+setfield Materials[246].GeneralArmor minecraft
+setfield Materials[246].Friction 0.85
+setfield Materials[246].Restitution 0.4
+setfield Materials[246].Density 750
+setfield Materials[246].SoundSweetenerSmall sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actor.sound
+setfield Materials[246].SoundSweetenerMedium sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actor.sound
+setfield Materials[246].SoundSweetenerLarge sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actor.sound
+setfield Materials[246].SoundSweetenerRolling sound\materials\soft\soft_organic_plant_leafy_dynamic\soft_organic_plant_leafy_dynamic\soft_organic_plant_leafy_dynamic.sound_looping
+setfield Materials[246].SoundSweetenerMeleeSmall sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actee.sound
+setfield Materials[246].SoundSweetenerMeleeMedium sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actee.sound
+setfield Materials[246].SoundSweetenerMeleeLarge sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actee.sound
+setfield Materials[246].MaterialEffects fx\material_effects\materials\soft\soft_organic_plant.material_effects
+addblockelements Materials[246].UnderwaterProxies
+setfield Materials[246].UnderwaterProxies[0].SurfaceName liquid_thin_water
+setfield Materials[246].UnderwaterProxies[0].SubmergedName submerged_default_material
+setfield Materials[246].UnderwaterProxies[0].SurfaceIndex 3
+setfield Materials[246].UnderwaterProxies[0].SubmergedIndex 207
+setfield Materials[246].RuntimeRainMaterialIndex -1
+addblockelements Materials
+setfield Materials[247].Name minecraft_glass
+setfield Materials[247].ParentName brittle_glass
+setfield Materials[247].RuntimeMaterialIndex 107
+setfield Materials[247].GeneralArmor minecraft
+setfield Materials[247].Friction 0.6
+setfield Materials[247].Restitution 0.1
+setfield Materials[247].Density 2750
+setfield Materials[247].BreakableSurface globals\glass.breakable_surface
+setfield Materials[247].SoundSweetenerSmall sound\materials\brittle\glass\glass_small.sound
+setfield Materials[247].SoundSweetenerMedium sound\materials\brittle\glass\glass_med.sound
+setfield Materials[247].SoundSweetenerLarge sound\materials\brittle\glass\glass_med.sound
+setfield Materials[247].SoundSweetenerRolling sound\materials\brittle\glass\glass_looping\glass_looping.sound_looping
+setfield Materials[247].SoundSweetenerMeleeSmall sound\materials\brittle\glass\glass_med.sound
+setfield Materials[247].SoundSweetenerMeleeMedium sound\materials\brittle\glass\glass_med.sound
+setfield Materials[247].SoundSweetenerMeleeLarge sound\materials\brittle\glass\glass_med.sound
+setfield Materials[247].MaterialEffects fx\material_effects\materials\brittle\glass.material_effects
+addblockelements Materials[247].UnderwaterProxies
+setfield Materials[247].UnderwaterProxies[0].SurfaceName liquid_thin_water
+setfield Materials[247].UnderwaterProxies[0].SubmergedName submerged_default_material
+setfield Materials[247].UnderwaterProxies[0].SurfaceIndex 3
+setfield Materials[247].UnderwaterProxies[0].SubmergedIndex 207
+setfield Materials[247].RuntimeRainMaterialIndex -1
+addblockelements Materials
+setfield Materials[248].Name minecraft_grass
+setfield Materials[248].ParentName tough_terrain_dirt
+setfield Materials[248].RuntimeMaterialIndex 48
+setfield Materials[248].GeneralArmor minecraft
+setfield Materials[248].Friction 0.8
+setfield Materials[248].Restitution 0.15
+setfield Materials[248].Density 1750
+setfield Materials[248].SoundSweetenerSmall sound\materials\tough\terrain_grass\grass_small.sound
+setfield Materials[248].SoundSweetenerMedium sound\materials\tough\terrain_grass\grass_med.sound
+setfield Materials[248].SoundSweetenerLarge sound\materials\tough\terrain_grass\grass_med.sound
+setfield Materials[248].SoundSweetenerRolling sound\materials\tough\terrain_grass\grass_looping\grass_looping.sound_looping
+setfield Materials[248].SoundSweetenerMeleeSmall sound\materials\tough\terrain_grass\grass_med.sound
+setfield Materials[248].SoundSweetenerMeleeMedium sound\materials\tough\terrain_grass\grass_med.sound
+setfield Materials[248].SoundSweetenerMeleeLarge sound\materials\tough\terrain_grass\grass_med.sound
+setfield Materials[248].MaterialEffects fx\material_effects\materials\tough\terrain_dirt.material_effects
+addblockelements Materials[248].UnderwaterProxies
+setfield Materials[248].UnderwaterProxies[0].SurfaceName liquid_thin_water
+setfield Materials[248].UnderwaterProxies[0].SubmergedName submerged_default_material
+setfield Materials[248].UnderwaterProxies[0].SurfaceIndex 3
+setfield Materials[248].UnderwaterProxies[0].SubmergedIndex 207
+setfield Materials[248].RuntimeRainMaterialIndex -1
+addblockelements Materials
+setfield Materials[249].Name minecraft_leaves
+setfield Materials[249].ParentName soft_organic_plant
+setfield Materials[249].RuntimeMaterialIndex 17
+setfield Materials[249].Friction 0.85
+setfield Materials[249].Restitution 0.4
+setfield Materials[249].Density 750
+setfield Materials[249].SoundSweetenerSmall sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actor.sound
+setfield Materials[249].SoundSweetenerMedium sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actor.sound
+setfield Materials[249].SoundSweetenerLarge sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actor.sound
+setfield Materials[249].SoundSweetenerRolling sound\materials\soft\soft_organic_plant_leafy_dynamic\soft_organic_plant_leafy_dynamic\soft_organic_plant_leafy_dynamic.sound_looping
+setfield Materials[249].SoundSweetenerMeleeSmall sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actee.sound
+setfield Materials[249].SoundSweetenerMeleeMedium sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actee.sound
+setfield Materials[249].SoundSweetenerMeleeLarge sound\materials\soft\soft_organic_plant\soft_organic_plant_hits_actee.sound
+setfield Materials[249].MaterialEffects fx\material_effects\materials\soft\soft_organic_plant.material_effects
+addblockelements Materials[249].UnderwaterProxies
+setfield Materials[249].UnderwaterProxies[0].SurfaceName liquid_thin_water
+setfield Materials[249].UnderwaterProxies[0].SubmergedName submerged_default_material
+setfield Materials[249].UnderwaterProxies[0].SurfaceIndex 3
+setfield Materials[249].UnderwaterProxies[0].SubmergedIndex 207
+setfield Materials[249].RuntimeRainMaterialIndex -1
+addblockelements Materials
+setfield Materials[250].Name minecraft_stone
+setfield Materials[250].ParentName hard_terrain_stone
+setfield Materials[250].RuntimeMaterialIndex 102
+setfield Materials[250].GeneralArmor minecraft
+setfield Materials[250].Friction 0.85
+setfield Materials[250].Restitution 0.3
+setfield Materials[250].Density 6500
+setfield Materials[250].SoundSweetenerSmall sound\materials\hard\terrain_stone\stone_small.sound
+setfield Materials[250].SoundSweetenerMedium sound\materials\hard\terrain_stone\stone_med.sound
+setfield Materials[250].SoundSweetenerLarge sound\materials\hard\terrain_stone\stone_med.sound
+setfield Materials[250].SoundSweetenerRolling sound\materials\hard\terrain_stone\stone_looping\stone_looping.sound_looping
+setfield Materials[250].SoundSweetenerMeleeSmall sound\materials\hard\terrain_stone\stone_med.sound
+setfield Materials[250].SoundSweetenerMeleeMedium sound\materials\hard\terrain_stone\stone_med.sound
+setfield Materials[250].SoundSweetenerMeleeLarge sound\materials\hard\terrain_stone\stone_med.sound
+setfield Materials[250].MaterialEffects fx\material_effects\materials\hard\terrain_stone.material_effects
+addblockelements Materials[250].UnderwaterProxies
+setfield Materials[250].UnderwaterProxies[0].SurfaceName liquid_thin_water
+setfield Materials[250].UnderwaterProxies[0].SubmergedName submerged_default_material
+setfield Materials[250].UnderwaterProxies[0].SurfaceIndex 3
+setfield Materials[250].UnderwaterProxies[0].SubmergedIndex 207
+setfield Materials[250].RuntimeRainMaterialIndex -1
+addblockelements Materials
+setfield Materials[251].Name minecraft_wood
+setfield Materials[251].ParentName tough_terrain_woodfloor
+setfield Materials[251].RuntimeMaterialIndex 171
+setfield Materials[251].GeneralArmor minecraft
+setfield Materials[251].Friction 0.8
+setfield Materials[251].Restitution 0.15
+setfield Materials[251].Density 1750
+setfield Materials[251].SoundSweetenerSmall sound\materials\tough\organic_wood\wood_med.sound
+setfield Materials[251].SoundSweetenerMedium sound\materials\tough\organic_wood\wood_med.sound
+setfield Materials[251].SoundSweetenerLarge sound\materials\tough\organic_wood\wood_med.sound
+setfield Materials[251].SoundSweetenerRolling sound\materials\tough\organic_wood\wood_looping\wood_looping.sound_looping
+setfield Materials[251].SoundSweetenerMeleeSmall sound\materials\tough\organic_wood\wood_med.sound
+setfield Materials[251].SoundSweetenerMeleeMedium sound\materials\tough\organic_wood\wood_med.sound
+setfield Materials[251].SoundSweetenerMeleeLarge sound\materials\tough\organic_wood\wood_med.sound
+setfield Materials[251].MaterialEffects fx\material_effects\materials\tough\terrain_dirt.material_effects
+addblockelements Materials[251].UnderwaterProxies
+setfield Materials[251].UnderwaterProxies[0].SurfaceName liquid_thin_water
+setfield Materials[251].UnderwaterProxies[0].SubmergedName submerged_default_material
+setfield Materials[251].UnderwaterProxies[0].SurfaceIndex 3
+setfield Materials[251].UnderwaterProxies[0].SubmergedIndex 207
+setfield Materials[251].RuntimeRainMaterialIndex -1
+addblockelements Materials
+setfield Materials[252].Name minecraft_barrier
+setfield Materials[252].ParentName energy
+setfield Materials[252].RuntimeMaterialIndex 144
+setfield Materials[252].GeneralArmor energy_shield_thin
+setfield Materials[252].Friction 0.5
+setfield Materials[252].Restitution 0.1
+setfield Materials[252].Density 1
+setfield Materials[252].SoundSweetenerSmall sound\materials\energy\energy_small.sound
+setfield Materials[252].SoundSweetenerMedium sound\materials\energy\energy_medium.sound
+setfield Materials[252].SoundSweetenerLarge sound\materials\energy\energy_medium.sound
+setfield Materials[252].SoundSweetenerRolling sound\materials\energy\blue_plasma_looping\blue_plasma_looping.sound_looping
+setfield Materials[252].SoundSweetenerMeleeSmall sound\materials\energy\energy_medium.sound
+setfield Materials[252].SoundSweetenerMeleeMedium sound\materials\energy\energy_medium.sound
+setfield Materials[252].SoundSweetenerMeleeLarge sound\materials\energy\energy_medium.sound
+setfield Materials[252].MaterialEffects fx\material_effects\materials\energy\energy.material_effects
+addblockelements Materials[252].UnderwaterProxies
+setfield Materials[252].UnderwaterProxies[0].SurfaceName liquid_thin_water
+setfield Materials[252].UnderwaterProxies[0].SubmergedName submerged_default_material
+setfield Materials[252].UnderwaterProxies[0].SurfaceIndex 3
+setfield Materials[252].UnderwaterProxies[0].SubmergedIndex 207
+setfield Materials[252].RuntimeRainMaterialIndex -1
+savetagchanges
+exit

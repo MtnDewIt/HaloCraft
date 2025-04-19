@@ -61,3 +61,18 @@ SetField Blf.Scenario.GameEngineTeamCounts.AssaultTeamCount 8
 SetField Blf.Scenario.GameEngineTeamCounts.InfectionTeamCount 8
 SaveMapChanges
 Exit
+
+EditTag levels\multi\lockout\lockout.scenario
+ImportMapVariant MapFile ModDataPath\map_variants\Lockout
+SaveTagChanges
+Exit
+
+EditTag levels\multi\mansion\mansion.scenario
+ImportMapVariant MapFile ModDataPath\map_variants\Mansion
+SaveTagChanges
+Exit
+
+EditTag levels\multi\village\village.scenario
+ImportMapVariant MapFile ModDataPath\map_variants\Village
+SaveTagChanges
+Exit
