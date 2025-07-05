@@ -10,7 +10,7 @@ MtnDewIt
 0.1
 Multiplayer MainMenu Character
 
-UpdateShaderData
+## UpdateShaderData
 
 GenerateShader glps shader 
 GenerateShader glvs shader
